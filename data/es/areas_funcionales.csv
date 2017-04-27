@@ -1,0 +1,80 @@
+#Área,Política,Grupo,Programa,Descripción
+#
+# Áreas de gasto y Políticas, definidas en la Orden HAP/419/2014 y comunes a todas las EELL.
+# Ver http://www.boe.es/diario_boe/txt.php?id=BOE-A-2014-2922
+0,,,,Deuda pública
+0,1,,,Deuda pública
+1,,,,Servicios públicos básicos
+1,3,,,Seguridad y movilidad ciudadana
+1,5,,,Vivienda y urbanismo
+1,6,,,Bienestar comunitario
+1,7,,,Medio ambiente
+2,,,,Actuaciones de protección y promoción social
+2,1,,,Pensiones
+2,2,,,Otras prestaciones económicas a favor de empleados
+2,3,,,Servicios sociales y promoción social
+2,4,,,Fomento del empleo
+3,,,,Produccion de bienes públicos de caracter preferente
+3,1,,,Sanidad
+3,2,,,Educación
+3,3,,,Cultura
+3,4,,,Deporte
+4,,,,Actuaciones de caracter económico
+4,1,,,Agricultura ganadería y pesca
+4,2,,,Industria y energía
+4,3,,,"Comercio, turismo y pequeñas y medianas empresas"
+4,4,,,Transporte público
+4,5,,,Infraestructuras
+4,6,,,"Investigación, desarrollo e innovación"
+4,9,,,Otras actuaciones de caracter económico
+9,,,,Actuaciones de caracter general
+9,1,,,Órganos de gobierno
+9,2,,,Servicios de carácter general
+9,3,,,Administración financiera y tributaria
+9,4,,,Transferencias a otras administraciónes públicas
+#
+# Programas específicos de Consell d'Eivissa
+0,1,1,0,Deuta pública
+1,3,6,0,Servei de prevenció i extinció d'incendis
+1,5,1,0,Política territorial
+1,7,0,0,Medi ambient
+2,2,1,0,Prestacions econòmiques a favor del treballadors
+2,3,1,0,Serveis socials i promoció social
+2,3,1,1,Oficina de la dona
+2,3,1,2,Menors
+2,3,1,3,Drogodependencies
+2,3,1,4,Inserció socio-laboral
+2,3,1,5,Discapacitats
+2,4,1,0,Foment de l'ocupació
+3,1,2,0,Hospital Residencia Asistida Cas Serres
+3,2,3,0,Educació
+3,2,6,0,Educació vial
+3,3,2,1,Bibliotecas públicas Cas Serres
+3,3,3,0,Equipaments culturals Cas Serres
+3,3,4,0,Promoció cultural
+3,3,6,0,Protecció del patrimoni
+3,3,7,0,Pla Integral de Joventut
+3,3,7,1,Campament Cala Jondal
+3,3,8,0,Festes populars
+3,4,1,0,Pla promoció esportiva
+3,4,2,0,Instal.lacions esportives
+4,1,0,0,"Agricultura, ramaderia i pesca"
+4,1,2,0,Finca d'experimentació agraria
+4,1,9,0,Caça
+4,2,2,0,Industria
+4,3,2,0,Ordenació turística
+4,3,2,1,Promoció turística
+4,3,3,0,Desenvolupament empresarial
+4,4,1,0,Transports
+4,5,3,0,Carreteres
+4,9,1,0,Oficina de comunicació
+4,9,1,1,Informática i comunicacions
+9,1,2,0,Organs de govern
+9,2,0,0,Administració general
+9,2,2,0,Relacions institucionals
+9,2,4,0,"Participació, transparència i bon govern"
+9,2,9,0,Fons de contingencia
+9,3,1,0,Intervenció
+9,3,4,0,Tresoreria
+9,4,2,0,Cooperació econòmica
+9,4,3,0,Transferències a otras entidades locales
