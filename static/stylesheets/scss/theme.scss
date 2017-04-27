@@ -1,1 +1,26 @@
 @import "theme-variables";
+
+.home-content .options .option > div .icon{
+	color: $brand-secondary;
+}
+
+.navbar-brand {
+  font-size: 2.5em;
+}
+
+@media (min-width: $screen-sm-min) {
+	.navbar-brand {
+		float: left;
+    position: static;
+    width: auto;
+    margin: 1.125em 0 0 0.5em;
+    padding: 0 0 0 0.5em;
+
+    text-align: left;
+    border-left: 1px solid $brand-primary;
+
+    a{
+      vertical-align: middle;
+    }
+	}
+}

@@ -12,9 +12,9 @@ $gray-lightest:         lighten($gray-base, 96%) !default;
 
 $text-color:            #414141;
 
-$brand-primary:         #d32e12;
-$brand-secondary:       #49647A;
-$brand-terciary:        #DDCFC1;
+$brand-primary:         #341A6A;
+$brand-secondary:       #FFA042;
+$brand-terciary:        #FFA042;
 
 $link-color:            $brand-primary;
 $link-hover-color:      $link-color;
@@ -24,7 +24,7 @@ $link-hover-decoration: underline;
 // Typography
 // -------------
 
-$font-family-sans-serif:  "Source Sans Pro", Helvetica, Arial, sans-serif;
+$font-family-sans-serif:  "Open Sans", Helvetica, Arial, sans-serif;
 $font-family-serif:       Georgia, "Times New Roman", Times, serif;
 $font-family-base:        $font-family-sans-serif;
 
@@ -48,8 +48,8 @@ $container-large-desktop:  (1050px + $grid-gutter-width);
 // Main Entity Logo
 // -------------
 
-$main-entity-logo-width:   81px;
-$main-entity-logo-height:  68px;
+$main-entity-logo-width:   250px;
+$main-entity-logo-height:  56px;
 
 
 // Navbar
@@ -60,7 +60,7 @@ $navbar-border-radius: 0;
 // Point at which the navbar becomes uncollapsed
 // $grid-float-breakpoint: 992px;  // $screen-md
 
-$dvmi-menu-length: 5;  // Number of items in main menu
+$dvmi-menu-length: 3;  // Number of items in main menu
 
 // Navbar background color
 $navbar-default-bg:       $brand-primary;
@@ -70,7 +70,7 @@ $navbar-default-bg-hover: mix( $navbar-default-bg, white, 75% );
 $dvmi-navbar-color: mix( $brand-primary, white, 10% );
 
 $navbar-default-link-active-color:    $brand-primary;
-$navbar-default-link-active-bg:       $brand-terciary;
+$navbar-default-link-active-bg:       mix( $brand-secondary, white, 50% );
 
 
 // Footer
@@ -90,8 +90,8 @@ $page-header-border-color:  mix( $brand-secondary, white, 70% );
 // Panels
 // ---------------
 
-$panel-default-border:      $brand-secondary;
-$panel-default-heading-bg:  $brand-secondary;
+$panel-default-border:      $brand-primary;
+$panel-default-heading-bg:  $brand-primary;
 
 
 // Buttons
@@ -145,17 +145,17 @@ $modal-backdrop-opacity:      .75;
 // Pagination
 // --------------
 
-$pagination-color:                     $brand-secondary;
-$pagination-hover-color:               $brand-secondary;
+$pagination-color:                     $brand-primary;
+$pagination-hover-color:               $brand-primary;
 
-$pagination-active-bg:                 $brand-secondary;
-$pagination-active-border:             $brand-secondary;
+$pagination-active-bg:                 $brand-primary;
+$pagination-active-border:             $brand-primary;
 
 
 // Search Form
 // --------------
 
-$search-form-bg: $brand-terciary;
+$search-form-bg: mix( $brand-secondary, white, 50% );
 
 
 // Budget Stream
@@ -168,7 +168,7 @@ $budget-stream-color: $brand-secondary;
 // --------------
 
 $slider-bg:     $page-header-bg;
-$slider-color:  $brand-secondary;
+$slider-color:  $brand-primary;
 
 
 // Data Sources
@@ -180,5 +180,5 @@ $data-sources-color: $brand-terciary;
 // Sankey Viz
 // --------------
 
-$sankey-budget-color:     saturate( lighten( $brand-secondary, 12% ), 10% );                          // #1F77B4;
-$sankey-execution-color:  saturate( lighten( adjust-hue( $sankey-budget-color, 100% ), 10% ), 10% );  //#E377C2;
+$sankey-budget-color:     saturate( lighten( $brand-secondary, 8% ), 10% );                          // #1F77B4;
+$sankey-execution-color:  saturate( lighten( $brand-primary, 15% ), 10% );  //#E377C2;
