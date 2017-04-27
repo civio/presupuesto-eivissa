@@ -86,11 +86,11 @@ LANGUAGES = (
 
 # Facebook Aplication ID used in social_sharing temaplate. Default: ''
 # In order to get the ID create an app in https://developers.facebook.com/
-FACEBOOK_ID             = ''
+FACEBOOK_ID             = '198197760696612'
 
 # Google Analytics ID. Default: ''
 # In order to get the ID create a Google Analytics Acount in https://analytics.google.com/analytics/web/
-ANALYTICS_ID            = ''
+ANALYTICS_ID            = 'UA-28946840-32'
 
 # Setup Data Source Budget link
 DATA_SOURCE_BUDGET      = 'http://transparencia.conselldeivissa.info/dades-economiques/presupuestos-anuales/'
