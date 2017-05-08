@@ -138,11 +138,12 @@ OVERVIEW_INCOME_NODES = [
                           {
                             'nodes': ['45', '75'],
                             'label.es': 'De comunidades autónomas',
-                            'label.ca': 'De comunidades autónomas'
+                            'label.ca': 'De comunitats autònomes'
                           },
                           {
                             'nodes': ['42', '72'],
-                            'label.es': 'De la Administración del Estado'
+                            'label.es': 'De la Administración del Estado',
+                            'label.ca': 'De l'Administració de l'Estat'
                           },
                           '31', '21', '10'
                         ]
