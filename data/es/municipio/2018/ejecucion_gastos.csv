@@ -1,0 +1,1032 @@
+#,Funcional,Económica,Denominación,Vinc. Org.,Vinc. Fun.,Vinc. Eco.,Créditos Iniciales,Modificaciones de Crédito,Créditos Definitivos,Obligaciones Reconocidas
+,110.0,31000.0,Deuta Pública Intereses,,110.0,3.0,9933.78,14571.41,24505.19,0.0
+,110.0,91200.0,Deuta Pública.Amortización de préstamos a corto plazo de entes de fuera del sector público. Deudas a corto plazo con entidades de crédito.,,110.0,9.0,0.0,277432.09,277432.09,276740.24
+,110.0,9120103.0,Deuta Pública Ptmo BCL 2006 Hipódromo 45026555,,110.0,9.0,385703.12,0.0,385703.12,0.0
+,1360.0,12000.0,Servei de Prevenció i Extinció d´Incendis. Sueldos del Grupo A1,,1360.0,1.0,14972.58,0.0,14972.58,3394.08
+,1360.0,12001.0,Servei de Prevenció i Extinció d´Incendis Sueldos del Grupo A2,,1360.0,1.0,13166.02,0.0,13166.02,0.0
+,1360.0,12003.0,Servei de Prevenció i Extinció d´Incendis. Sueldos del Grupo C1,,1360.0,1.0,10083.76,0.0,10083.76,2203.53
+,1360.0,12004.0,Servei de Prevenció i Extinció d´Incendis. Sueldos del Grupo C2,,1360.0,1.0,410264.64,0.0,410264.64,60092.55
+,1360.0,12006.0,Servei de Prevenció i Extinció d´Incendis. Trienios,,1360.0,1.0,61920.37,0.0,61920.37,12101.07
+,1360.0,12100.0,Servei de Prevenció i Extinció d´Incendis. Complemento de destino,,1360.0,1.0,242004.56,0.0,242004.56,35407.35
+,1360.0,12101.0,Servei de Prevenció i Extinció d´Incendis. Complemento específico,,1360.0,1.0,623120.84,0.0,623120.84,95530.38
+,1360.0,12103.0,Servei de Prevenció i Extinció d´Incendis. Otros complementos,,1360.0,1.0,35533.44,0.0,35533.44,24773.97
+,1360.0,15001.0,Servei de Prevenció i Extinció d´Incendis. Productivitat funcionàris,,1360.0,1.0,154530.0,0.0,154530.0,26116.9
+,1360.0,15100.0,"Servei de Prevenció i Extinció d´Incendis. Ad,.General Gratificacions",,1360.0,1.0,245733.0,0.0,245733.0,102574.31
+,1360.0,16000.0,Servei de Prevenció i Extinció d´Incendis. Seguridad Social,,1360.0,1.0,717176.76,0.0,717176.76,88208.89
+,1360.0,16008.0,Servei de Prevenció i Extinció d´Incendis. Asistencia médico-farmacéutica,,1360.0,1.0,6000.0,0.0,6000.0,0.0
+,1360.0,21300.0,Servei de Prevenció i Extinció d´Incendis. Repar. Manteniment i conserv. Maquin. Instal. i utillatge,,1360.0,2.0,40000.0,0.0,40000.0,0.0
+,1360.0,21400.0,Servei de Prevenció i Extinció d´Incendis Reparac. Manten. i Conserv. Mat. Transport,,1360.0,2.0,40000.0,0.0,40000.0,9269.62
+,1360.0,22101.0,Servei de Prevenció i Extinció d´Incendis Agua,,1360.0,2.0,5000.0,0.0,5000.0,0.0
+,1360.0,22102.0,Servei de Prevenció i Extinció d´Incendis Gas,,1360.0,2.0,2000.0,0.0,2000.0,0.0
+,1360.0,22104.0,Servei de Prevenció i Extinció d´Incendis. Vestuario,,1360.0,2.0,90000.0,0.0,90000.0,1752.81
+,1360.0,22106.0,Servei de Prevenció i Extinció d´Incendis.Productos farmacéuticos y material sanitario,,1360.0,2.0,0.0,0.0,0.0,895.81
+,1360.0,22109.0,Servei de Prevenció i Extinció d´Incendis. Material especial,,1360.0,2.0,36000.0,0.0,36000.0,0.0
+,1360.0,22110.0,Servei de Prevenció i Extinció d´Incendis.Productos de limpieza y aseo,,1360.0,2.0,0.0,0.0,0.0,262.35
+,1360.0,22199.0,Servei de Prevenció i Extinció d´Incendis.Otros suministros,,1360.0,2.0,0.0,0.0,0.0,617.58
+,1360.0,22300.0,Servei de Prevenció i Extinció d´Incendis. Parque móvil,,1360.0,2.0,254052.0,0.0,254052.0,65121.12
+,1360.0,22699.0,Servei de Prevenció i Extinció d´Incendis Otros gastos diversos,,1360.0,2.0,123546.0,0.0,123546.0,1992.12
+,1360.0,22799.0,Servei de Prevenció i Extinció d´Incendis.Otros trabajos realizados por otras empresas y profesionales,,1360.0,2.0,0.0,0.0,0.0,54679.31
+,1360.0,23020.0,Servei de Prevenció i Extinció d´Incendis.Del personal no directivo,,1360.0,2.0,0.0,0.0,0.0,4841.0
+,1360.0,23100.0,Servei de Prevenció i Extinció d´Incendis.De los miembros de los órganos de gobierno,,1360.0,2.0,0.0,0.0,0.0,0.0
+,1360.0,23120.0,Servei de Prevenció i Extinció d´Incendis.Del personal no directivo,,1360.0,2.0,0.0,0.0,0.0,373.33
+,1360.0,23300.0,Servei de Prevenció i Extinció d´Incendis.Altres indemnitzacions per raó de servei,,1360.0,2.0,0.0,0.0,0.0,90.0
+,1360.0,62400.0,Servei de Prevenció i Extinció d´Incendis Automóvil,,1360.0,6.0,702699.0,0.0,702699.0,151242.74
+,1360.0,62500.0,Servei de Prevenció i Extinció d´Incendis.Inversió nova de mobiliari i béns,,1360.0,6.0,0.0,0.0,0.0,24070.43
+,1360.0,63200.0,Servei de Prevenció i Extinció d´Incendis. Industrials,,1360.0,6.0,509568.0,0.0,509568.0,0.0
+,1360.0,63300.0,Servei de Prevenció i Extinció d´Incendis Maquinaria,,1360.0,6.0,76000.0,0.0,76000.0,0.0
+,1360.0,63400.0,Servei de Prevenció i Extinció d´Incendis.Automóvil,,1360.0,6.0,0.0,0.0,0.0,449.15
+,1510.0,12000.0,Política Territorial. Sueldos del Grupo A1,,1510.0,1.0,134753.22,0.0,134753.22,26247.57
+,1510.0,12001.0,Política Territorial. Sueldos del Grupo A2,,1510.0,1.0,65830.1,0.0,65830.1,14673.9
+,1510.0,12003.0,Política Territorial. Sueldos del Grupo C1,,1510.0,1.0,30251.28,0.0,30251.28,6610.59
+,1510.0,12004.0,Política Territorial. Sueldos del Grupo C2,,1510.0,1.0,42735.9,0.0,42735.9,7335.72
+,1510.0,12005.0,Política Territorial. Sueldos del Grupo E,,1510.0,1.0,15666.0,0.0,15666.0,3357.0
+,1510.0,12006.0,Política Territorial. Trienios,,1510.0,1.0,49191.9,0.0,49191.9,10538.02
+,1510.0,12100.0,Política Territorial. Complemento de destino,,1510.0,1.0,172812.08,0.0,172812.08,33945.75
+,1510.0,12101.0,Política Territorial. Complemento específico,,1510.0,1.0,255830.26,0.0,255830.26,50654.1
+,1510.0,12103.0,Política Territorial. Otros complementos,,1510.0,1.0,24302.88,0.0,24302.88,5513.85
+,1510.0,15001.0,Política Territorial. Productivitat funcionàris,,1510.0,1.0,87397.56,0.0,87397.56,32427.69
+,1510.0,16000.0,Política Territorial. Seguridad Social,,1510.0,1.0,221531.71,0.0,221531.71,34796.23
+,1510.0,16008.0,Política Territorial. Asistencia médico-farmacéutica,,1510.0,1.0,2800.0,0.0,2800.0,0.0
+,1510.0,22000.0,Política Territorial.Ordinario no inventariable,,1510.0,2.0,0.0,0.0,0.0,53.93
+,1510.0,22602.0,Política Territorial. Publicidad y propaganda,,1510.0,2.0,20000.0,0.0,20000.0,0.0
+,1510.0,22699.0,Política Territorial. Otros gastos diversos,,1510.0,2.0,9200.0,0.0,9200.0,776.61
+,1510.0,22799.0,Política Territorial. Otros trabajos realizados por otras empresas y profesionales,,1510.0,2.0,60000.0,0.0,60000.0,18150.0
+,1510.0,23000.0,Política Territorial.De los miembros de los órganos de gobierno,,1510.0,2.0,0.0,0.0,0.0,41.8
+,1510.0,23020.0,Política Territorial.Del personal no directivo,,1510.0,2.0,0.0,0.0,0.0,11.9
+,1510.0,23100.0,Política Territorial.De los miembros de los órganos de gobierno,,1510.0,2.0,0.0,0.0,0.0,207.25
+,1510.0,23120.0,Política Territorial.Del personal no directivo,,1510.0,2.0,0.0,0.0,0.0,41.25
+,1510.0,48100.0,Política Territorial Prem. beques i pensions d'estudis i investigació,,1510.0,4.0,12000.0,0.0,12000.0,0.0
+,1510.0,62500.0,Política Territorial.Inversió nova de mobiliari i béns,,1510.0,6.0,0.0,0.0,0.0,1141.03
+,1510.0,64000.0,Política Territorial.Inversiones de caracter inmaterial,,1510.0,6.0,190000.0,0.0,190000.0,0.0
+,1510.0,64100.0,Política Territorial Gastos en aplicaciones informáticas,,1510.0,6.0,90000.0,0.0,90000.0,0.0
+,1700.0,12000.0,Medi Ambient. Sueldos del Grupo A1,,1700.0,1.0,59890.32,0.0,59890.32,13576.32
+,1700.0,12001.0,Medi Ambient. Sueldos del Grupo A2,,1700.0,1.0,13166.02,0.0,13166.02,0.0
+,1700.0,12003.0,Medi Ambient. Sueldos del Grupo C1,,1700.0,1.0,10083.76,0.0,10083.76,2423.88
+,1700.0,12006.0,Medi Ambient. Trienios,,1700.0,1.0,12679.57,0.0,12679.57,2530.95
+,1700.0,12100.0,Medi Ambient. Complemento de destino,,1700.0,1.0,46704.28,0.0,46704.28,8666.51
+,1700.0,12101.0,Medi Ambient. Complemento específico,,1700.0,1.0,69997.62,0.0,69997.62,13140.26
+,1700.0,12103.0,Medi Ambient. Otros complementos,,1700.0,1.0,7061.04,0.0,7061.04,1177.93
+,1700.0,13000.0,Medi Ambient. Retribuciones básicas,,1700.0,1.0,8988.0,0.0,8988.0,1926.0
+,1700.0,13002.0,Medi Ambient. Otras remuneraciones,,1700.0,1.0,11328.92,0.0,11328.92,2618.9
+,1700.0,15001.0,Medi Ambient. Productivitat funcionàris,,1700.0,1.0,29478.84,0.0,29478.84,7070.2
+,1700.0,15002.0,Medi Ambient. Productivitat laborals,,1700.0,1.0,4961.28,0.0,4961.28,1240.32
+,1700.0,16000.0,Medi Ambient. Seguridad Social,,1700.0,1.0,77755.82,0.0,77755.82,13331.8
+,1700.0,16008.0,Medi Ambient. Asistencia médico-farmacéutica,,1700.0,1.0,1600.0,0.0,1600.0,0.0
+,1700.0,21300.0,Medi Ambient. Repar. Manteniment i conserv. Maquin. Instal. i utillatge,,1700.0,2.0,15000.0,0.0,15000.0,0.0
+,1700.0,22606.0,"Medi Ambient Reuniones, conferencias y cursos",,1700.0,2.0,20000.0,0.0,20000.0,387.2
+,1700.0,22699.0,Medi Ambient.Otros gastos diversos,,1700.0,2.0,0.0,0.0,0.0,100.01
+,1700.0,22706.0,Medi Ambient. Estudios y trabajos técnicos,,1700.0,2.0,255000.0,0.0,255000.0,0.0
+,1700.0,22799.0,Medi Ambient. Otros trabajos realizados por otras empresas y profesionales,,1700.0,2.0,180000.0,0.0,180000.0,25749.53
+,1700.0,23000.0,Medi Ambient.De los miembros de los órganos de gobierno,,1700.0,2.0,0.0,0.0,0.0,74.95
+,1700.0,23020.0,Medi Ambient.Del personal no directivo,,1700.0,2.0,0.0,0.0,0.0,126.26
+,1700.0,23100.0,Medi Ambient.De los miembros de los órganos de gobierno,,1700.0,2.0,0.0,0.0,0.0,211.14
+,1700.0,23120.0,Medi Ambient.Del personal no directivo,,1700.0,2.0,0.0,0.0,0.0,460.63
+,1700.0,23300.0,Medi Ambient. Altres indemnitzacions per raó de servei,,1700.0,2.0,5000.0,0.0,5000.0,120.0
+,1700.0,46200.0,Medi Ambient Transferències corrents a Ajuntaments,,1700.0,4.0,200000.0,0.0,200000.0,0.0
+,1700.0,48900.0,Medi Ambient. Transferències corrents a fam. i instit. sense fi de lucre,,1700.0,4.0,70000.0,0.0,70000.0,0.0
+,1700.0,48911.0,Medi Ambient.Asociacio Aliança Mar Blava,,1700.0,4.0,15000.0,0.0,15000.0,0.0
+,1700.0,48912.0,Medi Ambient.Mancomunitat Intermunicipal Serv. Insulars,,1700.0,4.0,60000.0,0.0,60000.0,0.0
+,1700.0,64000.0,Medi Ambient Inversiones de caracter inmaterial,,1700.0,6.0,22000.0,0.0,22000.0,0.0
+,1700.0,75101.0,Medi Ambient A Organismos Autónomos y agencias de las Comunidades Autónomas. Subvenciones al resto de entidades,,1700.0,7.0,666667.0,0.0,666667.0,0.0
+,1700.0,78900.0,Medi Ambient Transferències de capital a famílies i instit. sense ànim de lucre,,1700.0,7.0,20000.0,0.0,20000.0,0.0
+,2210.0,83000.0,Prestacions econòmiques a favor del treballadors Prèstecs al personal,,2210.0,8.0,250000.0,0.0,250000.0,66176.28
+,2310.0,12000.0,Serveis Socials i Promoció Social. Sueldos del Grupo A1,,2310.0,1.0,29945.16,0.0,29945.16,6788.16
+,2310.0,12003.0,Serveis Socials i Promoció Social. Sueldos del Grupo C1,,2310.0,1.0,10083.76,0.0,10083.76,105.8
+,2310.0,12004.0,Serveis Socials i Promoció Social. Sueldos del Grupo C2,,2310.0,1.0,25641.54,0.0,25641.54,5814.38
+,2310.0,12005.0,Serveis Socials i Promoció Social. Sueldos del Grupo E,,2310.0,1.0,15666.0,0.0,15666.0,3357.0
+,2310.0,12006.0,Serveis Socials i Promoció Social. Trienios,,2310.0,1.0,15054.94,0.0,15054.94,2778.84
+,2310.0,12100.0,Serveis Socials i Promoció Social. Complemento de destino,,2310.0,1.0,48937.28,0.0,48937.28,9361.17
+,2310.0,12101.0,Serveis Socials i Promoció Social. Complemento específico,,2310.0,1.0,73870.16,0.0,73870.16,14324.34
+,2310.0,12103.0,Serveis Socials i Promoció Social. Otros complementos,,2310.0,1.0,6827.28,0.0,6827.28,1036.92
+,2310.0,13000.0,Serveis Socials i Promoció Social. Retribuciones básicas,,2310.0,1.0,61873.04,0.0,61873.04,10638.95
+,2310.0,13002.0,Serveis Socials i Promoció Social. Otras remuneraciones,,2310.0,1.0,105060.24,0.0,105060.24,12680.5
+,2310.0,13100.0,Serveis Socials i Promoció Social Retribucions personal laboral temporal,,2310.0,1.0,0.0,0.0,0.0,1460.81
+,2310.0,15001.0,Serveis Socials i Promoció Social. Productivitat funcionàris,,2310.0,1.0,35903.4,0.0,35903.4,11495.85
+,2310.0,15002.0,Serveis Socials i Promoció Social. Productivitat laborals,,2310.0,1.0,18754.56,0.0,18754.56,5335.16
+,2310.0,15003.0,Serveis Socials i Promoció Social Productivitat personal laboral contractat,,2310.0,1.0,0.0,5687.7,5687.7,400.0
+,2310.0,16000.0,Serveis Socials i Promoció Social. Seguridad Social,,2310.0,1.0,124931.42,0.0,124931.42,16169.51
+,2310.0,16008.0,Serveis Socials i Promoció Social. Asistencia médico-farmacéutica,,2310.0,1.0,14000.0,0.0,14000.0,0.0
+,2310.0,21200.0,Serveis Socials i Promoció Social Repar. Manteniment i conserv. edificis i altres,,2310.0,2.0,60000.0,0.0,60000.0,150.28
+,2310.0,21300.0,Serveis Socials i Promoció Social.Repar. Manteniment i conserv. Maquin. Instal. i utillatge,,2310.0,2.0,0.0,0.0,0.0,1860.47
+,2310.0,21400.0,Serveis Socials i Promoció Social.Reparac. Manten. i Conserv. Mat. Transport,,2310.0,2.0,0.0,0.0,0.0,33.46
+,2310.0,21500.0,Serveis Socials i Promoció Social Repar. Manteniment i conserv. Mobilliari i béns,,2310.0,2.0,25000.0,0.0,25000.0,0.0
+,2310.0,21600.0,Serveis Socials i Promoció Social Manteniment equisp informàtics,,2310.0,2.0,10000.0,0.0,10000.0,0.0
+,2310.0,22001.0,"Serveis Socials i Promoció Social Prensa, revistas, libros y otras publicaciones",,2310.0,2.0,1400.0,0.0,1400.0,110.08
+,2310.0,22002.0,"Serveis Socials i Promoció Social.Material, informático no inventariable",,2310.0,2.0,0.0,0.0,0.0,179.32
+,2310.0,22100.0,Serveis Socials i Promoció Social Energía eléctrica,,2310.0,2.0,43000.0,0.0,43000.0,0.0
+,2310.0,22101.0,Serveis Socials i Promoció Social Agua,,2310.0,2.0,8000.0,0.0,8000.0,0.0
+,2310.0,22105.0,Serveis Socials i Promoció Social.Productos alimenticios,,2310.0,2.0,0.0,0.0,0.0,6112.53
+,2310.0,22602.0,Serveis Socials i Promoció Social Publicidad y propaganda,,2310.0,2.0,21200.0,0.0,21200.0,0.0
+,2310.0,22606.0,Serveis Socials i Promoció Social,,2310.0,2.0,0.0,0.0,0.0,570.0
+,2310.0,22609.0,Serveis Socials i Promoció Social.Actividades culturales y deportivas,,2310.0,2.0,0.0,0.0,0.0,4174.5
+,2310.0,22699.0,Serveis Socials i Promoció Social.Otros gastos diversos,,2310.0,2.0,0.0,0.0,0.0,6049.43
+,2310.0,22700.0,Serveis Socials i Promoció Social.Limpieza y Aseo,,2310.0,2.0,0.0,0.0,0.0,17876.71
+,2310.0,22701.0,Serveis Socials i Promoció Social Seguridad,,2310.0,2.0,2000.0,0.0,2000.0,266.18
+,2310.0,22799.0,Serveis Socials i Promoció Social. Otros trabajos realizados por otras empresas y profesionales,,2310.0,2.0,351000.0,0.0,351000.0,101437.9
+,2310.0,23000.0,Serveis Socials i Promoció Social,,2310.0,2.0,0.0,0.0,0.0,200.0
+,2310.0,23020.0,Serveis Socials i Promoció Social Del personal no directivo,,2310.0,2.0,4000.0,0.0,4000.0,18.7
+,2310.0,23100.0,Serveis Socials i Promoció Social.De los miembros de los órganos de gobierno,,2310.0,2.0,0.0,0.0,0.0,319.49
+,2310.0,23120.0,Serveis Socials i Promoció Social.Del personal no directivo,,2310.0,2.0,0.0,0.0,0.0,89.88
+,2310.0,23300.0,Serveis Socials i Promoció Social.Altres indemnitzacions per raó de servei,,2310.0,2.0,0.0,0.0,0.0,30.0
+,2310.0,42000.0,Serveis Socials i Promoció Social Transferencias a la Administración Gral. del Estado,,2310.0,4.0,3000.0,0.0,3000.0,0.0
+,2310.0,46200.0,Serveis Socials i Promoció Social. Transferències corrents a Ajuntaments,,2310.0,4.0,754807.24,0.0,754807.24,0.0
+,2310.0,48900.0,Serveis Socials i Promoció Social. Transferències corrents a fam. i instit. sense fi de lucre,,2310.0,4.0,1511000.0,0.0,1511000.0,90322.29
+,2310.0,48915.0,Serveis Socials i Promoció Social Caritas Diocesana de Ibiza,,2310.0,4.0,123000.0,0.0,123000.0,0.0
+,2310.0,61900.0,Serveis Socials i Promoció Social.Otras inversiones de reposición en infraestructuras y bienes destinados al uso general,,2310.0,6.0,0.0,0.0,0.0,21780.0
+,2310.0,62600.0,Serveis Socials i Promoció Social.Inversió nova. Informática,,2310.0,6.0,0.0,0.0,0.0,1149.5
+,2310.0,63203.0,Serveis Socials i Promoció Social. Otras construcciones,,2310.0,6.0,1215000.0,0.0,1215000.0,0.0
+,2310.0,75000.0,Serveis Socials i Promoció Social A la Administración General de las Comunidades Autónomas. Transferencias al resto de entidades,,2310.0,7.0,224374.64,0.0,224374.64,0.0
+,2310.0,76200.0,Serveis Socials i Promoció Social Transf.Cap.Ajuntaments,,2310.0,7.0,1050000.0,0.0,1050000.0,0.0
+,2310.0,78900.0,Serveis Socials i Promoció Social Transferències de capital a famílies i instit. sense ànim de lucre,,2310.0,7.0,60000.0,0.0,60000.0,0.0
+,2311.0,13000.0,Oficina de la Dona. Retribuciones básicas,,2311.0,1.0,107640.71,0.0,107640.71,18202.89
+,2311.0,13002.0,Oficina de la Dona. Otras remuneraciones,,2311.0,1.0,159672.18,0.0,159672.18,35881.35
+,2311.0,13100.0,Oficina de la Dona Retribucions personal laboral temporal,,2311.0,1.0,39244.02,0.0,39244.02,7533.81
+,2311.0,15002.0,Oficina de la Dona. Productivitat laborals,,2311.0,1.0,27270.0,0.0,27270.0,5714.91
+,2311.0,15003.0,Oficina de la Dona Productivitat personal laboral contractat,,2311.0,1.0,3030.0,5600.0,8630.0,656.52
+,2311.0,16000.0,Oficina de la Dona. Seguridad Social,,2311.0,1.0,104570.95,0.0,104570.95,14994.76
+,2311.0,21300.0,Oficina de la Dona.Repar. Manteniment i conserv. Maquin. Instal. i utillatge,,2311.0,2.0,0.0,0.0,0.0,35.38
+,2311.0,21400.0,Oficina de la Dona.Reparac. Manten. i Conserv. Mat. Transport,,2311.0,2.0,0.0,0.0,0.0,32.86
+,2311.0,22105.0,Oficina de la Dona. Productos alimenticios,,2311.0,2.0,30000.0,0.0,30000.0,0.0
+,2311.0,22106.0,Oficina de la Dona. Productos farmacéuticos y material sanitario,,2311.0,2.0,4000.0,0.0,4000.0,763.17
+,2311.0,22699.0,Oficina de la Dona. Otros gastos diversos,,2311.0,2.0,30000.0,0.0,30000.0,11.62
+,2311.0,22700.0,Oficina de la Dona. Limpieza y Aseo,,2311.0,2.0,8000.0,0.0,8000.0,0.0
+,2311.0,22701.0,Oficina de la Dona.Seguridad,,2311.0,2.0,0.0,0.0,0.0,119.79
+,2311.0,22799.0,Oficina de la Dona. Otros trabajos realizados por otras empresas y profesionales,,2311.0,2.0,40000.0,0.0,40000.0,6833.73
+,2311.0,61900.0,Oficina de la Dona Otras inversiones de reposición en infraestructuras y bienes destinados al uso general,,2311.0,6.0,45000.0,0.0,45000.0,0.0
+,2312.0,12000.0,Menors Sueldos del Grupo A1,,2312.0,1.0,14972.58,0.0,14972.58,3394.08
+,2312.0,12004.0,Menors Sueldos del Grupo C2,,2312.0,1.0,8547.18,0.0,8547.18,2445.24
+,2312.0,12005.0,Menors Sueldos del Grupo E,,2312.0,1.0,7833.0,0.0,7833.0,1454.7
+,2312.0,12006.0,Menors Trienios,,2312.0,1.0,4077.61,0.0,4077.61,944.06
+,2312.0,12100.0,Menors Complemento de destino,,2312.0,1.0,18042.08,0.0,18042.08,3718.38
+,2312.0,12101.0,Menors Complemento específico,,2312.0,1.0,31089.1,0.0,31089.1,4751.58
+,2312.0,12103.0,Menors Otros complementos,,2312.0,1.0,2582.16,0.0,2582.16,679.31
+,2312.0,13000.0,Menors Retribucions persona laboral,,2312.0,1.0,153512.28,0.0,153512.28,30981.19
+,2312.0,13002.0,Menors Otras remuneraciones,,2312.0,1.0,208871.76,0.0,208871.76,44853.67
+,2312.0,13100.0,Menors Retribucions personal laboral temporal,,2312.0,1.0,406890.93,0.0,406890.93,85651.81
+,2312.0,15001.0,Menors Productivitat funcionàris,,2312.0,1.0,9090.0,0.0,9090.0,2424.02
+,2312.0,15002.0,Menors Productivitat laborals,,2312.0,1.0,30300.0,0.0,30300.0,6817.5
+,2312.0,15003.0,Menors Productivitat personal laboral contractat,,2312.0,1.0,47611.8,0.0,47611.8,9754.16
+,2312.0,16000.0,Menors Seguridad Social,,2312.0,1.0,288847.05,0.0,288847.05,48643.87
+,2312.0,20500.0,Menors.Arrendaments. Mobiliari i estris,,2312.0,2.0,0.0,0.0,0.0,68.84
+,2312.0,21200.0,Menors Repar. Manteniment i conserv. edificis i altres,,2312.0,2.0,40000.0,0.0,40000.0,0.0
+,2312.0,21300.0,Menors.Repar. Manteniment i conserv. Maquin. Instal. i utillatge,,2312.0,2.0,0.0,0.0,0.0,72.86
+,2312.0,21400.0,Menors Reparac. Manten. i Conserv. Mat. Transport,,2312.0,2.0,6000.0,0.0,6000.0,912.38
+,2312.0,21500.0,Menors.Repar. Manteniment i conserv. Mobilliari i béns,,2312.0,2.0,0.0,0.0,0.0,60.8
+,2312.0,22001.0,"Menors.Prensa, revistas, libros y otras publicaciones",,2312.0,2.0,0.0,0.0,0.0,1173.57
+,2312.0,22103.0,Menors Combustibles y carburantes,,2312.0,2.0,2400.0,0.0,2400.0,0.0
+,2312.0,22104.0,Menors Vestuario,,2312.0,2.0,25000.0,0.0,25000.0,326.02
+,2312.0,22105.0,Menors Productos alimenticios,,2312.0,2.0,70000.0,0.0,70000.0,393.2
+,2312.0,22110.0,Menors Productos de limpieza y aseo,,2312.0,2.0,15000.0,0.0,15000.0,1381.84
+,2312.0,22199.0,Menors Otros suministros,,2312.0,2.0,30000.0,0.0,30000.0,0.0
+,2312.0,22300.0,Menors.Transports,,2312.0,2.0,0.0,0.0,0.0,113.76
+,2312.0,22699.0,Menors.Otros gastos diversos,,2312.0,2.0,47000.0,0.0,47000.0,1707.53
+,2312.0,22700.0,Menors Limpieza y Aseo,,2312.0,2.0,10000.0,0.0,10000.0,1297.12
+,2312.0,22701.0,Menors Seguridad,,2312.0,2.0,10000.0,0.0,10000.0,0.0
+,2312.0,22706.0,Menors Estudios y trabajos técnicos,,2312.0,2.0,10000.0,0.0,10000.0,0.0
+,2312.0,22799.0,Menors.Otros trabajos realizados por otras empresas y profesionales,,2312.0,2.0,1510000.0,0.0,1510000.0,184659.26
+,2312.0,23020.0,Menors.Del personal no directivo,,2312.0,2.0,0.0,0.0,0.0,74.8
+,2312.0,23120.0,Menors.Del personal no directivo,,2312.0,2.0,0.0,0.0,0.0,279.99
+,2312.0,23300.0,Menors.Altres indemnitzacions per raó de servei,,2312.0,2.0,0.0,0.0,0.0,45.0
+,2312.0,48900.0,Menors Transferències corrents a fam. i instit. sense fi de lucre,,2312.0,4.0,393800.0,0.0,393800.0,14910.05
+,2312.0,62200.0,Menors Industrials,,2312.0,6.0,1000000.0,0.0,1000000.0,0.0
+,2312.0,62203.0,Menors Otras construcciones,,2312.0,6.0,300000.0,0.0,300000.0,0.0
+,2312.0,62400.0,Menors Automóvil,,2312.0,6.0,70000.0,0.0,70000.0,0.0
+,2312.0,62500.0,Menors Inversió nova de mobiliari i béns,,2312.0,6.0,38200.0,0.0,38200.0,0.0
+,2313.0,13000.0,Drogodependencies. Retribuciones básicas,,2313.0,1.0,104592.48,0.0,104592.48,24901.53
+,2313.0,13002.0,Drogodependencies. Otras remuneraciones,,2313.0,1.0,130246.66,0.0,130246.66,31081.44
+,2313.0,15002.0,Drogodependencies. Productivitat laborals,,2313.0,1.0,36215.28,0.0,36215.28,9748.84
+,2313.0,16000.0,Drogodependencies. Seguridad Social,,2313.0,1.0,77081.14,1188.0,78269.14,12830.11
+,2313.0,22106.0,Drogodependencies. Productos farmacéuticos y material sanitario,,2313.0,2.0,225000.0,0.0,225000.0,0.0
+,2313.0,22699.0,Drogodependencies. Otros gastos diversos,,2313.0,2.0,15000.0,0.0,15000.0,0.0
+,2313.0,22701.0,Drogodependencies.Seguridad,,2313.0,2.0,0.0,0.0,0.0,119.79
+,2313.0,23020.0,Drogodependencies.Del personal no directivo,,2313.0,2.0,0.0,0.0,0.0,7.03
+,2313.0,62600.0,Drogodependencies Inversió nova. Informática,,2313.0,6.0,2000.0,0.0,2000.0,0.0
+,2314.0,13000.0,Inserció Socio-Laboral. Retribuciones básicas,,2314.0,1.0,74803.64,0.0,74803.64,11219.25
+,2314.0,13002.0,Inserció Socio-Laboral. Otras remuneraciones,,2314.0,1.0,100638.74,0.0,100638.74,18868.73
+,2314.0,15002.0,Inserció Socio-Laboral. Productivitat laborals,,2314.0,1.0,15150.0,0.0,15150.0,2609.16
+,2314.0,16000.0,Inserció Socio-Laboral. Seguridad Social,,2314.0,1.0,57888.25,-5534.08,52354.17,7106.34
+,2314.0,21500.0,Inserció Socio-Laboral.Repar. Manteniment i conserv. Mobilliari i béns,,2314.0,2.0,0.0,0.0,0.0,39.62
+,2314.0,22002.0,"Inserció Socio-Laboral.Material, informático no inventariable",,2314.0,2.0,0.0,0.0,0.0,89.66
+,2314.0,22699.0,Inserció Socio-Laboral. Otros gastos diversos,,2314.0,2.0,35000.0,0.0,35000.0,0.0
+,2314.0,22706.0,Inserció Socio-Laboral Estudios y trabajos técnicos,,2314.0,2.0,135000.0,0.0,135000.0,0.0
+,2314.0,22799.0,Inserció Socio-Laboral.Otros trabajos realizados por otras empresas y profesionales,,2314.0,2.0,329510.0,0.0,329510.0,46932.27
+,2314.0,48900.0,Inserció Socio-Laboral Transferències corrents a fam. i instit. sense fi de lucre,,2314.0,4.0,30000.0,0.0,30000.0,0.0
+,2314.0,48902.0,Inserció Socio-Laboral. Renda mínima Insersió,,2314.0,4.0,450000.0,0.0,450000.0,55451.72
+,2315.0,12004.0,Discapacitats. Sueldos del Grupo C2,,2315.0,1.0,8547.18,0.0,8547.18,1833.93
+,2315.0,12006.0,Discapacitats. Trienios,,2315.0,1.0,1532.52,0.0,1532.52,328.86
+,2315.0,12100.0,Discapacitats. Complemento de destino,,2315.0,1.0,4356.24,0.0,4356.24,933.48
+,2315.0,12101.0,Discapacitats. Complemento específico,,2315.0,1.0,5204.64,0.0,5204.64,1115.28
+,2315.0,12103.0,Discapacitats. Otros complementos,,2315.0,1.0,671.04,0.0,671.04,167.73
+,2315.0,13000.0,Discapacitats. Retribuciones básicas,,2315.0,1.0,214253.9,0.0,214253.9,45472.52
+,2315.0,13002.0,Discapacitats. Otras remuneraciones,,2315.0,1.0,264176.62,0.0,264176.62,58431.92
+,2315.0,13100.0,Discapacitats. Retribuc.Personal Lab. Eventual,,2315.0,1.0,1890.56,0.0,1890.56,9084.51
+,2315.0,15001.0,Discapacitats. Productivitat funcionàris,,2315.0,1.0,3030.0,0.0,3030.0,757.5
+,2315.0,15002.0,Discapacitats. Productivitat laborals,,2315.0,1.0,48480.0,0.0,48480.0,11802.45
+,2315.0,15003.0,Discapacitats. Productivitat personal laboral contractat,,2315.0,1.0,252.5,0.0,252.5,757.5
+,2315.0,16000.0,Discapacitats. Seguridad Social,,2315.0,1.0,169186.56,0.0,169186.56,30244.17
+,2315.0,20400.0,Discapacitats.Material de transport,,2315.0,2.0,0.0,0.0,0.0,339.0
+,2315.0,21200.0,Discapacitats Repar. Manteniment i conserv. edificis i altres,,2315.0,2.0,20500.0,0.0,20500.0,0.0
+,2315.0,21400.0,Discapacitats Reparac. Manten. i Conserv. Mat. Transport,,2315.0,2.0,7000.0,0.0,7000.0,466.76
+,2315.0,22000.0,Discapacitats.Ordinario no inventariable,,2315.0,2.0,0.0,0.0,0.0,249.52
+,2315.0,22104.0,Discapacitats Vestuario,,2315.0,2.0,17000.0,0.0,17000.0,229.85
+,2315.0,22105.0,Discapacitats Productos alimenticios,,2315.0,2.0,17000.0,0.0,17000.0,2579.58
+,2315.0,22106.0,Discapacitats. Productos farmacéuticos y material sanitario,,2315.0,2.0,3300.0,0.0,3300.0,512.0
+,2315.0,22110.0,Discapacitats.Productos de limpieza y aseo,,2315.0,2.0,0.0,0.0,0.0,203.66
+,2315.0,22300.0,Discapacitats.Transports,,2315.0,2.0,0.0,0.0,0.0,27.05
+,2315.0,22502.0,Discapacitats Tributos de las Entidades locales,,2315.0,2.0,4800.0,0.0,4800.0,0.0
+,2315.0,22699.0,Discapacitats. Otros gastos diversos,,2315.0,2.0,0.0,0.0,0.0,922.66
+,2315.0,22799.0,Discapacitats.Otros trabajos realizados por otras empresas y profesionales,,2315.0,2.0,2713642.27,0.0,2713642.27,93293.42
+,2315.0,23020.0,Discapacitats.Del personal no directivo,,2315.0,2.0,0.0,0.0,0.0,14.06
+,2315.0,46200.0,Discapacitats.Transferències corrents a Ajuntaments,,2315.0,4.0,0.0,0.0,0.0,17872.5
+,2315.0,48900.0,Discapacitats. Transferències corrents a fam. i instit. sense fi de lucre,,2315.0,4.0,146500.0,0.0,146500.0,0.0
+,2315.0,62300.0,Discapacitats Maquinaria,,2315.0,6.0,3000.0,0.0,3000.0,0.0
+,2315.0,62400.0,Discapacitats Automóvil,,2315.0,6.0,195000.0,0.0,195000.0,0.0
+,2315.0,62500.0,Discapacitats Inversió nova de mobiliari i béns,,2315.0,6.0,4000.0,0.0,4000.0,399.85
+,2315.0,62900.0,Discapacitats Inversió associada al funcionament dels serveis,,2315.0,6.0,10500.0,0.0,10500.0,0.0
+,2410.0,13100.0,Foment de l'ocupació. Treball i Formació.Retribucions personal laboral temporal,,2410.0,1.0,32741.58,0.0,32741.58,14937.53
+,2410.0,15003.0,Foment de l'ocupació. Treball i Formació Productivitat personal laboral contractat,,2410.0,1.0,3030.0,0.0,3030.0,1538.38
+,2410.0,16000.0,Foment de l'ocupació. Treball i Formació Seguridad Social,,2410.0,1.0,11715.2,0.0,11715.2,3703.22
+,2410.0,22699.0,Foment de l'ocupació. Treball i Formació.Otros gastos diversos,,2410.0,2.0,10280.0,0.0,10280.0,0.0
+,2410.0,48900.0,Foment de l'ocupació. Treball i Formació Transferències corrents a fam. i instit. sense fi de lucre,,2410.0,4.0,300000.0,0.0,300000.0,0.0
+,3120.0,12003.0,Hospital Residencia Asistida Cas Serres Sueldos del Grupo C1,,3120.0,1.0,10083.76,0.0,10083.76,2203.53
+,3120.0,12004.0,Hospital Cas Serres Sueldos del Grupo C2,,3120.0,1.0,25641.54,0.0,25641.54,5175.75
+,3120.0,12005.0,Hospital Cas Serres Sueldos del Grupo E,,3120.0,1.0,23499.0,0.0,23499.0,4009.75
+,3120.0,12006.0,Hospital Cas Serres Trienios,,3120.0,1.0,5581.2,0.0,5581.2,1256.96
+,3120.0,12100.0,Hospital Cas Serres Complemento de destino,,3120.0,1.0,30491.3,0.0,30491.3,5936.81
+,3120.0,12101.0,Hospital Cas Serres Complemento específico,,3120.0,1.0,38164.7,0.0,38164.7,7516.17
+,3120.0,12103.0,Hospital Cas Serres Otros complementos,,3120.0,1.0,5000.88,0.0,5000.88,2137.22
+,3120.0,13000.0,Hospital Cas Serres Retribucions persona laboral,,3120.0,1.0,1177949.59,0.0,1177949.59,217348.82
+,3120.0,13002.0,Hospital Cas Serres Otras remuneraciones,,3120.0,1.0,1585972.86,0.0,1585972.86,328999.75
+,3120.0,13100.0,Hospital Cas Serres Retribucions personal laboral temporal,,3120.0,1.0,1326912.24,0.0,1326912.24,421233.16
+,3120.0,15001.0,Hospital Cas Serres Productivitat funcionàris,,3120.0,1.0,21210.0,0.0,21210.0,4704.94
+,3120.0,15002.0,Hospital Cas Serres Productivitat laborals,,3120.0,1.0,317212.68,0.0,317212.68,67237.52
+,3120.0,15003.0,Hospital Cas Serres Productivitat personal laboral contractat,,3120.0,1.0,163620.0,0.0,163620.0,52272.62
+,3120.0,16000.0,Hospital Cas Serres Seguridad Social,,3120.0,1.0,1488106.16,-6941.62,1481164.54,232400.31
+,3120.0,16008.0,Hospital Cas Serres Asistencia médico-farmacéutica,,3120.0,1.0,22500.0,0.0,22500.0,0.0
+,3120.0,20500.0,Hospital Residencia Asistida Cas Serres.Arrendaments. Mobiliari i estris,,3120.0,2.0,0.0,0.0,0.0,51.15
+,3120.0,20600.0,Hospital Residencia Asistida Cas Serres arrendaments programes informàtics,,3120.0,2.0,8000.0,0.0,8000.0,0.0
+,3120.0,21200.0,Hospital Residencia Asistida Cas Serres Repar. Manteniment i conserv. edificis i altres,,3120.0,2.0,60968.0,0.0,60968.0,0.0
+,3120.0,21300.0,Hospital Residencia Asistida Cas Serres Repar. Manteniment i conserv. Maquin. Instal. i utillatge,,3120.0,2.0,96840.4,0.0,96840.4,0.0
+,3120.0,21500.0,Hospital Residencia Asistida Cas Serres.Repar. Manteniment i conserv. Mobilliari i béns,,3120.0,2.0,0.0,0.0,0.0,1725.76
+,3120.0,22102.0,Hospital Residencia Asistida Cas Serres Gas,,3120.0,2.0,20000.0,0.0,20000.0,0.0
+,3120.0,22104.0,Hospital Cas Serres Vestuario,,3120.0,2.0,30700.0,0.0,30700.0,0.0
+,3120.0,22105.0,Hospital Residencia Asistida Cas Serres.Productos alimenticios,,3120.0,2.0,411500.0,0.0,411500.0,84502.96
+,3120.0,22106.0,Hospital Residencia Asistida Cas Serres.Productos farmacéuticos y material sanitario,,3120.0,2.0,55806.02,0.0,55806.02,17026.19
+,3120.0,22110.0,Hospital Residencia Asistida Cas Serres.Productos de limpieza y aseo,,3120.0,2.0,117946.74,0.0,117946.74,28252.68
+,3120.0,22112.0,"Hospital Residencia Asistida Cas Serres Suministros de material electrónico, eléctrico y de telecomunicaciones",,3120.0,2.0,4000.0,0.0,4000.0,0.0
+,3120.0,22199.0,Hospital Residencia Asistida Cas Serres.Otros suministros,,3120.0,2.0,139963.26,0.0,139963.26,524.47
+,3120.0,22300.0,Hospital Cas Serres Transports,,3120.0,2.0,50000.0,0.0,50000.0,0.0
+,3120.0,22699.0,Hospital Cas Serres Otros gastos diversos,,3120.0,2.0,70000.0,0.0,70000.0,783.35
+,3120.0,22799.0,Hospital Residencia Asistida Cas Serres.Otros trabajos realizados por otras empresas y profesionales,,3120.0,2.0,127099.72,0.0,127099.72,28485.18
+,3120.0,62203.0,Hospital Residencia Asistida Cas Serres Otras construcciones,,3120.0,6.0,98373.81,0.0,98373.81,0.0
+,3120.0,62300.0,Hospital Residencia Asistida Cas Serres.Maquinaria,,3120.0,6.0,0.0,0.0,0.0,0.0
+,3120.0,62500.0,Hospital Residencia Asistida Cas Serres Inversió nova de mobiliari i béns,,3120.0,6.0,95100.0,0.0,95100.0,142.9
+,3120.0,63301.0,Hospital Residencia Asistida Cas Serres.Instalaciones,,3120.0,6.0,0.0,0.0,0.0,0.0
+,3120.0,63500.0,Hospital Residencia Asistida Cas Serres,,3120.0,6.0,0.0,0.0,0.0,2977.81
+,3230.0,12004.0,Educació. Sueldos del Grupo C2,,3230.0,1.0,8547.18,0.0,8547.18,1833.93
+,3230.0,12006.0,Educació. Trienios,,3230.0,1.0,958.76,0.0,958.76,205.68
+,3230.0,12100.0,Educació. Complemento de destino,,3230.0,1.0,4356.24,0.0,4356.24,933.48
+,3230.0,12101.0,Educació. Complemento específico,,3230.0,1.0,5204.64,0.0,5204.64,1115.28
+,3230.0,12103.0,Educació. Otros complementos,,3230.0,1.0,671.04,0.0,671.04,167.73
+,3230.0,13000.0,Educació. Retribuciones básicas,,3230.0,1.0,307429.28,0.0,307429.28,66821.54
+,3230.0,13002.0,Educació. Otras remuneraciones,,3230.0,1.0,359984.96,0.0,359984.96,78249.38
+,3230.0,13100.0,Educació. Retribuc.Personal Lab. Eventual,,3230.0,1.0,122604.94,0.0,122604.94,24675.66
+,3230.0,15001.0,Educació. Productivitat funcionàris,,3230.0,1.0,3030.0,0.0,3030.0,757.5
+,3230.0,15002.0,Educació. Productivitat laborals,,3230.0,1.0,78780.0,0.0,78780.0,19585.91
+,3230.0,15003.0,Educació. Productivitat personal laboral contractat,,3230.0,1.0,14140.0,0.0,14140.0,3195.53
+,3230.0,16000.0,Educació. Seguridad Social,,3230.0,1.0,280908.59,0.0,280908.59,48432.96
+,3230.0,16008.0,Educació. Asistencia médico-farmacéutica,,3230.0,1.0,4500.0,0.0,4500.0,0.0
+,3230.0,21200.0,Educació Repar. Manteniment i conserv. edificis i altres,,3230.0,2.0,30000.0,0.0,30000.0,1457.4
+,3230.0,21300.0,Educació.Repar. Manteniment i conserv. Maquin. Instal. i utillatge,,3230.0,2.0,0.0,0.0,0.0,1190.17
+,3230.0,21600.0,Educació.Manteniment equisp informàtics,,3230.0,2.0,0.0,0.0,0.0,28.18
+,3230.0,22000.0,Educació.Ordinario no inventariable,,3230.0,2.0,0.0,0.0,0.0,79.68
+,3230.0,22101.0,Educació Agua,,3230.0,2.0,10000.0,0.0,10000.0,1067.0
+,3230.0,22102.0,Educació.Gas,,3230.0,2.0,0.0,0.0,0.0,81.48
+,3230.0,22103.0,Educació.Combustibles y carburantes,,3230.0,2.0,0.0,0.0,0.0,10.0
+,3230.0,22104.0,Educació.Vestuario,,3230.0,2.0,0.0,0.0,0.0,342.95
+,3230.0,22105.0,Educació.Productos alimenticios,,3230.0,2.0,66975.0,0.0,66975.0,7441.24
+,3230.0,22106.0,Educació.Productos farmacéuticos y material sanitario,,3230.0,2.0,0.0,0.0,0.0,19.54
+,3230.0,22110.0,Educació.Productos de limpieza y aseo,,3230.0,2.0,0.0,0.0,0.0,1470.21
+,3230.0,22113.0,Educació,,3230.0,2.0,0.0,0.0,0.0,13.58
+,3230.0,22699.0,Educació. Otros gastos diversos,,3230.0,2.0,0.0,0.0,0.0,2261.19
+,3230.0,22700.0,Educació.Limpieza y Aseo,,3230.0,2.0,70000.0,0.0,70000.0,9571.6
+,3230.0,22701.0,Educació.Seguridad,,3230.0,2.0,0.0,0.0,0.0,283.14
+,3230.0,22799.0,Educació. Otros trabajos realizados por otras empresas y profesionales,,3230.0,2.0,90200.0,0.0,90200.0,15213.22
+,3230.0,23020.0,Educació.Del personal no directivo,,3230.0,2.0,0.0,0.0,0.0,75.0
+,3230.0,23120.0,Educació.Del personal no directivo,,3230.0,2.0,0.0,0.0,0.0,396.0
+,3230.0,23300.0,Educació Altres indemnitzacions per raó de servei,,3230.0,2.0,15000.0,0.0,15000.0,0.0
+,3230.0,42111.0,Educació UNED DE LES ILLES BALEARS,,3230.0,4.0,75000.0,0.0,75000.0,0.0
+,3230.0,45102.0,Educació UNIVERSITAT DE LES ILLES BALEARS,,3230.0,4.0,34000.0,0.0,34000.0,0.0
+,3230.0,48100.0,Educació. Prem. beques i pensions d´estudis i investigació,,3230.0,4.0,600000.0,0.0,600000.0,0.0
+,3230.0,62203.0,Educació Otras construcciones,,3230.0,6.0,60000.0,0.0,60000.0,0.0
+,3230.0,62500.0,Educació Inversió nova de mobiliari i béns,,3230.0,6.0,61200.0,0.0,61200.0,445.9
+,3260.0,13000.0,Educació Vial. Retribuciones básicas,,3260.0,1.0,9180.5,0.0,9180.5,1967.25
+,3260.0,13002.0,Educació Vial. Otras remuneraciones,,3260.0,1.0,9197.72,0.0,9197.72,1994.73
+,3260.0,15002.0,Educació Vial. Productivitat laborals,,3260.0,1.0,3030.0,0.0,3030.0,757.5
+,3260.0,16000.0,Educació Vial. Seguridad Social,,3260.0,1.0,7261.75,0.0,7261.75,1225.03
+,3260.0,16008.0,Educació Vial. Asistencia médico-farmacéutica,,3260.0,1.0,300.0,0.0,300.0,0.0
+,3260.0,21200.0,Educació Vial.Repar. Manteniment i conserv. edificis i altres,,3260.0,2.0,0.0,0.0,0.0,113.8
+,3260.0,21300.0,Educació Vial.Repar. Manteniment i conserv. Maquin. Instal. i utillatge,,3260.0,2.0,0.0,0.0,0.0,299.48
+,3260.0,22110.0,Educació Vial.Productos de limpieza y aseo,,3260.0,2.0,0.0,0.0,0.0,174.45
+,3260.0,22699.0,Educació Vial. Otros gastos diversos,,3260.0,2.0,20000.0,0.0,20000.0,0.0
+,3260.0,22700.0,Educació Vial.Limpieza y Aseo,,3260.0,2.0,0.0,0.0,0.0,1210.0
+,3260.0,22799.0,Educació Vial.Otros trabajos realizados por otras empresas y profesionales,,3260.0,2.0,50000.0,0.0,50000.0,4935.96
+,3260.0,63203.0,Educació Vial Otras construcciones,,3260.0,6.0,172789.73,0.0,172789.73,0.0
+,3321.0,21300.0,Bibliotecas públicas Cas Serres.Repar. Manteniment i conserv. Maquin. Instal. i utillatge,,3321.0,2.0,0.0,0.0,0.0,205.46
+,3321.0,22000.0,Bibliotecas públicas Cas Serres.Ordinario no inventariable,,3321.0,2.0,0.0,0.0,0.0,16.02
+,3321.0,22001.0,"Bibliotecas públicas Cas Serres.Prensa, revistas, libros y otras publicaciones",,3321.0,2.0,0.0,0.0,0.0,2255.15
+,3321.0,22002.0,"Bibliotecas públicas Cas Serres.Material, informático no inventariable",,3321.0,2.0,0.0,0.0,0.0,21.09
+,3321.0,22699.0,Bibliotecas públicas Cas Serres. Otros gastos diversos,,3321.0,2.0,28600.0,0.0,28600.0,365.81
+,3321.0,22799.0,Bibliotecas públicas Cas Serres.Otros trabajos realizados por otras empresas y profesionales,,3321.0,2.0,0.0,0.0,0.0,518.2
+,3321.0,23120.0,Bibliotecas públicas Cas Serres.Del personal no directivo,,3321.0,2.0,0.0,0.0,0.0,50.4
+,3321.0,23300.0,Bibliotecas públicas Cas Serres.Altres indemnitzacions per raó de servei,,3321.0,2.0,0.0,0.0,0.0,30.0
+,3321.0,48900.0,Bibliotecas públicas Cas Serres.Transferències corrents a fam. i instit. sense fi de lucre,,3321.0,4.0,100000.0,0.0,100000.0,0.0
+,3321.0,62600.0,Bibliotecas públicas Cas Serres.Inversió nova. Informática,,3321.0,6.0,0.0,0.0,0.0,544.5
+,3321.0,62900.0,Bibliotecas públicas Cas Serres Inversió associada al funcionament dels serveis,,3321.0,6.0,31500.0,0.0,31500.0,5887.63
+,3321.0,78900.0,Bibliotecas públicas Cas Serres.Transferències de capital a famílies i instit. sense ànim de lucre,,3321.0,7.0,25000.0,0.0,25000.0,0.0
+,3330.0,21300.0,Equipaments culturals Cas Serres.Repar. Manteniment i conserv. Maquin. Instal. i utillatge,,3330.0,2.0,0.0,0.0,0.0,1443.14
+,3330.0,22112.0,"Equipaments culturals Cas Serres.Suministros de material electrónico, eléctrico y de telecomunicaciones",,3330.0,2.0,0.0,0.0,0.0,305.01
+,3330.0,22699.0,Equipaments culturals Cas Serres.Otros gastos diversos,,3330.0,2.0,53080.0,0.0,53080.0,126.35
+,3330.0,22700.0,Equipaments culturals Cas Serres. Limpieza y Aseo,,3330.0,2.0,60000.0,0.0,60000.0,0.0
+,3330.0,22701.0,Equipaments culturals Cas Serres Seguridad,,3330.0,2.0,75000.0,0.0,75000.0,275.88
+,3330.0,22799.0,Equipaments culturals Cas Serres.Otros trabajos realizados por otras empresas y profesionales,,3330.0,2.0,0.0,0.0,0.0,3879.88
+,3330.0,62900.0,Equipaments culturals Cas Serres Inversió associada al funcionament dels serveis,,3330.0,6.0,250000.0,0.0,250000.0,0.0
+,3340.0,12000.0,Promoció Cultural Sueldos del Grupo A1,,3340.0,1.0,29945.16,0.0,29945.16,4525.44
+,3340.0,12001.0,Promoció Cultural Sueldos del Grupo A2,,3340.0,1.0,26332.04,0.0,26332.04,5543.48
+,3340.0,12003.0,Promoció Cultural Sueldos del Grupo C1,,3340.0,1.0,40335.04,0.0,40335.04,7345.1
+,3340.0,12004.0,Promoció Cultural Sueldos del Grupo C2,,3340.0,1.0,25641.54,0.0,25641.54,5501.79
+,3340.0,12005.0,Promoció Cultural Sueldos del Grupo E,,3340.0,1.0,15666.0,0.0,15666.0,3357.0
+,3340.0,12006.0,Promoció Cultural Trienios,,3340.0,1.0,25792.49,0.0,25792.49,5900.96
+,3340.0,12100.0,Promoció Cultural Complemento de destino,,3340.0,1.0,73586.94,0.0,73586.94,14039.51
+,3340.0,12101.0,Promoció Cultural Complemento específico,,3340.0,1.0,100706.9,0.0,100706.9,20395.95
+,3340.0,12103.0,Promoció Cultural Otros complementos,,3340.0,1.0,11974.56,0.0,11974.56,7008.91
+,3340.0,13000.0,Promoció Cultural Retribucions persona laboral,,3340.0,1.0,10079.7,0.0,10079.7,2162.79
+,3340.0,13002.0,Promoció Cultural Otras remuneraciones,,3340.0,1.0,11121.48,0.0,11121.48,2438.88
+,3340.0,15001.0,Promoció Cultural Productivitat funcionàris,,3340.0,1.0,42048.24,0.0,42048.24,11966.27
+,3340.0,15002.0,Promoció Cultural Productivitat laborals,,3340.0,1.0,4797.0,0.0,4797.0,1199.25
+,3340.0,15100.0,Promoció Cultural.Gratificacions,,3340.0,1.0,0.0,441.42,441.42,441.36
+,3340.0,16000.0,Promoció Cultural Seguridad Social,,3340.0,1.0,113421.87,111.21,113533.08,18364.35
+,3340.0,16008.0,Promoció Cultural Asistencia médico-farmacéutica,,3340.0,1.0,3900.0,0.0,3900.0,0.0
+,3340.0,22001.0,"Promoció Cultural Prensa, revistas, libros y otras publicaciones",,3340.0,2.0,66913.0,0.0,66913.0,548.48
+,3340.0,22100.0,Promoció Cultural.Energía eléctrica,,3340.0,2.0,0.0,0.0,0.0,3741.86
+,3340.0,22101.0,Promoció Cultural.Agua,,3340.0,2.0,0.0,0.0,0.0,131.23
+,3340.0,22502.0,Promoció Cultural.Tributos de las Entidades locales,,3340.0,2.0,0.0,0.0,0.0,2328.84
+,3340.0,22601.0,Promoció Cultural.Atenciones protocolarias y representativas,,3340.0,2.0,0.0,0.0,0.0,200.88
+,3340.0,22602.0,Promoció Cultural Publicidad y propaganda,,3340.0,2.0,16000.0,0.0,16000.0,0.0
+,3340.0,22609.0,Promoció Cultural.Actividades culturales y deportivas,,3340.0,2.0,0.0,0.0,0.0,21141.26
+,3340.0,22699.0,Promoció Cultural Otros gastos diversos,,3340.0,2.0,86500.0,0.0,86500.0,3297.08
+,3340.0,22700.0,Promoció Cultural.Limpieza y Aseo,,3340.0,2.0,0.0,0.0,0.0,6229.59
+,3340.0,22701.0,Promoció Cultural.Seguridad,,3340.0,2.0,0.0,0.0,0.0,700.58
+,3340.0,22799.0,Promoció Cultural Otros trabajos realizados por otras empresas y profesionales,,3340.0,2.0,1128968.3,0.0,1128968.3,115464.33
+,3340.0,23000.0,Promoció Cultural.De los miembros de los órganos de gobierno,,3340.0,2.0,0.0,0.0,0.0,0.0
+,3340.0,23020.0,Promoció Cultural.Del personal no directivo,,3340.0,2.0,0.0,0.0,0.0,443.7
+,3340.0,23100.0,Promoció Cultural.De los miembros de los órganos de gobierno,,3340.0,2.0,0.0,0.0,0.0,185.45
+,3340.0,23120.0,Promoció Cultural.Del personal no directivo,,3340.0,2.0,0.0,0.0,0.0,57.55
+,3340.0,23300.0,Promoció Cultural.Altres indemnitzacions per raó de servei,,3340.0,2.0,0.0,0.0,0.0,135.0
+,3340.0,45103.0,Promoció Cultural INSTITUT D'ESTUDIS BALEÀRICS,,3340.0,4.0,16000.0,0.0,16000.0,0.0
+,3340.0,46203.0,Promoció Cultural Patronat municipal de música d'Eivissa,,3340.0,4.0,45000.0,0.0,45000.0,0.0
+,3340.0,47000.0,Promoció Cultural Transferències a empreses privades,,3340.0,4.0,9000.0,0.0,9000.0,0.0
+,3340.0,48100.0,Promoció Cultural Prem. beques i pensions d'estudis i investigació,,3340.0,4.0,27800.0,0.0,27800.0,0.0
+,3340.0,48900.0,Promoció Cultural Transferències corrents a fam. i instit. sense fi de lucre,,3340.0,4.0,140000.0,0.0,140000.0,28050.0
+,3340.0,48917.0,Promoció Cultural INSTITU D'ESTUDIS EIVISSENCS,,3340.0,4.0,30000.0,0.0,30000.0,0.0
+,3340.0,48918.0,Promoció Cultural Federació de Colles de Ball i Cultura popular d'Eivissa i Formentera,,3340.0,4.0,21500.0,0.0,21500.0,0.0
+,3340.0,60900.0,Promoció Cultural Otras inversiones nuevas en infraestructuras y bienes destinados al uso general,,3340.0,6.0,100000.0,0.0,100000.0,0.0
+,3340.0,62301.0,Promoció Cultural.Instal.lacions,,3340.0,6.0,0.0,0.0,0.0,2466.92
+,3340.0,62500.0,Promoció Cultural Inversió nova de mobiliari i béns,,3340.0,6.0,100000.0,0.0,100000.0,0.0
+,3340.0,63301.0,Promoció Cultural.Instalaciones,,3340.0,6.0,0.0,0.0,0.0,1818.51
+,3340.0,64100.0,Promoció Cultural Gastos en aplicaciones informáticas,,3340.0,6.0,2000.0,0.0,2000.0,0.0
+,3340.0,76201.0,Promoció Cultural Anjuntament d´Eivissa,,3340.0,7.0,500000.0,0.0,500000.0,0.0
+,3360.0,12000.0,Protecció del Patrimoni Sueldos del Grupo A1,,3360.0,1.0,14972.58,0.0,14972.58,3394.08
+,3360.0,12001.0,Protecció del Patrimoni Sueldos del Grupo A2,,3360.0,1.0,26332.04,0.0,26332.04,4760.87
+,3360.0,12003.0,Protecció del Patrimoni Sueldos del Grupo C1,,3360.0,1.0,20167.52,0.0,20167.52,3966.36
+,3360.0,12006.0,Protecció del Patrimoni Trienios,,3360.0,1.0,17960.53,0.0,17960.53,3616.94
+,3360.0,12100.0,Protecció del Patrimoni Complemento de destino,,3360.0,1.0,33122.88,0.0,33122.88,6336.33
+,3360.0,12101.0,Protecció del Patrimoni Complemento específico,,3360.0,1.0,42645.82,0.0,42645.82,8136.8
+,3360.0,12103.0,Protecció del Patrimoni Otros complementos,,3360.0,1.0,5401.2,0.0,5401.2,3956.99
+,3360.0,15001.0,Protecció del Patrimoni Productivitat funcionàris,,3360.0,1.0,22504.68,0.0,22504.68,4834.33
+,3360.0,16000.0,Protecció del Patrimoni Seguridad Social,,3360.0,1.0,46725.81,0.0,46725.81,7461.12
+,3360.0,16008.0,Protecció del Patrimoni Asistencia médico-farmacéutica,,3360.0,1.0,900.0,0.0,900.0,0.0
+,3360.0,20300.0,"Patrimoni.Arrendamientos maquinaria, instalaciones y utillaje",,3360.0,2.0,0.0,0.0,0.0,352.47
+,3360.0,21200.0,Patrimoni Repar. Manteniment i conserv. edificis i altres,,3360.0,2.0,92000.0,0.0,92000.0,155.36
+,3360.0,21300.0,Patrimoni.Repar. Manteniment i conserv. Maquin. Instal. i utillatge,,3360.0,2.0,0.0,0.0,0.0,72.6
+,3360.0,22001.0,"Patrimoni.Prensa, revistas, libros y otras publicaciones",,3360.0,2.0,0.0,0.0,0.0,15.0
+,3360.0,22101.0,Patrimoni.Agua,,3360.0,2.0,0.0,0.0,0.0,40.14
+,3360.0,22300.0,Patrimoni.Transports,,3360.0,2.0,0.0,0.0,0.0,114.32
+,3360.0,22609.0,Patrimoni.Actividades culturales y deportivas,,3360.0,2.0,0.0,0.0,0.0,200.0
+,3360.0,22699.0,Protecció del Patrimoni Otros gastos diversos,,3360.0,2.0,147700.0,0.0,147700.0,3854.1
+,3360.0,22700.0,Patrimoni.Limpieza y Aseo,,3360.0,2.0,0.0,0.0,0.0,689.7
+,3360.0,22701.0,Patrimoni.Seguridad,,3360.0,2.0,0.0,0.0,0.0,432.27
+,3360.0,22706.0,Patrimoni.Estudios y trabajos técnicos,,3360.0,2.0,0.0,0.0,0.0,21175.0
+,3360.0,22799.0,Protecció del Patrimoni Otros trabajos realizados por otras empresas y profesionales,,3360.0,2.0,147000.0,0.0,147000.0,30701.56
+,3360.0,23020.0,Patrimoni.Del personal no directivo,,3360.0,2.0,0.0,0.0,0.0,7.03
+,3360.0,48100.0,Protecció del Patrimoni Prem. beques i pensions d'estudis i investigació,,3360.0,4.0,72000.0,0.0,72000.0,0.0
+,3360.0,48900.0,Patrimoni Transferències corrents a fam. i instit. sense fi de lucre,,3360.0,4.0,0.0,0.0,0.0,26266.53
+,3360.0,48913.0,Patrimoni. Bisbat d'Eivissa,,3360.0,4.0,80000.0,0.0,80000.0,0.0
+,3360.0,48921.0,Patrimoni Fundació Illes Balears,,3360.0,4.0,50500.0,0.0,50500.0,0.0
+,3360.0,62500.0,Patrimoni.Inversió nova de mobiliari i béns,,3360.0,6.0,0.0,0.0,0.0,812.33
+,3360.0,62600.0,Patrimoni.Inversió nova. Informática,,3360.0,6.0,0.0,0.0,0.0,691.21
+,3360.0,62900.0,Patrimoni.Inversió associada al funcionament dels serveis,,3360.0,6.0,0.0,0.0,0.0,12780.49
+,3360.0,63301.0,Patrimoni.Instalaciones,,3360.0,6.0,0.0,0.0,0.0,2644.18
+,3360.0,68900.0,Patrimoni Inversió en béns patrimonials,,3360.0,6.0,761000.0,0.0,761000.0,0.0
+,3360.0,76200.0,Patrimoni Transf.Cap.Ajuntaments,,3360.0,7.0,25000.0,0.0,25000.0,0.0
+,3360.0,76714.0,Protecció del Patrimoni Consorci Patrimoni Humanitat. Transf. de Capital,,3360.0,7.0,721214.52,0.0,721214.52,0.0
+,3360.0,78900.0,Patrimoni.Transferències de capital a famílies i instit. sense ànim de lucre,,3360.0,7.0,675000.0,0.0,675000.0,6845.19
+,3360.0,78902.0,Patrimoni Transferencies de capital Bisbat d'Eivissa,,3360.0,7.0,106440.18,0.0,106440.18,0.0
+,3360.0,78903.0,Patrimoni Fundació Illes Balears,,3360.0,7.0,12500.0,0.0,12500.0,0.0
+,3370.0,12000.0,Joventut Sueldos del Grupo A1,,3370.0,1.0,14972.58,0.0,14972.58,1433.06
+,3370.0,12001.0,Joventut Sueldos del Grupo A2,,3370.0,1.0,13166.02,0.0,13166.02,0.0
+,3370.0,12006.0,Joventut Trienios,,3370.0,1.0,5183.46,0.0,5183.46,133.39
+,3370.0,12100.0,Joventut Complemento de destino,,3370.0,1.0,18648.28,0.0,18648.28,753.21
+,3370.0,12101.0,Joventut Complemento específico,,3370.0,1.0,30330.02,0.0,30330.02,1093.25
+,3370.0,12103.0,Joventut Otros complementos,,3370.0,1.0,2331.6,0.0,2331.6,131.52
+,3370.0,13000.0,Pla Integral de Joventud Retribucions persona laboral,,3370.0,1.0,20611.6,0.0,20611.6,3046.09
+,3370.0,13002.0,Pla Integral de Joventud Otras remuneraciones,,3370.0,1.0,20463.84,0.0,20463.84,3370.69
+,3370.0,15001.0,Joventut Productivitat funcionàris,,3370.0,1.0,12989.16,0.0,12989.16,319.83
+,3370.0,15002.0,Pla Integral de Joventud Productivitat laborals,,3370.0,1.0,6060.0,0.0,6060.0,1043.66
+,3370.0,16000.0,Pla Integral de Joventud Seguridad Social,,3370.0,1.0,36758.92,-725.45,36033.47,2263.37
+,3370.0,22300.0,Joventut Transports,,3370.0,2.0,50000.0,0.0,50000.0,0.0
+,3370.0,22602.0,Joventut Publicidad y propaganda,,3370.0,2.0,10000.0,0.0,10000.0,0.0
+,3370.0,22609.0,Joventut.Actividades culturales y deportivas,,3370.0,2.0,0.0,0.0,0.0,968.0
+,3370.0,22699.0,Pla Integral de Joventud Otros gastos diversos,,3370.0,2.0,56000.0,0.0,56000.0,0.0
+,3370.0,22700.0,Joventut.Limpieza y Aseo,,3370.0,2.0,0.0,0.0,0.0,3050.94
+,3370.0,22799.0,Joventut.Otros trabajos realizados por otras empresas y profesionales,,3370.0,2.0,260000.0,0.0,260000.0,257810.17
+,3370.0,46200.0,Joventut Transferències corrents a Ajuntaments,,3370.0,4.0,300000.0,0.0,300000.0,0.0
+,3370.0,48100.0,Joventut Prem. beques i pensions d'estudis i investigació,,3370.0,4.0,1000.0,0.0,1000.0,0.0
+,3370.0,48900.0,Joventut Transferències corrents a fam. i instit. sense fi de lucre,,3370.0,4.0,165000.0,0.0,165000.0,0.0
+,3370.0,62600.0,Joventut Inversió nova. Informática,,3370.0,6.0,8000.0,0.0,8000.0,0.0
+,3371.0,13000.0,Campamento Cala Jondal Retribucions persona laboral,,3371.0,1.0,25783.54,0.0,25783.54,2820.57
+,3371.0,13002.0,Campamento Cala Jondal Otras remuneraciones,,3371.0,1.0,37760.6,0.0,37760.6,4100.07
+,3371.0,13100.0,Campamento Cala Jondal Retribucions personal laboral temporal,,3371.0,1.0,21226.07,0.0,21226.07,0.0
+,3371.0,15002.0,Campamento Cala Jondal Productivitat laborals,,3371.0,1.0,7575.0,0.0,7575.0,757.5
+,3371.0,15003.0,Campamento Cala Jondal Productivitat personal laboral contractat,,3371.0,1.0,3030.0,0.0,3030.0,0.0
+,3371.0,16000.0,Campamento Cala Jondal Seguridad Social,,3371.0,1.0,31327.67,0.0,31327.67,1860.74
+,3371.0,16008.0,Campamento Cala Jondal Asistencia médico-farmacéutica,,3371.0,1.0,1200.0,0.0,1200.0,0.0
+,3371.0,21200.0,Campament Cala Jondal Repar. Manteniment i conserv. edificis i altres,,3371.0,2.0,15000.0,0.0,15000.0,0.0
+,3371.0,22101.0,Campament Cala Jondal Agua,,3371.0,2.0,15000.0,0.0,15000.0,0.0
+,3371.0,22105.0,Campament Cala Jondal.Productos alimenticios,,3371.0,2.0,40000.0,0.0,40000.0,0.0
+,3371.0,22699.0,Campamento Cala Jondal Otros gastos diversos,,3371.0,2.0,10000.0,0.0,10000.0,0.0
+,3371.0,22700.0,Campamento Cala Jondal Limpieza y Aseo,,3371.0,2.0,25000.0,0.0,25000.0,0.0
+,3371.0,22701.0,Campament Cala Jondal Seguridad,,3371.0,2.0,30000.0,0.0,30000.0,0.0
+,3371.0,22799.0,Campamento Cala Jondal Otros trabajos realizados por otras empresas y profesionales,,3371.0,2.0,90000.0,0.0,90000.0,1035.11
+,3371.0,62203.0,Campament Cala Jondal Otras construcciones,,3371.0,6.0,200000.0,0.0,200000.0,0.0
+,3371.0,62301.0,Campament Cala Jondal Instal.lacions,,3371.0,6.0,100000.0,0.0,100000.0,0.0
+,3371.0,62900.0,Campament Cala Jondal Inversió associada al funcionament dels serveis,,3371.0,6.0,18000.0,0.0,18000.0,3546.93
+,3410.0,12000.0,Pla Promoció Esportiva Sueldos del Grupo A1,,3410.0,1.0,14972.58,0.0,14972.58,3394.08
+,3410.0,12001.0,Pla Promoció Esportiva Sueldos del Grupo A2,,3410.0,1.0,13166.02,0.0,13166.02,2934.78
+,3410.0,12004.0,Pla Promoció Esportiva Sueldos del Grupo C2,,3410.0,1.0,25641.54,0.0,25641.54,3667.86
+,3410.0,12006.0,Pla Promoció Esportiva Trienios,,3410.0,1.0,14346.43,0.0,14346.43,3140.16
+,3410.0,12100.0,Pla Promoció Esportiva Complemento de destino,,3410.0,1.0,28154.0,0.0,28154.0,5374.23
+,3410.0,12101.0,Pla Promoció Esportiva Complemento específico,,3410.0,1.0,36604.12,0.0,36604.12,7010.25
+,3410.0,12103.0,Pla Promoció Esportiva Otros complementos,,3410.0,1.0,4344.72,0.0,4344.72,918.42
+,3410.0,13001.0,Promoció Esportiva.Horas extraordinarias,,3410.0,1.0,0.0,131.37,131.37,126.3
+,3410.0,13100.0,Promoció Esportiva.Retribucions personal laboral temporal,,3410.0,1.0,0.0,0.0,0.0,4299.27
+,3410.0,15001.0,Pla Promoció Esportiva Productivitat funcionàris,,3410.0,1.0,15150.0,0.0,15150.0,4814.46
+,3410.0,15003.0,Promoció Esportiva.Productivitat personal laboral contractat,,3410.0,1.0,0.0,0.0,0.0,757.5
+,3410.0,16000.0,Pla Promoció Esportiva Seguridad Social,,3410.0,1.0,40719.04,41.45,40760.49,7027.24
+,3410.0,16008.0,Pla Promoció Esportiva Asistencia médico-farmacéutica,,3410.0,1.0,1200.0,0.0,1200.0,0.0
+,3410.0,22199.0,Promoció Esportiva Otros suministros,,3410.0,2.0,32000.0,0.0,32000.0,0.0
+,3410.0,22400.0,Promoció Esportiva,,3410.0,2.0,0.0,0.0,0.0,322.19
+,3410.0,22601.0,Promoció Esportiva.Atenciones protocolarias y representativas,,3410.0,2.0,15000.0,0.0,15000.0,5130.26
+,3410.0,22602.0,Pla Promoció Esportiva Publicidad y propaganda,,3410.0,2.0,30000.0,0.0,30000.0,0.0
+,3410.0,22606.0,"Pla Promoció Esportiva Reuniones, conferencias y cursos",,3410.0,2.0,20000.0,0.0,20000.0,0.0
+,3410.0,22609.0,Pla Promoció Esportiva Actividades culturales y deportivas,,3410.0,2.0,212000.0,0.0,212000.0,8409.5
+,3410.0,22699.0,Pla Promoció Esportiva Otros gastos diversos,,3410.0,2.0,15000.0,0.0,15000.0,1941.41
+,3410.0,22799.0,Promoció Esportiva Otros trabajos realizados por otras empresas y profesionales,,3410.0,2.0,79600.0,0.0,79600.0,54101.03
+,3410.0,23000.0,Promoció Esportiva.De los miembros de los órganos de gobierno,,3410.0,2.0,0.0,0.0,0.0,0.0
+,3410.0,23020.0,Promoció Esportiva.Del personal no directivo,,3410.0,2.0,0.0,0.0,0.0,104.06
+,3410.0,23100.0,Promoció Esportiva.De los miembros de los órganos de gobierno,,3410.0,2.0,0.0,0.0,0.0,0.0
+,3410.0,23110.0,Promoció Esportiva.Del personal directivo,,3410.0,2.0,0.0,0.0,0.0,68.17
+,3410.0,23120.0,Promoció Esportiva.Del personal no directivo,,3410.0,2.0,0.0,0.0,0.0,188.55
+,3410.0,23300.0,Promoció Esportiva.Altres indemnitzacions per raó de servei,,3410.0,2.0,0.0,0.0,0.0,30.0
+,3410.0,46200.0,Promoció Esportiva Transferències corrents a Ajuntaments,,3410.0,4.0,150000.0,0.0,150000.0,0.0
+,3410.0,48900.0,Pla Promoció Esportiva Transferències corrents a fam. i instit. sense fi de lucre,,3410.0,4.0,1080000.0,0.0,1080000.0,141937.66
+,3410.0,48929.0,Promoció Esportiva Federació Balear d'Atletisme,,3410.0,4.0,34000.0,0.0,34000.0,0.0
+,3410.0,48930.0,Promoció Esportiva Federació Balear de Bàdminton,,3410.0,4.0,11000.0,0.0,11000.0,0.0
+,3410.0,48931.0,Promoció Esportiva Federació Balear de Bàsquet,,3410.0,4.0,54000.0,0.0,54000.0,0.0
+,3410.0,48932.0,Promoció Esportiva Federació Balear de Ciclisme,,3410.0,4.0,3500.0,0.0,3500.0,0.0
+,3410.0,48933.0,Promoció Esportiva Federació Balear d'Escacs,,3410.0,4.0,9000.0,0.0,9000.0,0.0
+,3410.0,48934.0,Promoció Esportiva Federació Balear de Futbol,,3410.0,4.0,89000.0,0.0,89000.0,0.0
+,3410.0,48935.0,Promoció Esportiva Federació Balear de Gimnàstica,,3410.0,4.0,14000.0,0.0,14000.0,0.0
+,3410.0,48936.0,Promoció Esportiva Federació Balear d'Handbol,,3410.0,4.0,24500.0,0.0,24500.0,0.0
+,3410.0,48937.0,Promoció Esportiva Federació Balear de Judo,,3410.0,4.0,12500.0,0.0,12500.0,0.0
+,3410.0,48938.0,Promoció Esportiva Federació Balear de Kàrate,,3410.0,4.0,15000.0,0.0,15000.0,0.0
+,3410.0,48939.0,Promoció Esportiva Federació Balear de kickboxing,,3410.0,4.0,8500.0,0.0,8500.0,0.0
+,3410.0,48940.0,Promoció Esportiva Federació Balear de Lluita,,3410.0,4.0,12000.0,0.0,12000.0,0.0
+,3410.0,48941.0,Promoció Esportiva Federació Balear de Natació,,3410.0,4.0,6500.0,0.0,6500.0,0.0
+,3410.0,48942.0,Promoció Esportiva Federació Balear de Pàdel,,3410.0,4.0,3500.0,0.0,3500.0,0.0
+,3410.0,48943.0,Promoció Esportiva Federació Balear de Piragüisme,,3410.0,4.0,8000.0,0.0,8000.0,0.0
+,3410.0,48944.0,Promoció Esportiva Federació Balear de Rugbi,,3410.0,4.0,13000.0,0.0,13000.0,0.0
+,3410.0,48945.0,Promoció Esportiva Federació Balear de Taekwondo,,3410.0,4.0,4500.0,0.0,4500.0,0.0
+,3410.0,48946.0,Promoció Esportiva Federació Balear de Tennis,,3410.0,4.0,4500.0,0.0,4500.0,0.0
+,3410.0,48947.0,Promoció Esportiva Federació Balear de Tennis Taula,,3410.0,4.0,11000.0,0.0,11000.0,0.0
+,3410.0,48948.0,Promoció Esportiva Federació Balear de Tir amb Arc,,3410.0,4.0,15500.0,0.0,15500.0,0.0
+,3410.0,48950.0,Promoció Esportiva Federació Balear de Tir amb Bassetja,,3410.0,4.0,7500.0,0.0,7500.0,0.0
+,3410.0,48951.0,Promoció Esportiva Federació Balear de Triatló,,3410.0,4.0,5500.0,0.0,5500.0,0.0
+,3410.0,48952.0,Promoció Esportiva Federació Balear de Vela,,3410.0,4.0,4000.0,0.0,4000.0,0.0
+,3410.0,48953.0,Promoció Esportiva Federació Balear de Voleibol,,3410.0,4.0,5600.0,0.0,5600.0,0.0
+,3410.0,78900.0,Promoció Esportiva Transferències de capital a famílies i instit. sense ànim de lucre,,3410.0,7.0,50000.0,0.0,50000.0,0.0
+,3420.0,12004.0,Instal.lacions esportives Sueldos del Grupo C2,,3420.0,1.0,25641.54,0.0,25641.54,5501.79
+,3420.0,12005.0,Instal.lacions esportives Sueldos del Grupo E,,3420.0,1.0,39165.0,0.0,39165.0,8392.5
+,3420.0,12006.0,Instal.lacions esportives Trienios,,3420.0,1.0,12202.13,0.0,12202.13,2552.94
+,3420.0,12100.0,Instal.lacions esportives Complemento de destino,,3420.0,1.0,32922.4,0.0,32922.4,7054.8
+,3420.0,12101.0,Instal.lacions esportives Complemento específico,,3420.0,1.0,60812.92,0.0,60812.92,13031.34
+,3420.0,12103.0,Instal.lacions esportives Otros complementos,,3420.0,1.0,5339.52,0.0,5339.52,2100.6
+,3420.0,13000.0,Instal.lacions esportives Retribucions persona laboral,,3420.0,1.0,201276.07,0.0,201276.07,42294.73
+,3420.0,13001.0,Instal.lacions Esportives.Horas extraordinarias,,3420.0,1.0,0.0,0.0,0.0,3305.64
+,3420.0,13002.0,Instal.lacions esportives Otras remuneraciones,,3420.0,1.0,231932.08,0.0,231932.08,50967.33
+,3420.0,13100.0,Instal.lacions Esportives Retribucions personal laboral temporal,,3420.0,1.0,100380.29,0.0,100380.29,14079.43
+,3420.0,15001.0,Instal.lacions esportives Productivitat funcionàris,,3420.0,1.0,26741.52,0.0,26741.52,6685.38
+,3420.0,15002.0,Instal.lacions esportives Productivitat laborals,,3420.0,1.0,60600.0,0.0,60600.0,14823.97
+,3420.0,15003.0,Instal.lacions Esportives Productivitat personal laboral contractat,,3420.0,1.0,13297.92,0.0,13297.92,2019.99
+,3420.0,15100.0,Instal.lacions Esportives.Gratificacions,,3420.0,1.0,0.0,0.0,0.0,758.0
+,3420.0,16000.0,Instal.lacions esportives Seguridad Social,,3420.0,1.0,261557.52,0.0,261557.52,41111.59
+,3420.0,16008.0,Instal.lacions esportives Asistencia médico-farmacéutica,,3420.0,1.0,4500.0,0.0,4500.0,0.0
+,3420.0,20300.0,"Instal.lacions Esportives.Arrendamientos maquinaria, instalaciones y utillaje",,3420.0,2.0,0.0,0.0,0.0,313.27
+,3420.0,20500.0,Instal.lacions Esportives.Arrendaments. Mobiliari i estris,,3420.0,2.0,0.0,0.0,0.0,517.81
+,3420.0,21200.0,Instal.lacions esportives Repar. Manteniment i conserv. edificis i altres,,3420.0,2.0,140000.0,0.0,140000.0,1819.67
+,3420.0,21300.0,Instal.lacions Esportives Repar. Manteniment i conserv. Maquin. Instal. i utillatge,,3420.0,2.0,100000.0,0.0,100000.0,8941.86
+,3420.0,21400.0,Instal.lacions Esportives Reparac. Manten. i Conserv. Mat. Transport,,3420.0,2.0,66882.62,0.0,66882.62,0.0
+,3420.0,21500.0,Instal.lacions Esportives.Repar. Manteniment i conserv. Mobilliari i béns,,3420.0,2.0,0.0,0.0,0.0,576.79
+,3420.0,21600.0,Instal.lacions Esportives Manteniment equisp informàtics,,3420.0,2.0,75000.0,0.0,75000.0,1342.0
+,3420.0,22000.0,Instal.lacions Esportives Ordinario no inventariable,,3420.0,2.0,25000.0,0.0,25000.0,0.0
+,3420.0,22103.0,Instal.lacions Esportives.Combustibles y carburantes,,3420.0,2.0,90000.0,0.0,90000.0,1572.12
+,3420.0,22104.0,Instal.lacions Esportives Vestuario,,3420.0,2.0,35000.0,0.0,35000.0,0.0
+,3420.0,22106.0,Instal.lacions Esportives Productos farmacéuticos y material sanitario,,3420.0,2.0,30000.0,0.0,30000.0,424.19
+,3420.0,22199.0,Instal.lacions Esportives.Otros suministros,,3420.0,2.0,75000.0,0.0,75000.0,5984.41
+,3420.0,22606.0,"Instal.lacions Esportives Reuniones, conferencias y cursos",,3420.0,2.0,40000.0,0.0,40000.0,0.0
+,3420.0,22699.0,Instal.lacions esportives Otros gastos diversos,,3420.0,2.0,160000.0,0.0,160000.0,607.1
+,3420.0,22700.0,Instal.lacions Esportives.Limpieza y Aseo,,3420.0,2.0,175000.0,0.0,175000.0,30836.0
+,3420.0,22701.0,Instal.lacions Esportives.Seguridad,,3420.0,2.0,0.0,0.0,0.0,239.58
+,3420.0,22706.0,Instal.lacions Esportives Estudios y trabajos técnicos,,3420.0,2.0,65000.0,0.0,65000.0,0.0
+,3420.0,22799.0,Instal.lacions Esportives Otros trabajos realizados por otras empresas y profesionales,,3420.0,2.0,35000.0,0.0,35000.0,35071.87
+,3420.0,23120.0,Instal.lacions Esportives.Del personal no directivo,,3420.0,2.0,0.0,0.0,0.0,51.68
+,3420.0,62300.0,Instal.lacions Esportives.Maquinaria,,3420.0,6.0,0.0,0.0,0.0,945.37
+,3420.0,62301.0,Instal.lacions Esportives Instal.lacions,,3420.0,6.0,337650.0,0.0,337650.0,2563.87
+,3420.0,62303.0,Instal.lacions Esportives Útils i eines,,3420.0,6.0,8126.52,0.0,8126.52,0.0
+,3420.0,62500.0,Instal.lacions Esportives.Inversió nova de mobiliari i béns,,3420.0,6.0,0.0,0.0,0.0,842.94
+,3420.0,62600.0,Instal.lacions Esportives Inversió nova. Informática,,3420.0,6.0,11400.0,0.0,11400.0,0.0
+,3420.0,63200.0,Instal.lacions esportives Industrials,,3420.0,6.0,535000.0,0.0,535000.0,10946.0
+,3420.0,63301.0,Instal.lacions Esportives.Instalaciones,,3420.0,6.0,0.0,0.0,0.0,76.33
+,4100.0,12000.0,"Administració Gral. d'agricultura, ramedaria i Pesca Sueldos del Grupo A1",,4100.0,1.0,59890.32,0.0,59890.32,13123.77
+,4100.0,12001.0,"Administració Gral. d'agricultura, ramedaria i Pesca Sueldos del Grupo A2",,4100.0,1.0,105328.16,0.0,105328.16,23021.72
+,4100.0,12003.0,"Administració Gral. d'agricultura, ramedaria i Pesca Sueldos del Grupo C1",,4100.0,1.0,10083.76,0.0,10083.76,2203.53
+,4100.0,12004.0,"Administració Gral. d'agricultura, ramedaria i Pesca Sueldos del Grupo C2",,4100.0,1.0,17094.36,0.0,17094.36,3143.48
+,4100.0,12006.0,"Administració Gral. d'agricultura, ramedaria i Pesca Trienios",,4100.0,1.0,39855.8,0.0,39855.8,8321.92
+,4100.0,12100.0,"Administració Gral. d'agricultura, ramedaria i Pesca Complemento de destino",,4100.0,1.0,103939.08,0.0,103939.08,21500.64
+,4100.0,12101.0,"Administració Gral. d'agricultura, ramedaria i Pesca Complemento específico",,4100.0,1.0,160625.5,0.0,160625.5,33313.15
+,4100.0,12103.0,"Administració Gral. d'agricultura, ramedaria i Pesca Otros complementos",,4100.0,1.0,16003.44,0.0,16003.44,5505.74
+,4100.0,13100.0,"Agricultura, Ramaderia i Pesca Retribucions personal laboral temporal",,4100.0,1.0,53348.23,0.0,53348.23,12160.54
+,4100.0,15001.0,"Administració Gral. d'agricultura, ramedaria i Pesca Productivitat funcionàris",,4100.0,1.0,71491.8,0.0,71491.8,17458.2
+,4100.0,15003.0,"Agricultura, Ramaderia i Pesca Productivitat personal laboral contractat",,4100.0,1.0,6060.0,0.0,6060.0,1010.0
+,4100.0,16000.0,"Administració Gral. d'agricultura, ramedaria i Pesca Seguridad Social",,4100.0,1.0,173881.63,0.0,173881.63,27136.41
+,4100.0,16008.0,"Administració Gral. d'agricultura, ramedaria i Pesca Asistencia médico-farmacéutica",,4100.0,1.0,3300.0,0.0,3300.0,0.0
+,4100.0,21300.0,"Administració Gral. d'agricultura, ramedaria i Pesca Repar. Manteniment i conserv. Maquin. Instal. i utillatge",,4100.0,2.0,10000.0,0.0,10000.0,0.0
+,4100.0,21400.0,"Agricultura, Ramaderia i Pesca.Reparac. Manten. i Conserv. Mat. Transport",,4100.0,2.0,0.0,0.0,0.0,251.72
+,4100.0,22103.0,"Agricultura, Ramaderia i Pesca.Combustibles y carburantes",,4100.0,2.0,0.0,0.0,0.0,165.46
+,4100.0,22104.0,"Agricultura, Ramaderia i Pesca.Vestuario",,4100.0,2.0,0.0,0.0,0.0,556.78
+,4100.0,22105.0,"Agricultura, Ramaderia i Pesca.Productos alimenticios",,4100.0,2.0,0.0,0.0,0.0,1031.14
+,4100.0,22602.0,"Administració Gral. d'agricultura, ramedaria i Pesca Publicidad y propaganda",,4100.0,2.0,3000.0,0.0,3000.0,0.0
+,4100.0,22606.0,"Agricultura, Ramaderia i Pesca Reuniones, conferencias y cursos",,4100.0,2.0,6000.0,0.0,6000.0,591.75
+,4100.0,22699.0,"Administració Gral. d'agricultura, ramedaria i Pesca Otros gastos diversos",,4100.0,2.0,140000.0,0.0,140000.0,5433.4
+,4100.0,22706.0,"Administració Gral. d´agricultura, ramedaria i Pesca Estudios y trabajos técnicos",,4100.0,2.0,130000.0,0.0,130000.0,60.0
+,4100.0,22799.0,"Administració Gral. d'agricultura, ramedaria i Pesca Otros trabajos realizados por otras empresas y profesionales",,4100.0,2.0,250000.0,0.0,250000.0,75879.8
+,4100.0,23020.0,"Agricultura, Ramaderia i Pesca.Del personal no directivo",,4100.0,2.0,0.0,0.0,0.0,869.13
+,4100.0,23100.0,"Agricultura, Ramaderia i Pesca.De los miembros de los órganos de gobierno",,4100.0,2.0,0.0,0.0,0.0,0.0
+,4100.0,23110.0,"Agricultura, Ramaderia i Pesca.Del personal directivo",,4100.0,2.0,0.0,0.0,0.0,85.8
+,4100.0,23120.0,"Agricultura, Ramaderia i Pesca.Del personal no directivo",,4100.0,2.0,0.0,0.0,0.0,558.25
+,4100.0,23300.0,"Agricultura, Ramaderia i Pesca.Altres indemnitzacions per raó de servei",,4100.0,2.0,0.0,0.0,0.0,285.0
+,4100.0,45101.0,"Agricultura, Ramaderia i Pesca Transf.Orgn.Aut.Administr.Centre Integrat FP Can Marines",,4100.0,4.0,20000.0,0.0,20000.0,0.0
+,4100.0,46302.0,"Agricultura, Ramaderia i Pesca Transferencies corrents a la Mancomunitat Intermunicipal Serveis Publics Insulars",,4100.0,4.0,10000.0,0.0,10000.0,0.0
+,4100.0,47000.0,"Agricultura, Ramaderia i Pesca Transferències a empreses privades",,4100.0,4.0,578000.0,0.0,578000.0,0.0
+,4100.0,48100.0,"Administració Gral. d´agricultura, ramedaria i Pesca Prem. beques i pensions d´estudis i investigació",,4100.0,4.0,12000.0,0.0,12000.0,0.0
+,4100.0,48900.0,"Administració Gral. d'agricultura, ramedaria i Pesca Transferències corrents a fam. i instit. sense fi de lucre",,4100.0,4.0,541186.0,0.0,541186.0,0.0
+,4100.0,48905.0,"Administració Gral. d'agricultura, ramedaria i Pesca Aportació Grup LEADER",,4100.0,4.0,60000.0,0.0,60000.0,0.0
+,4100.0,48924.0,"Agricultura, Ramaderia i Pesca Agrupació de defensa sanitària de ramat oví d'Eivissa",,4100.0,4.0,47000.0,0.0,47000.0,0.0
+,4100.0,48925.0,"Agricultura, Ramaderia i Pesca Associació de Veïns de Sant Mateo",,4100.0,4.0,6000.0,0.0,6000.0,0.0
+,4100.0,48926.0,"Agricultura, Ramaderia i Pesca Federació Pitiüsa de Races Autòctones",,4100.0,4.0,10000.0,0.0,10000.0,0.0
+,4100.0,48927.0,"Agricultura, Ramaderia i Pesca Cofraria de Pescadors d'Eivissa",,4100.0,4.0,17000.0,0.0,17000.0,0.0
+,4100.0,48928.0,"Agricultura, Ramaderia i Pesca Cofraria de Pescadors de Sant Antoni",,4100.0,4.0,17000.0,0.0,17000.0,0.0
+,4100.0,62300.0,"Administració Gral. d'agricultura, ramedaria i Pesca Maquinaria",,4100.0,6.0,30000.0,0.0,30000.0,0.0
+,4100.0,62302.0,"Agricultura, Ramaderia i Pesca Elementos de transporte",,4100.0,6.0,542400.0,0.0,542400.0,0.0
+,4100.0,62900.0,"Agricultura, Ramaderia i Pesca.Inversió associada al funcionament dels serveis",,4100.0,6.0,0.0,0.0,0.0,1432.64
+,4100.0,76200.0,"Administració Gral. d'agricultura, ramedaria i Pesca Transf.Cap.Ajuntaments",,4100.0,7.0,346000.0,0.0,346000.0,0.0
+,4100.0,76303.0,"Agricultura, Ramaderia i Pesca Transferencies de capital a la Mancomunitat Intermunicipal Serveis Publics Insulars",,4100.0,7.0,208000.0,0.0,208000.0,0.0
+,4100.0,77000.0,"Administració Gral. d'agricultura, ramedaria i Pesca A empreses privades",,4100.0,7.0,50000.0,0.0,50000.0,0.0
+,4100.0,78900.0,"Agricultura, Ramaderia i Pesca Transferències de capital a famílies i instit. sense ànim de lucre",,4100.0,7.0,50000.0,0.0,50000.0,0.0
+,4120.0,13000.0,Finca Experimentació Agraria Retribucions persona laboral,,4120.0,1.0,28648.48,0.0,28648.48,6096.91
+,4120.0,13002.0,Finca Experimentació Agraria Otras remuneraciones,,4120.0,1.0,34473.34,0.0,34473.34,7553.97
+,4120.0,15002.0,Finca Experimentació Agraria Productivitat laborals,,4120.0,1.0,15476.16,0.0,15476.16,3869.04
+,4120.0,16000.0,Finca Experimentació Agraria Seguridad Social,,4120.0,1.0,26600.32,0.0,26600.32,4357.61
+,4120.0,16008.0,Finca Experimentació Agraria Asistencia médico-farmacéutica,,4120.0,1.0,900.0,0.0,900.0,0.0
+,4120.0,20500.0,Finca d´Experimentació Agraria.Arrendaments. Mobiliari i estris,,4120.0,2.0,0.0,0.0,0.0,34.1
+,4120.0,21300.0,Finca Experimentació Agraria Repar. Manteniment i conserv. Maquin. Instal. i utillatge,,4120.0,2.0,22000.0,0.0,22000.0,635.93
+,4120.0,21500.0,Finca Experimentació Agraria Repar. Manteniment i conserv. Mobilliari i béns,,4120.0,2.0,10000.0,0.0,10000.0,0.0
+,4120.0,22699.0,Finca Experimentació Agraria Otros gastos diversos,,4120.0,2.0,58000.0,0.0,58000.0,1627.66
+,4120.0,22799.0,Finca Experimentació Agraria Otros trabajos realizados por otras empresas y profesionales,,4120.0,2.0,40000.0,0.0,40000.0,567.5
+,4120.0,62200.0,Finca d´Experimentació Agraria Industrials,,4120.0,6.0,100000.0,0.0,100000.0,0.0
+,4120.0,62300.0,Finca Experimentació Agraria Maquinaria,,4120.0,6.0,10000.0,0.0,10000.0,0.0
+,4120.0,62301.0,Finca d´Experimentació Agraria.Instal.lacions,,4120.0,6.0,0.0,0.0,0.0,2825.35
+,4120.0,63200.0,Finca Experimentació Agraria Industrials,,4120.0,6.0,30000.0,0.0,30000.0,0.0
+,4120.0,63300.0,Finca Experimentació Agraria Maquinaria,,4120.0,6.0,15000.0,0.0,15000.0,0.0
+,4190.0,12003.0,Caça Sueldos del Grupo C1,,4190.0,1.0,10083.76,0.0,10083.76,538.64
+,4190.0,12004.0,Caça Sueldos del Grupo C2,,4190.0,1.0,8547.18,0.0,8547.18,1403.3
+,4190.0,12006.0,Caça Trienios,,4190.0,1.0,1277.1,0.0,1277.1,209.7
+,4190.0,12100.0,Caça Complemento de destino,,4190.0,1.0,10635.8,0.0,10635.8,1289.38
+,4190.0,12101.0,Caça Complemento específico,,4190.0,1.0,11076.94,0.0,11076.94,1435.44
+,4190.0,12103.0,Caça Otros complementos,,4190.0,1.0,1662.96,0.0,1662.96,171.47
+,4190.0,15001.0,Caça Productivitat funcionàris,,4190.0,1.0,6060.0,0.0,6060.0,764.8
+,4190.0,16000.0,Caça Seguridad Social,,4190.0,1.0,13970.62,0.0,13970.62,1287.48
+,4190.0,22104.0,Caça.Vestuario,,4190.0,2.0,0.0,0.0,0.0,216.69
+,4190.0,22699.0,Caça Otros gastos diversos,,4190.0,2.0,50558.0,0.0,50558.0,0.0
+,4190.0,48900.0,Caça Transferències corrents a fam. i instit. sense fi de lucre,,4190.0,4.0,22000.0,0.0,22000.0,0.0
+,4190.0,48922.0,Caça Associació de criadors des Ca Eivissenc,,4190.0,4.0,10000.0,0.0,10000.0,0.0
+,4190.0,48923.0,Caça Federació Balear de Caça,,4190.0,4.0,20000.0,0.0,20000.0,0.0
+,4190.0,62300.0,Caça Maquinaria,,4190.0,6.0,20434.0,0.0,20434.0,0.0
+,4190.0,78900.0,Caça.Transferències de capital a famílies i instit. sense ànim de lucre,,4190.0,7.0,18424.0,0.0,18424.0,0.0
+,4190.0,78904.0,Caça Federció Balear de CaçA,,4190.0,7.0,10000.0,0.0,10000.0,0.0
+,4220.0,12000.0,Industria. Administració General. Sueldos del Grupo A1,,4220.0,1.0,44917.74,0.0,44917.74,5769.94
+,4220.0,12001.0,Industria. Administració General. Sueldos del Grupo A2,,4220.0,1.0,26332.04,0.0,26332.04,4891.3
+,4220.0,12003.0,Industria. Administració General. Sueldos del Grupo C1,,4220.0,1.0,20167.52,0.0,20167.52,4407.06
+,4220.0,12004.0,Industria. Administració General. Sueldos del Grupo C2,,4220.0,1.0,17094.36,0.0,17094.36,16444.05
+,4220.0,12006.0,Industria. Administració General. Trienios,,4220.0,1.0,16243.76,0.0,16243.76,4325.33
+,4220.0,12100.0,Industria. Administració General. Complemento de destino,,4220.0,1.0,66842.3,0.0,66842.3,18316.59
+,4220.0,12101.0,Industria. Administració General. Complemento específico,,4220.0,1.0,99941.1,0.0,99941.1,27112.93
+,4220.0,12103.0,Industria. Administració General. Otros complementos,,4220.0,1.0,9234.96,0.0,9234.96,8665.12
+,4220.0,13000.0,Industria. Administració General. Retribucions persona laboral,,4220.0,1.0,0.0,0.0,0.0,4632.77
+,4220.0,13002.0,Industria. Administració General. Otras remuneraciones,,4220.0,1.0,0.0,0.0,0.0,10164.45
+,4220.0,15001.0,Industria. Administració General. Productivitat funcionàris,,4220.0,1.0,39996.12,0.0,39996.12,18929.4
+,4220.0,15002.0,Industria. Administració General. Productivitat laborals,,4220.0,1.0,0.0,0.0,0.0,1515.0
+,4220.0,15100.0,Industria. Administració General..Gratificacions,,4220.0,1.0,0.0,0.0,0.0,654.24
+,4220.0,16000.0,Industria. Administració General. Seguridad Social,,4220.0,1.0,87825.76,-23169.99,64655.77,8664.7
+,4220.0,16008.0,Industria. Administració General. Asistencia médico-farmacéutica,,4220.0,1.0,1800.0,0.0,1800.0,0.0
+,4220.0,20200.0,Industria. Administració General..Lloguers,,4220.0,2.0,0.0,0.0,0.0,726.0
+,4220.0,21300.0,Industria. Administració General. Repar. Manteniment i conserv. Maquin. Instal. i utillatge,,4220.0,2.0,0.0,0.0,0.0,357.76
+,4220.0,21400.0,Industria. Administració General..Reparac. Manten. i Conserv. Mat. Transport,,4220.0,2.0,0.0,0.0,0.0,22.32
+,4220.0,22106.0,Industria. Administració General..Productos farmacéuticos y material sanitario,,4220.0,2.0,0.0,0.0,0.0,14.2
+,4220.0,22110.0,Industria. Administració General..Productos de limpieza y aseo,,4220.0,2.0,0.0,0.0,0.0,76.23
+,4220.0,22300.0,Industria. Administració General..Transports,,4220.0,2.0,0.0,0.0,0.0,320.34
+,4220.0,22601.0,Industria. Administració General..Atenciones protocolarias y representativas,,4220.0,2.0,0.0,0.0,0.0,330.0
+,4220.0,22602.0,Industria. Administració General. Publicidad y propaganda,,4220.0,2.0,25000.0,0.0,25000.0,5509.99
+,4220.0,22606.0,"Industria. Administració General..Reuniones, conferencias y cursos",,4220.0,2.0,0.0,0.0,0.0,3990.0
+,4220.0,22699.0,Industria. Administració General. Otros gastos diversos,,4220.0,2.0,300000.0,0.0,300000.0,2581.59
+,4220.0,22700.0,Industria. Administració General..Limpieza y Aseo,,4220.0,2.0,0.0,0.0,0.0,1794.67
+,4220.0,22706.0,Industria. Administració General. Estudios y trabajos técnicos,,4220.0,2.0,385000.0,0.0,385000.0,0.0
+,4220.0,22799.0,Industria. Administració General..Otros trabajos realizados por otras empresas y profesionales,,4220.0,2.0,950000.0,0.0,950000.0,330652.16
+,4220.0,23000.0,Industria. Administració General..De los miembros de los órganos de gobierno,,4220.0,2.0,0.0,0.0,0.0,177.09
+,4220.0,23020.0,Industria. Administració General..Del personal no directivo,,4220.0,2.0,0.0,0.0,0.0,215.12
+,4220.0,23100.0,Industria. Administració General..De los miembros de los órganos de gobierno,,4220.0,2.0,0.0,0.0,0.0,961.14
+,4220.0,23120.0,Industria. Administració General..Del personal no directivo,,4220.0,2.0,0.0,0.0,0.0,624.9
+,4220.0,23300.0,Industria. Administració General..Altres indemnitzacions per raó de servei,,4220.0,2.0,0.0,0.0,0.0,1065.0
+,4220.0,46200.0,Industria. Administració General. Transferències corrents a Ajuntaments,,4220.0,4.0,100000.0,0.0,100000.0,30496.76
+,4220.0,46202.0,Industria. Administració General. Transferències Ajuntament d'Eivissa,,4220.0,4.0,50000.0,0.0,50000.0,0.0
+,4220.0,47000.0,Industria. Administració General. Transferències a empreses privades,,4220.0,4.0,20000.0,0.0,20000.0,0.0
+,4220.0,48100.0,Industria. Administració General. Prem. beques i pensions d'estudis i investigació,,4220.0,4.0,7500.0,0.0,7500.0,0.0
+,4220.0,48900.0,Industria. Administració General. Transferències corrents a fam. i instit. sense fi de lucre,,4220.0,4.0,160000.0,0.0,160000.0,38852.75
+,4220.0,61900.0,Industria. Administració General..Otras inversiones de reposición en infraestructuras y bienes destinados al uso general,,4220.0,6.0,0.0,0.0,0.0,0.0
+,4220.0,62200.0,Industria. Administració General. Industrials,,4220.0,6.0,555700.31,389819.82,945520.13,13087.64
+,4220.0,62201.0,Industria. Administració General..Administrativos,,4220.0,6.0,0.0,0.0,0.0,0.0
+,4220.0,62203.0,Industria. Administració General..Otras construcciones,,4220.0,6.0,0.0,1197795.4,1197795.4,0.0
+,4220.0,62300.0,Industria. Administració General. Maquinaria,,4220.0,6.0,0.0,0.0,0.0,16567.07
+,4220.0,62301.0,Industria. Administració General..Instal.lacions,,4220.0,6.0,0.0,0.0,0.0,7700.77
+,4220.0,62500.0,Industria. Administració General..Inversió nova de mobiliari i béns,,4220.0,6.0,0.0,0.0,0.0,3948.35
+,4220.0,77000.0,Industria. Administració General. A empreses privades,,4220.0,7.0,40000.0,0.0,40000.0,0.0
+,4221.0,12001.0,ITV - Inspecció Tècnica Vehicles Sueldos del Grupo A2,,4221.0,1.0,26332.04,0.0,26332.04,3669.56
+,4221.0,12004.0,ITV - Inspecció Tècnica Vehicles Sueldos del Grupo C2,,4221.0,1.0,179490.78,6789.73,186280.51,22968.95
+,4221.0,12006.0,ITV - Inspecció Tècnica Vehicles Trienios,,4221.0,1.0,7751.32,0.0,7751.32,1468.61
+,4221.0,12100.0,ITV - Inspecció Tècnica Vehicles Complemento de destino,,4221.0,1.0,113621.06,0.0,113621.06,14614.56
+,4221.0,12101.0,ITV - Inspecció Tècnica Vehicles Complemento específico,,4221.0,1.0,155520.54,0.0,155520.54,20005.01
+,4221.0,12103.0,ITV - Inspecció Tècnica Vehicles Otros complementos,,4221.0,1.0,16263.36,0.0,16263.36,5755.08
+,4221.0,13000.0,ITV - Inspecció Tècnica Vehicles Retribucions persona laboral,,4221.0,1.0,90580.45,0.0,90580.45,9265.54
+,4221.0,13001.0,ITV - Inspecció Tècnica Vehicles.Horas extraordinarias,,4221.0,1.0,0.0,0.0,0.0,2380.6
+,4221.0,13002.0,ITV - Inspecció Tècnica Vehicles Otras remuneraciones,,4221.0,1.0,107554.88,0.0,107554.88,16527.38
+,4221.0,13100.0,ITV - Inspecció Tècnica Vehicles.Retribucions personal laboral temporal,,4221.0,1.0,0.0,8859.54,8859.54,0.0
+,4221.0,15001.0,ITV - Inspecció Tècnica Vehicles Productivitat funcionaris,,4221.0,1.0,70867.92,0.0,70867.92,10617.68
+,4221.0,15002.0,ITV - Inspecció Tècnica Vehicles Productivitat laborals,,4221.0,1.0,24240.0,0.0,24240.0,3030.0
+,4221.0,15100.0,ITV - Inspecció Tècnica Vehicles.Gratificacions,,4221.0,1.0,0.0,0.0,0.0,4216.84
+,4221.0,16000.0,ITV - Inspecció Tècnica Vehicles Seguridad Social,,4221.0,1.0,242542.11,8610.39,251152.5,34980.5
+,4221.0,16008.0,ITV - Inspecció Tècnica Vehicles Asistencia médico-farmacéutica,,4221.0,1.0,4500.0,0.0,4500.0,0.0
+,4221.0,20500.0,ITV - Inspecció Tècnica Vehicles.Arrendaments. Mobiliari i estris,,4221.0,2.0,0.0,0.0,0.0,165.51
+,4221.0,21200.0,ITV - Inspecció Tècnica Vehicles Repar. Manteniment i conserv. edificis i altres,,4221.0,2.0,130000.0,0.0,130000.0,0.0
+,4221.0,22699.0,ITV - Inspecció Tècnica Vehicles Otros gastos diversos,,4221.0,2.0,40000.0,0.0,40000.0,0.0
+,4221.0,22700.0,ITV - Inspecció Tècnica Vehicles Limpieza y Aseo,,4221.0,2.0,18000.0,0.0,18000.0,0.0
+,4221.0,22701.0,ITV - Inspecció Tècnica Vehicles.Seguridad,,4221.0,2.0,0.0,0.0,0.0,232.32
+,4221.0,22799.0,ITV - Inspecció Tècnica Vehicles Otros trabajos realizados por otras empresas y profesionales,,4221.0,2.0,65049.6,0.0,65049.6,1686.35
+,4221.0,23020.0,ITV - Inspecció Tècnica Vehicles.Del personal no directivo,,4221.0,2.0,0.0,0.0,0.0,189.9
+,4221.0,23120.0,ITV - Inspecció Tècnica Vehicles.Del personal no directivo,,4221.0,2.0,0.0,0.0,0.0,218.75
+,4221.0,23300.0,ITV - Inspecció Tècnica Vehicles.Altres indemnitzacions per raó de servei,,4221.0,2.0,0.0,0.0,0.0,75.0
+,4221.0,62200.0,ITV - Inspecció Tècnica Vehicles Industrials,,4221.0,6.0,12000.0,0.0,12000.0,0.0
+,4221.0,62300.0,ITV - Inspecció Tècnica Vehicles Maquinaria,,4221.0,6.0,125000.0,0.0,125000.0,0.0
+,4221.0,62600.0,ITV - Inspecció Tècnica Vehicles Inversió nova. Informática,,4221.0,6.0,28000.0,0.0,28000.0,0.0
+,4320.0,12000.0,Ordenació turística Sueldos del Grupo A1,,4320.0,1.0,29945.16,0.0,29945.16,9654.27
+,4320.0,12001.0,Ordenació turística Sueldos del Grupo A2,,4320.0,1.0,65830.1,0.0,65830.1,14673.9
+,4320.0,12004.0,Ordenació turística Sueldos del Grupo C2,,4320.0,1.0,68377.44,0.0,68377.44,13937.88
+,4320.0,12005.0,Ordenació Turística.Sueldos del Grupo E,,4320.0,1.0,0.0,0.0,0.0,559.5
+,4320.0,12006.0,Ordenació turística Trienios,,4320.0,1.0,35358.52,0.0,35358.52,7919.34
+,4320.0,12100.0,Ordenació turística Complemento de destino,,4320.0,1.0,89511.94,0.0,89511.94,20973.07
+,4320.0,12101.0,Ordenació turística Complemento específico,,4320.0,1.0,136115.42,0.0,136115.42,32514.17
+,4320.0,12103.0,Ordenació turística Otros complementos,,4320.0,1.0,19348.32,0.0,19348.32,5088.47
+,4320.0,15001.0,Ordenació turística Productivitat funcionàris,,4320.0,1.0,66323.4,0.0,66323.4,22395.81
+,4320.0,16000.0,Ordenació turística Seguridad Social,,4320.0,1.0,133871.22,0.0,133871.22,23495.61
+,4320.0,16008.0,Ordenació turística Asistencia médico-farmacéutica,,4320.0,1.0,3900.0,0.0,3900.0,0.0
+,4320.0,22699.0,Ordenació Turística Otros gastos diversos,,4320.0,2.0,60000.0,0.0,60000.0,0.0
+,4320.0,22799.0,Ordenació turística Otros trabajos realizados por otras empresas y profesionales,,4320.0,2.0,8000.0,0.0,8000.0,3104.3
+,4320.0,23020.0,Ordenació Turística.Del personal no directivo,,4320.0,2.0,0.0,0.0,0.0,23.34
+,4320.0,23300.0,Ordenació Turística.Altres indemnitzacions per raó de servei,,4320.0,2.0,0.0,0.0,0.0,30.0
+,4321.0,12000.0,Promoció Turística Sueldos del Grupo A1,,4321.0,1.0,59890.32,0.0,59890.32,9050.88
+,4321.0,12001.0,Promoció Turística Sueldos del Grupo A2,,4321.0,1.0,65830.1,0.0,65830.1,5869.56
+,4321.0,12003.0,Promoció Turística Sueldos del Grupo C1,,4321.0,1.0,20167.52,0.0,20167.52,1762.83
+,4321.0,12004.0,Promoció Turística Sueldos del Grupo C2,,4321.0,1.0,128207.7,0.0,128207.7,26100.22
+,4321.0,12005.0,Promoció Turística Sueldos del Grupo E,,4321.0,1.0,7833.0,0.0,7833.0,1678.5
+,4321.0,12006.0,Promoció Turística Trienios,,4321.0,1.0,18857.56,0.0,18857.56,3695.14
+,4321.0,12100.0,Promoció Turística Complemento de destino,,4321.0,1.0,155234.8,0.0,155234.8,23599.19
+,4321.0,12101.0,Promoció Turística Complemento específico,,4321.0,1.0,229180.0,0.0,229180.0,32920.73
+,4321.0,12103.0,Promoció Turística Otros complementos,,4321.0,1.0,23126.88,0.0,23126.88,4940.93
+,4321.0,15001.0,Promoció Turística Productivitat funcionàris,,4321.0,1.0,81810.0,0.0,81810.0,17691.91
+,4321.0,15100.0,Promoció Turística.Gratificacions,,4321.0,1.0,0.0,0.0,0.0,403.26
+,4321.0,16000.0,Promoció Turística Seguridad Social,,4321.0,1.0,231872.38,0.0,231872.38,29420.46
+,4321.0,16008.0,Promoció Turística Asistencia médico-farmacéutica,,4321.0,1.0,1200.0,0.0,1200.0,0.0
+,4321.0,20200.0,Promoció Turística Lloguers,,4321.0,2.0,10500.0,0.0,10500.0,1768.6
+,4321.0,20500.0,Promoció Turística.Arrendaments. Mobiliari i estris,,4321.0,2.0,0.0,0.0,0.0,6292.0
+,4321.0,21200.0,Promoció Turística Repar. Manteniment i conserv. edificis i altres,,4321.0,2.0,1000.0,0.0,1000.0,3020.05
+,4321.0,21300.0,Promoció Turística.Repar. Manteniment i conserv. Maquin. Instal. i utillatge,,4321.0,2.0,0.0,0.0,0.0,590.1
+,4321.0,21500.0,Promoció Turística Repar. Manteniment i conserv. Mobilliari i béns,,4321.0,2.0,1600.0,0.0,1600.0,0.0
+,4321.0,21600.0,Promoció Turística.Manteniment equisp informàtics,,4321.0,2.0,0.0,0.0,0.0,1028.5
+,4321.0,22100.0,Promoció Turística Energía eléctrica,,4321.0,2.0,3000.0,0.0,3000.0,479.1
+,4321.0,22101.0,Promoció Turística Agua,,4321.0,2.0,300.0,0.0,300.0,0.0
+,4321.0,22104.0,Promoció Turística Vestuario,,4321.0,2.0,1000.0,0.0,1000.0,469.48
+,4321.0,22601.0,Promoció Turística.Atenciones protocolarias y representativas,,4321.0,2.0,0.0,0.0,0.0,15030.85
+,4321.0,22602.0,Promoció Turística Publicidad y propaganda,,4321.0,2.0,400000.0,0.0,400000.0,8199.0
+,4321.0,22699.0,Promoció Turística Otros gastos diversos,,4321.0,2.0,3000.0,0.0,3000.0,9895.12
+,4321.0,22700.0,Promoció Turística.Limpieza y Aseo,,4321.0,2.0,2000.0,0.0,2000.0,1982.36
+,4321.0,22701.0,Promoció Turística Seguridad,,4321.0,2.0,600.0,0.0,600.0,2988.23
+,4321.0,22706.0,Promoció Turística.Estudios y trabajos técnicos,,4321.0,2.0,0.0,0.0,0.0,10557.25
+,4321.0,22799.0,Promoció Turística.Otros trabajos realizados por otras empresas y profesionales,,4321.0,2.0,491000.0,0.0,491000.0,255728.46
+,4321.0,23000.0,Promoció Turística.De los miembros de los órganos de gobierno,,4321.0,2.0,0.0,0.0,0.0,145.21
+,4321.0,23010.0,Promoció Turística.Del personal directivo,,4321.0,2.0,0.0,0.0,0.0,197.46
+,4321.0,23020.0,Promoció Turística.Del personal no directivo,,4321.0,2.0,0.0,0.0,0.0,745.39
+,4321.0,23100.0,Promoció Turística Locomoción. De los miembros de los órganos de gobierno,,4321.0,2.0,15000.0,0.0,15000.0,0.0
+,4321.0,23110.0,Promoció Turística.Del personal directivo,,4321.0,2.0,0.0,0.0,0.0,432.58
+,4321.0,23120.0,Promoció Turística.Del personal no directivo,,4321.0,2.0,0.0,0.0,0.0,564.73
+,4321.0,41001.0,Promoció Turística Transferència corrent al Patronat Escola de Turisme,,4321.0,4.0,550000.0,0.0,550000.0,0.0
+,4321.0,46200.0,Promoció Turística Transferències corrents a Ajuntaments,,4321.0,4.0,100000.0,0.0,100000.0,0.0
+,4321.0,46202.0,Promoció Turística Transferències Ajuntament d'Eivissa,,4321.0,4.0,50000.0,0.0,50000.0,0.0
+,4321.0,47900.0,Promoció Turística.Otras subvenciones a empresas privadas,,4321.0,4.0,0.0,0.0,0.0,0.0
+,4321.0,48100.0,Promoció Turística Prem. beques i pensions d'estudis i investigació,,4321.0,4.0,50000.0,0.0,50000.0,0.0
+,4321.0,48900.0,Promoció Turística Transferències corrents a fam. i instit. sense fi de lucre,,4321.0,4.0,325000.0,0.0,325000.0,0.0
+,4321.0,48910.0,Transferència corrent FECOEV promoció turística d'Eivissa,,4321.0,4.0,1500000.0,0.0,1500000.0,0.0
+,4321.0,48913.0,Promoció Turística Bisbat d'Eivissa,,4321.0,4.0,8000.0,0.0,8000.0,0.0
+,4321.0,48914.0,Promoció Turística Fomento del Turismo de Ibiza y Formentera,,4321.0,4.0,30000.0,0.0,30000.0,0.0
+,4321.0,48954.0,Promoció Turística Federació Espanyola de Triatlón,,4321.0,4.0,150000.0,0.0,150000.0,0.0
+,4321.0,60900.0,Promoció Turística.Otras inversiones nuevas en infraestructuras y bienes destinados al uso general,,4321.0,6.0,500000.0,-292003.5,207996.5,2359.5
+,4321.0,62201.0,Promoció Turística Administrativos,,4321.0,6.0,120000.0,0.0,120000.0,0.0
+,4321.0,63200.0,Promoció Turística.Industrials,,4321.0,6.0,0.0,0.0,0.0,1495.63
+,4321.0,63300.0,Promoció Turística.Maquinaria,,4321.0,6.0,0.0,0.0,0.0,0.0
+,4321.0,68900.0,Promoció Turística Inversió en béns patrimonials,,4321.0,6.0,100000.0,0.0,100000.0,0.0
+,4321.0,76200.0,Promoció Turística Transf.Cap.Ajuntaments,,4321.0,7.0,0.0,2249216.13,2249216.13,0.0
+,4321.0,76201.0,Promoció Turística Anjuntament d´Eivissa,,4321.0,7.0,200000.0,0.0,200000.0,0.0
+,4321.0,76202.0,Promoció Turística Ajuntament de Sant Antoni,,4321.0,7.0,500000.0,0.0,500000.0,0.0
+,4321.0,76203.0,Promoció Turística Ajuntament de Santa Eularia,,4321.0,7.0,100000.0,0.0,100000.0,0.0
+,4321.0,76205.0,Promoció Turística Ajuntament de Sant Joan de Labritja,,4321.0,7.0,100000.0,0.0,100000.0,0.0
+,4330.0,22699.0,Desenvolupament Empresarial Otros gastos diversos,,4330.0,2.0,0.0,0.0,0.0,575.2
+,4330.0,22799.0,Desenvolupament empresarial Otros trabajos realizados por otras empresas y profesionales,,4330.0,2.0,0.0,0.0,0.0,54378.57
+,4330.0,23000.0,Desenvolupament Empresarial.De los miembros de los órganos de gobierno,,4330.0,2.0,0.0,0.0,0.0,201.46
+,4330.0,23100.0,Desenvolupament Empresarial.De los miembros de los órganos de gobierno,,4330.0,2.0,0.0,0.0,0.0,202.05
+,4410.0,12000.0,Transports. Sueldos del Grupo A1,,4410.0,1.0,44917.74,0.0,44917.74,4600.86
+,4410.0,12001.0,Transports. Sueldos del Grupo A2,,4410.0,1.0,26332.04,0.0,26332.04,4500.01
+,4410.0,12003.0,Transports Sueldos del Grupo C1,,4410.0,1.0,10083.76,0.0,10083.76,2203.53
+,4410.0,12004.0,Transports. Sueldos del Grupo C2,,4410.0,1.0,25641.54,0.0,25641.54,5501.79
+,4410.0,12006.0,Transports. Trienios,,4410.0,1.0,18175.19,0.0,18175.19,3248.65
+,4410.0,12100.0,Transports. Complemento de destino,,4410.0,1.0,62419.0,0.0,62419.0,9538.55
+,4410.0,12101.0,Transports. Complemento específico,,4410.0,1.0,101949.26,0.0,101949.26,15267.04
+,4410.0,12103.0,Transports. Otros complementos,,4410.0,1.0,14973.6,0.0,14973.6,6277.45
+,4410.0,15001.0,Transports. Productivitat funcionàris,,4410.0,1.0,48520.2,0.0,48520.2,17256.94
+,4410.0,16000.0,Transports. Seguridad Social,,4410.0,1.0,85592.33,0.0,85592.33,10315.83
+,4410.0,16008.0,Transports. Asistencia médico-farmacéutica,,4410.0,1.0,2800.0,0.0,2800.0,0.0
+,4410.0,21200.0,Transports Repar. Manteniment i conserv. edificis i altres,,4410.0,2.0,50000.0,0.0,50000.0,0.0
+,4410.0,22602.0,Transports Publicidad y propaganda,,4410.0,2.0,30000.0,0.0,30000.0,0.0
+,4410.0,22706.0,Transports. Estudios y trabajos técnicos,,4410.0,2.0,300000.0,0.0,300000.0,0.0
+,4410.0,22799.0,Transports Otros trabajos realizados por otras empresas y profesionales,,4410.0,2.0,20000.0,0.0,20000.0,36455.93
+,4410.0,23100.0,Transports.De los miembros de los órganos de gobierno,,4410.0,2.0,0.0,0.0,0.0,68.55
+,4410.0,23120.0,Transports.Del personal no directivo,,4410.0,2.0,0.0,0.0,0.0,168.8
+,4410.0,46712.0,Transports Consorci de Mobilitat.Transferència Corrent.,,4410.0,4.0,300000.0,0.0,300000.0,0.0
+,4410.0,47000.0,Transports. Transferències a empreses privades,,4410.0,4.0,3200000.0,0.0,3200000.0,0.0
+,4410.0,62301.0,Transports.Instal.lacions,,4410.0,6.0,0.0,0.0,0.0,1626.24
+,4410.0,62500.0,Transports Inversió nova de mobiliari i béns,,4410.0,6.0,100000.0,0.0,100000.0,0.0
+,4530.0,12000.0,Carreteres Sueldos del Grupo A1,,4530.0,1.0,29945.16,0.0,29945.16,6788.16
+,4530.0,12001.0,Carreteres Sueldos del Grupo A2,,4530.0,1.0,39498.06,0.0,39498.06,4891.3
+,4530.0,12003.0,Carreteres Sueldos del Grupo C1,,4530.0,1.0,20167.52,0.0,20167.52,4407.06
+,4530.0,12006.0,Carreteres Trienios,,4530.0,1.0,13103.61,0.0,13103.61,2684.59
+,4530.0,12100.0,Carreteres Complemento de destino,,4530.0,1.0,49854.7,0.0,49854.7,8751.63
+,4530.0,12101.0,Carreteres Complemento específico,,4530.0,1.0,76912.5,0.0,76912.5,13518.49
+,4530.0,12103.0,Carreteres Otros complementos,,4530.0,1.0,7732.8,0.0,7732.8,14488.31
+,4530.0,13000.0,Carreteres Retribucions persona laboral,,4530.0,1.0,102220.1,0.0,102220.1,13090.13
+,4530.0,13001.0,Carreteres.Horas extraordinarias,,4530.0,1.0,0.0,0.0,0.0,1652.19
+,4530.0,13002.0,Carreteres Otras remuneraciones,,4530.0,1.0,121211.72,0.0,121211.72,17859.76
+,4530.0,13100.0,Carreteres Retribucions personal laboral temporal,,4530.0,1.0,0.0,0.0,0.0,4290.82
+,4530.0,15001.0,Carreteres Productivitat funcionàris,,4530.0,1.0,28419.0,0.0,28419.0,8867.65
+,4530.0,15002.0,Carreteres Productivitat laborals,,4530.0,1.0,30300.0,0.0,30300.0,4334.58
+,4530.0,15003.0,Carreteres Productivitat personal laboral contractat,,4530.0,1.0,0.0,0.0,0.0,437.66
+,4530.0,15100.0,Carreteres Gratificacions,,4530.0,1.0,13130.0,0.0,13130.0,1145.88
+,4530.0,16000.0,Carreteres Seguridad Social,,4530.0,1.0,169281.54,0.0,169281.54,16505.02
+,4530.0,16008.0,Carreteres Asistencia médico-farmacéutica,,4530.0,1.0,3600.0,0.0,3600.0,0.0
+,4530.0,21300.0,Carreteres Repar. Manteniment i conserv. Maquin. Instal. i utillatge,,4530.0,2.0,40000.0,0.0,40000.0,872.19
+,4530.0,21400.0,Carreteres.Reparac. Manten. i Conserv. Mat. Transport,,4530.0,2.0,0.0,0.0,0.0,1566.45
+,4530.0,21600.0,Carreteres.Manteniment equisp informàtics,,4530.0,2.0,0.0,0.0,0.0,3323.83
+,4530.0,22101.0,Carreteres Agua,,4530.0,2.0,10000.0,0.0,10000.0,0.0
+,4530.0,22104.0,Carreteres Vestuario,,4530.0,2.0,10000.0,0.0,10000.0,0.0
+,4530.0,22199.0,Carreteres Otros suministros,,4530.0,2.0,40000.0,0.0,40000.0,1460.3
+,4530.0,22699.0,Carreteres Otros gastos diversos,,4530.0,2.0,70125.74,0.0,70125.74,1953.01
+,4530.0,22700.0,Carreteres.Limpieza y Aseo,,4530.0,2.0,0.0,0.0,0.0,820.89
+,4530.0,22701.0,Carreteres.Seguridad,,4530.0,2.0,0.0,0.0,0.0,196.02
+,4530.0,22706.0,Carreteres.Estudios y trabajos técnicos,,4530.0,2.0,37000.0,0.0,37000.0,1452.0
+,4530.0,22799.0,Carreteres.Otros trabajos realizados por otras empresas y profesionales,,4530.0,2.0,1370000.0,0.0,1370000.0,40900.07
+,4530.0,23020.0,Carreteres.Del personal no directivo,,4530.0,2.0,0.0,0.0,0.0,32.76
+,4530.0,23100.0,Carreteres.De los miembros de los órganos de gobierno,,4530.0,2.0,0.0,0.0,0.0,225.0
+,4530.0,23120.0,Carreteres.Del personal no directivo,,4530.0,2.0,0.0,0.0,0.0,22.9
+,4530.0,23300.0,Carreteres.Altres indemnitzacions per raó de servei,,4530.0,2.0,0.0,0.0,0.0,15.0
+,4530.0,60900.0,Carreteres Otras inversiones nuevas en infraestructuras y bienes destinados al uso general,,4530.0,6.0,7662203.28,0.0,7662203.28,0.0
+,4530.0,61900.0,Carreteres.Otras inversiones de reposición en infraestructuras y bienes destinados al uso general,,4530.0,6.0,0.0,0.0,0.0,16671.57
+,4530.0,61903.0,Carreteres.Obres de millora estatal,,4530.0,6.0,0.0,18571399.98,18571399.98,0.0
+,4530.0,62303.0,Carreteres.Útils i eines,,4530.0,6.0,0.0,0.0,0.0,2654.0
+,4530.0,62400.0,Carreteres.Automóvil,,4530.0,6.0,0.0,0.0,0.0,1143.45
+,4530.0,62500.0,Carreteres.Inversió nova de mobiliari i béns,,4530.0,6.0,0.0,0.0,0.0,121.0
+,4530.0,63300.0,Carreteres,,4530.0,6.0,0.0,0.0,0.0,18899.99
+,4530.0,63301.0,Carreteres.Instalaciones,,4530.0,6.0,0.0,0.0,0.0,4954.71
+,4910.0,22001.0,"Oficina de comunitació Prensa, revistas, libros y otras publicaciones",,4910.0,2.0,2000.0,0.0,2000.0,0.0
+,4910.0,22602.0,Oficina de Comunicació.Publicidad y propaganda,,4910.0,2.0,398931.36,-5000.0,393931.36,115640.82
+,4910.0,22699.0,Oficina de Comunicació.Otros gastos diversos,,4910.0,2.0,0.0,0.0,0.0,21773.95
+,4910.0,22799.0,Oficina de comunicació Otros trabajos realizados por otras empresas y profesionales,,4910.0,2.0,30000.0,0.0,30000.0,23864.83
+,4911.0,21600.0,Informática i Comunicacions.  NNTT..Manteniment equisp informàtics,,4911.0,2.0,171000.0,0.0,171000.0,23339.38
+,4911.0,22200.0,Informática Servicios de Telecomunicaciones,,4911.0,2.0,270000.0,0.0,270000.0,49459.15
+,4911.0,22799.0,Informática i Comunicacions.  NNTT. Otros trabajos realizados por otras empresas y profesionales,,4911.0,2.0,656200.0,0.0,656200.0,44566.37
+,4911.0,61900.0,Informática i Comunicacions.  NNTT. Otras inversiones de reposición en infraestructuras y bienes destinados al uso general,,4911.0,6.0,73000.0,0.0,73000.0,0.0
+,4911.0,62600.0,Informática i Comunicacions.  NNTT..Inversió nova. Informática,,4911.0,6.0,216000.0,5000.0,221000.0,57027.98
+,4911.0,76200.0,Informática i Comunicacions.  NNTT. Transf.Cap.Ajuntaments,,4911.0,7.0,250000.0,0.0,250000.0,0.0
+,9120.0,10000.0,Organs de Govern Retribuciones básicas,,9120.0,1.0,569352.86,0.0,569352.86,121628.63
+,9120.0,10100.0,Organs de Govern Retribuciones básicas,,9120.0,1.0,484122.5,0.0,484122.5,102722.14
+,9120.0,11000.0,Organs de Govern Retribuciones básicas,,9120.0,1.0,271193.44,0.0,271193.44,58052.28
+,9120.0,16000.0,Organs de Govern Seguridad Social,,9120.0,1.0,367755.86,0.0,367755.86,60740.6
+,9120.0,21200.0,Organs de Govern.Repar. Manteniment i conserv. edificis i altres,,9120.0,2.0,0.0,0.0,0.0,866.36
+,9120.0,21300.0,Organs de Govern.Repar. Manteniment i conserv. Maquin. Instal. i utillatge,,9120.0,2.0,0.0,0.0,0.0,186.28
+,9120.0,21500.0,Organs de Govern Repar. Manteniment i conserv. Mobilliari i béns,,9120.0,2.0,5000.0,0.0,5000.0,0.0
+,9120.0,21600.0,Organs de Govern.Manteniment equisp informàtics,,9120.0,2.0,0.0,0.0,0.0,27.8
+,9120.0,22000.0,Organs de Govern.Ordinario no inventariable,,9120.0,2.0,0.0,0.0,0.0,4.22
+,9120.0,22105.0,Organs de Govern.Productos alimenticios,,9120.0,2.0,0.0,0.0,0.0,529.0
+,9120.0,22110.0,Organs de Govern.Productos de limpieza y aseo,,9120.0,2.0,0.0,0.0,0.0,8.95
+,9120.0,22501.0,Organs de Govern.Tributos de las Comunidades Autónomas,,9120.0,2.0,0.0,0.0,0.0,305.1
+,9120.0,22601.0,Organs de Govern Atenciones protocolarias y representativas,,9120.0,2.0,180000.0,0.0,180000.0,27891.75
+,9120.0,22609.0,Organs de Govern.Actividades culturales y deportivas,,9120.0,2.0,0.0,0.0,0.0,19682.69
+,9120.0,22699.0,Organs de Govern Otros gastos diversos,,9120.0,2.0,270107.03,0.0,270107.03,3488.77
+,9120.0,22700.0,Organs de Govern.Limpieza y Aseo,,9120.0,2.0,0.0,0.0,0.0,830.46
+,9120.0,22701.0,Organs de Govern Seguridad,,9120.0,2.0,1300.0,0.0,1300.0,52.03
+,9120.0,22706.0,Organs de Govern Estudios y trabajos técnicos,,9120.0,2.0,120000.0,0.0,120000.0,24460.15
+,9120.0,22799.0,Organs de Govern Otros trabajos realizados por otras empresas y profesionales,,9120.0,2.0,30000.0,0.0,30000.0,29989.26
+,9120.0,23000.0,Organs de Govern Dietas. De los miembros de los órganos de gobierno,,9120.0,2.0,2000.0,0.0,2000.0,1200.84
+,9120.0,23020.0,Organs de Govern.Del personal no directivo,,9120.0,2.0,0.0,0.0,0.0,165.24
+,9120.0,23100.0,Organs de Govern Locomoción. De los miembros de los órganos de gobierno,,9120.0,2.0,2000.0,0.0,2000.0,451.95
+,9120.0,23120.0,Organs de Govern.Del personal no directivo,,9120.0,2.0,0.0,0.0,0.0,468.36
+,9120.0,23300.0,Organs de Govern.Altres indemnitzacions per raó de servei,,9120.0,2.0,0.0,0.0,0.0,4280.0
+,9120.0,48900.0,Organs de Govern Transferències corrents a fam. i instit. sense fi de lucre,,9120.0,4.0,120000.0,0.0,120000.0,26864.79
+,9120.0,62301.0,Organs de Govern.Instal.lacions,,9120.0,6.0,0.0,0.0,0.0,0.0
+,9120.0,62500.0,Organs de Govern Inversió nova de mobiliari i béns,,9120.0,6.0,120000.0,0.0,120000.0,6941.29
+,9200.0,12000.0,Administració General Sueldos del Grupo A1,,9200.0,1.0,134753.22,0.0,134753.22,25078.48
+,9200.0,12001.0,Administració General Sueldos del Grupo A2,,9200.0,1.0,78996.12,0.0,78996.12,13695.64
+,9200.0,12003.0,Administració General Sueldos del Grupo C1,,9200.0,1.0,131088.88,0.0,131088.88,20150.06
+,9200.0,12004.0,Administració General Sueldos del Grupo C2,,9200.0,1.0,179490.78,0.0,179490.78,34559.41
+,9200.0,12005.0,Administració General Sueldos del Grupo E,,9200.0,1.0,93996.0,0.0,93996.0,19582.5
+,9200.0,12006.0,Administració General Trienios,,9200.0,1.0,104006.97,0.0,104006.97,20855.66
+,9200.0,12100.0,Administració General Complemento de destino,,9200.0,1.0,368553.64,0.0,368553.64,65806.47
+,9200.0,12101.0,Administració General Complemento específico,,9200.0,1.0,576037.98,0.0,576037.98,103147.52
+,9200.0,12103.0,Administració General Otros complementos,,9200.0,1.0,52697.28,0.0,52697.28,25055.86
+,9200.0,13000.0,Administració General Retribucions persona laboral,,9200.0,1.0,57033.87,0.0,57033.87,11629.18
+,9200.0,13001.0,Administració General.Horas extraordinarias,,9200.0,1.0,0.0,0.0,0.0,691.71
+,9200.0,13002.0,Administració General Otras remuneraciones,,9200.0,1.0,72615.82,0.0,72615.82,18409.96
+,9200.0,15001.0,Administració General Productivitat funcionàris,,9200.0,1.0,286831.24,0.0,286831.24,94803.96
+,9200.0,15002.0,Administració General Productivitat laborals,,9200.0,1.0,22838.64,0.0,22838.64,6187.62
+,9200.0,15100.0,Administració General Gratificacions,,9200.0,1.0,5050.0,0.0,5050.0,2203.18
+,9200.0,16000.0,Administració General Seguridad Social,,9200.0,1.0,595102.09,0.0,595102.09,78218.0
+,9200.0,16008.0,Administració General Asistencia médico-farmacéutica,,9200.0,1.0,16300.0,0.0,16300.0,0.0
+,9200.0,16200.0,Administració General Formación y perfeccionamiento del personal,,9200.0,1.0,161000.0,0.0,161000.0,0.0
+,9200.0,16204.0,Administració General Acción social,,9200.0,1.0,315000.0,0.0,315000.0,66960.57
+,9200.0,20500.0,Administració General Arrendaments. Mobiliari i estris,,9200.0,2.0,1020.0,0.0,1020.0,0.0
+,9200.0,21200.0,Administració General Repar. Manteniment i conserv. edificis i altres,,9200.0,2.0,41820.0,0.0,41820.0,1886.66
+,9200.0,21300.0,Administració General.Repar. Manteniment i conserv. Maquin. Instal. i utillatge,,9200.0,2.0,42840.0,0.0,42840.0,2384.07
+,9200.0,21400.0,Administració General Reparac. Manten. i Conserv. Mat. Transport,,9200.0,2.0,15300.0,0.0,15300.0,4086.65
+,9200.0,21500.0,Administració General.Repar. Manteniment i conserv. Mobilliari i béns,,9200.0,2.0,0.0,0.0,0.0,243.5
+,9200.0,21600.0,Administració General.Manteniment equisp informàtics,,9200.0,2.0,0.0,0.0,0.0,3484.67
+,9200.0,22000.0,Administració General Ordinario no inventariable,,9200.0,2.0,30600.0,0.0,30600.0,72.17
+,9200.0,22001.0,"Administració General Prensa, revistas, libros y otras publicaciones",,9200.0,2.0,30600.0,0.0,30600.0,1908.26
+,9200.0,22002.0,"Administració General Material, informático no inventariable",,9200.0,2.0,15300.0,0.0,15300.0,0.0
+,9200.0,22100.0,Administració General.Energía eléctrica,,9200.0,2.0,912540.23,-30000.0,882540.23,139213.66
+,9200.0,22101.0,Administració General.Agua,,9200.0,2.0,255000.0,0.0,255000.0,34340.88
+,9200.0,22102.0,Administració General Gas,,9200.0,2.0,61200.0,0.0,61200.0,0.0
+,9200.0,22103.0,Administració General.Combustibles y carburantes,,9200.0,2.0,306000.0,0.0,306000.0,46297.15
+,9200.0,22104.0,Administració General Vestuario,,9200.0,2.0,5100.0,0.0,5100.0,200.61
+,9200.0,22200.0,Administració General.Servicios de Telecomunicaciones,,9200.0,2.0,35700.0,0.0,35700.0,0.0
+,9200.0,22201.0,"Administració General.Material, suministros y otros",,9200.0,2.0,0.0,0.0,0.0,1721.87
+,9200.0,22202.0,Administració General.Telegráficas,,9200.0,2.0,0.0,0.0,0.0,3252.06
+,9200.0,22400.0,Administració General Assegurances,,9200.0,2.0,127500.0,0.0,127500.0,3167.55
+,9200.0,22502.0,Administració General Tributos de las Entidades Locales,,9200.0,2.0,408000.0,0.0,408000.0,3743.37
+,9200.0,22602.0,Administració General Publicidad y propaganda,,9200.0,2.0,7650.0,0.0,7650.0,0.0
+,9200.0,22604.0,"Administració General Jurídicos, contenciosos",,9200.0,2.0,59670.0,0.0,59670.0,500.0
+,9200.0,22606.0,"Administració General.Reuniones, conferencias y cursos",,9200.0,2.0,0.0,0.0,0.0,3022.58
+,9200.0,22699.0,Administració General Otros gastos diversos,,9200.0,2.0,108120.0,0.0,108120.0,10456.75
+,9200.0,22700.0,Administració General.Limpieza y Aseo,,9200.0,2.0,158100.0,0.0,158100.0,17626.22
+,9200.0,22701.0,Administració General.Seguridad,,9200.0,2.0,428400.0,0.0,428400.0,55373.55
+,9200.0,22706.0,Administració General Estudios y trabajos técnicos,,9200.0,2.0,43860.0,0.0,43860.0,0.0
+,9200.0,22799.0,Administració General.Otros trabajos realizados por otras empresas y profesionales,,9200.0,2.0,172380.0,0.0,172380.0,44024.25
+,9200.0,23010.0,Administració General Del personal directivo,,9200.0,2.0,7140.0,0.0,7140.0,0.0
+,9200.0,23020.0,Administració General.Del personal no directivo,,9200.0,2.0,0.0,0.0,0.0,236.21
+,9200.0,23120.0,Administració General.Del personal no directivo,,9200.0,2.0,0.0,0.0,0.0,107.3
+,9200.0,23300.0,Administració General.Altres indemnitzacions per raó de servei,,9200.0,2.0,0.0,0.0,0.0,1130.0
+,9200.0,35200.0,Administració General Intereses de demora,,9200.0,3.0,50000.0,30000.0,80000.0,14489.0
+,9200.0,46600.0,Administració General Transf. corrents a entitats que agrupen municipis,,9200.0,4.0,21000.0,0.0,21000.0,0.0
+,9200.0,62201.0,Administració General.Administrativos,,9200.0,6.0,0.0,0.0,0.0,0.0
+,9200.0,62203.0,Administració General Otras construcciones,,9200.0,6.0,300000.0,0.0,300000.0,0.0
+,9200.0,62301.0,Administració General Instal.lacions,,9200.0,6.0,316000.0,0.0,316000.0,0.0
+,9200.0,62500.0,Administració General.Inversió nova de mobiliari i béns,,9200.0,6.0,0.0,0.0,0.0,11560.99
+,9200.0,62900.0,Administració General.Inversió associada al funcionament dels serveis,,9200.0,6.0,0.0,0.0,0.0,161.5
+,9200.0,94100.0,Administració General Fianzas a largo plazo,,9200.0,9.0,200000.0,0.0,200000.0,19965.72
+,9220.0,21400.0,Presidencia i Relaciones Institucionales Reparac. Manten. i Conserv. Mat. Transport,,9220.0,2.0,1000.0,0.0,1000.0,0.0
+,9220.0,22001.0,"Presidencia i Relaciones Institucionales Prensa, revistas, libros y otras publicaciones",,9220.0,2.0,1000.0,0.0,1000.0,0.0
+,9220.0,22202.0,Presidencia i Relaciones Institucionales.Telegráficas,,9220.0,2.0,0.0,0.0,0.0,12.04
+,9220.0,22601.0,Presidencia i Relaciones Institucionales Atenciones protocolarias y representativas,,9220.0,2.0,40000.0,0.0,40000.0,0.0
+,9220.0,22606.0,"Presidencia i Relaciones Institucionales Reuniones, conferencias y cursos",,9220.0,2.0,18000.0,0.0,18000.0,0.0
+,9220.0,22609.0,Presidencia i Relaciones Institucionales Actividades culturales y deportivas,,9220.0,2.0,1000.0,0.0,1000.0,0.0
+,9220.0,22699.0,Presidencia i Relaciones Institucionales Otros gastos diversos,,9220.0,2.0,7000.0,0.0,7000.0,224.2
+,9220.0,22700.0,Presidencia i Relaciones Institucionales.Limpieza y Aseo,,9220.0,2.0,0.0,0.0,0.0,6.5
+,9220.0,22706.0,Presidencia i Relaciones Institucionales Estudios y trabajos técnicos,,9220.0,2.0,3000.0,0.0,3000.0,1996.5
+,9220.0,22799.0,Presidencia i Relaciones Institucionales.Otros trabajos realizados por otras empresas y profesionales,,9220.0,2.0,0.0,0.0,0.0,2751.72
+,9220.0,23000.0,Presidencia i Relaciones Institucionales.De los miembros de los órganos de gobierno,,9220.0,2.0,0.0,0.0,0.0,25.7
+,9220.0,23020.0,Presidencia i Relaciones Institucionales Dietas. Del personal no directivo,,9220.0,2.0,1000.0,0.0,1000.0,29.6
+,9220.0,23100.0,Presidencia i Relaciones Institucionales De los miembros de los órganos de gobierno,,9220.0,2.0,2500.0,0.0,2500.0,32.0
+,9220.0,23120.0,Presidencia i Relaciones Institucionales Locomoción. Del personal no directivo,,9220.0,2.0,300.0,0.0,300.0,25.2
+,9220.0,60900.0,Presidencia i Relaciones Institucionales Otras inversiones nuevas en infraestructuras y bienes destinados al uso general,,9220.0,6.0,3096450.0,4346365.3,7442815.3,68062.5
+,9220.0,76202.0,Presidencia i Relaciones Institucionales Ajuntament de Sant Antoni,,9220.0,7.0,1000000.0,0.0,1000000.0,0.0
+,9220.0,78900.0,Presidencia i Relaciones Institucionales Transferències de capital a famílies i instit. sense ànim de lucre,,9220.0,7.0,250000.0,0.0,250000.0,0.0
+,9240.0,12000.0,Participació Transparència i Bon Govern Sueldos del Grupo A1,,9240.0,1.0,14972.58,0.0,14972.58,4525.44
+,9240.0,12004.0,Participació Transparència i Bon Govern Sueldos del Grupo C2,,9240.0,1.0,17094.36,0.0,17094.36,3423.33
+,9240.0,12006.0,Participació Transparència i Bon Govern Trienios,,9240.0,1.0,5368.8,0.0,5368.8,1302.25
+,9240.0,12100.0,Participació Transparència i Bon Govern Complemento de destino,,9240.0,1.0,18683.98,0.0,18683.98,4473.88
+,9240.0,12101.0,Participació Transparència i Bon Govern Complemento específico,,9240.0,1.0,31475.64,0.0,31475.64,7430.18
+,9240.0,12103.0,Participació Transparència i Bon Govern Otros complementos,,9240.0,1.0,2587.92,0.0,2587.92,728.43
+,9240.0,15001.0,Participació Transparència i Bon Govern Productivitat funcionàris,,9240.0,1.0,9825.36,0.0,9825.36,4350.65
+,9240.0,15100.0,Participació Transparència i Bon Govern.Gratificacions,,9240.0,1.0,0.0,0.0,0.0,963.6
+,9240.0,16000.0,Participació Transparència i Bon Govern Seguridad Social,,9240.0,1.0,23702.19,0.0,23702.19,4239.79
+,9240.0,22000.0,Participació Transparència i Bon Govern.Ordinario no inventariable,,9240.0,2.0,0.0,0.0,0.0,14.76
+,9240.0,22110.0,Participació Transparència i Bon Govern.Productos de limpieza y aseo,,9240.0,2.0,0.0,0.0,0.0,5.64
+,9240.0,22601.0,Participació Transparència i Bon Govern.Atenciones protocolarias y representativas,,9240.0,2.0,0.0,0.0,0.0,847.0
+,9240.0,22602.0,Participació Transparència i Bon Govern Publicidad y propaganda,,9240.0,2.0,20000.0,0.0,20000.0,0.0
+,9240.0,22699.0,Participació  Transparència i Bon Govern Otros gastos diversos,,9240.0,2.0,20000.0,0.0,20000.0,3335.17
+,9240.0,22799.0,Participació Transparència i Bon Govern Otros trabajos realizados por otras empresas y profesionales,,9240.0,2.0,209000.0,0.0,209000.0,12080.84
+,9240.0,23020.0,Participació Transparència i Bon Govern.Del personal no directivo,,9240.0,2.0,0.0,0.0,0.0,16.85
+,9240.0,23120.0,Participació Transparència i Bon Govern.Del personal no directivo,,9240.0,2.0,0.0,0.0,0.0,46.3
+,9240.0,48900.0,Participació Transparència i Bon Govern Transferències corrents a fam. i instit. sense fi de lucre,,9240.0,4.0,300000.0,0.0,300000.0,0.0
+,9240.0,48916.0,Participació Transparència i Bon Govern Fons Pitiús de Cooperació,,9240.0,4.0,150000.0,0.0,150000.0,0.0
+,9240.0,78900.0,Participació Transparència i Bon Govern Transferències de capital a famílies i instit. sense ànim de lucre,,9240.0,7.0,60000.0,0.0,60000.0,0.0
+,9290.0,50000.0,"Fons de Contingencia.Fondo de Contingencia. Art. 31 Ley  2/2012, de Estab. Presup. y Sost. Financiera",,9290.0,5.0,285185.75,0.0,285185.75,0.0
+,9310.0,12000.0,Intervenció Sueldos del Grupo A1,,9310.0,1.0,29945.16,0.0,29945.16,6788.16
+,9310.0,12001.0,Intervenció Sueldos del Grupo A2,,9310.0,1.0,13166.02,0.0,13166.02,0.0
+,9310.0,12003.0,Intervenció Sueldos del Grupo C1,,9310.0,1.0,20167.52,0.0,20167.52,3550.13
+,9310.0,12004.0,Intervenció Sueldos del Grupo C2,,9310.0,1.0,25641.54,0.0,25641.54,5135.01
+,9310.0,12006.0,Intervenció Trienios,,9310.0,1.0,19040.14,0.0,19040.14,4640.9
+,9310.0,12100.0,Intervenció Complemento de destino,,9310.0,1.0,60341.26,0.0,60341.26,10543.2
+,9310.0,12101.0,Intervenció Complemento específico,,9310.0,1.0,111155.24,0.0,111155.24,18592.35
+,9310.0,12103.0,Intervenció Otros complementos,,9310.0,1.0,7574.4,0.0,7574.4,1492.2
+,9310.0,15001.0,Intervenció Productivitat funcionàris,,9310.0,1.0,48081.72,0.0,48081.72,23919.26
+,9310.0,16000.0,Intervenció Seguridad Social,,9310.0,1.0,69004.42,0.0,69004.42,8949.17
+,9310.0,16008.0,Intervenció Asistencia médico-farmacéutica,,9310.0,1.0,1500.0,0.0,1500.0,0.0
+,9310.0,21600.0,Intervenció Manteniment equisp informàtics,,9310.0,2.0,51500.0,0.0,51500.0,8034.4
+,9310.0,22699.0,Intervenció Otros gastos diversos,,9310.0,2.0,10000.0,0.0,10000.0,80.3
+,9310.0,23020.0,Intervenció.Del personal no directivo,,9310.0,2.0,0.0,0.0,0.0,923.09
+,9310.0,23100.0,Intervenció.De los miembros de los órganos de gobierno,,9310.0,2.0,0.0,0.0,0.0,252.87
+,9310.0,23120.0,Intervenció.Del personal no directivo,,9310.0,2.0,0.0,0.0,0.0,218.45
+,9310.0,23300.0,Intervenció.Altres indemnitzacions per raó de servei,,9310.0,2.0,0.0,0.0,0.0,165.0
+,9340.0,12000.0,Tresoreria Sueldos del Grupo A1,,9340.0,1.0,29945.16,0.0,29945.16,3394.08
+,9340.0,12003.0,Tresoreria Sueldos del Grupo C1,,9340.0,1.0,10083.76,0.0,10083.76,0.0
+,9340.0,12004.0,Tresoreria Sueldos del Grupo C2,,9340.0,1.0,34188.72,0.0,34188.72,7335.72
+,9340.0,12006.0,Tresoreria Trienios,,9340.0,1.0,8944.68,0.0,8944.68,1910.76
+,9340.0,12100.0,Tresoreria Complemento de destino,,9340.0,1.0,48428.8,0.0,48428.8,7522.74
+,9340.0,12101.0,Tresoreria Complemento específico,,9340.0,1.0,73403.96,0.0,73403.96,12244.38
+,9340.0,12103.0,Tresoreria Otros complementos,,9340.0,1.0,6167.76,0.0,6167.76,982.41
+,9340.0,13100.0,Tresoreria Retribucions personal laboral temporal,,9340.0,1.0,20416.63,0.0,20416.63,2921.62
+,9340.0,15001.0,Tresoreria Productivitat funcionàris,,9340.0,1.0,41216.64,0.0,41216.64,11896.08
+,9340.0,15002.0,Tresoreria Productivitat laborals,,9340.0,1.0,3030.0,0.0,3030.0,0.0
+,9340.0,15003.0,Tresoreria.Productivitat personal laboral contractat,,9340.0,1.0,0.0,0.0,0.0,800.0
+,9340.0,16000.0,Tresoreria Seguridad Social,,9340.0,1.0,64636.5,-1089.67,63546.83,8107.13
+,9340.0,16008.0,Tresoreria Asistencia médico-farmacéutica,,9340.0,1.0,1800.0,0.0,1800.0,0.0
+,9340.0,22001.0,"Tresoreria Prensa, revistas, libros y otras publicaciones",,9340.0,2.0,600.0,0.0,600.0,0.0
+,9340.0,22606.0,"Tresoreria Reuniones, conferencias y cursos",,9340.0,2.0,600.0,0.0,600.0,0.0
+,9340.0,22708.0,Tresoreria Servicios de recaudación a favor de la entidad,,9340.0,2.0,70000.0,0.0,70000.0,0.0
+,9340.0,22799.0,Tresoreria Otros trabajos realizados por otras empresas y profesionales,,9340.0,2.0,15000.0,0.0,15000.0,0.0
+,9340.0,23020.0,Tresoreria.Del personal no directivo,,9340.0,2.0,0.0,0.0,0.0,7.03
+,9340.0,35900.0,Tresoreria Otros gastos financieros,,9340.0,3.0,12000.0,0.0,12000.0,0.0
+,9420.0,76201.0,Cooperació Economica.Anjuntament d´Eivissa,,9420.0,7.0,300000.0,0.0,300000.0,0.0
+,9420.0,76202.0,Cooperació Economica.Ajuntament de Sant Antoni,,9420.0,7.0,300000.0,0.0,300000.0,0.0
+,9420.0,76203.0,Cooperació Economica.Ajuntament de Santa Eularia,,9420.0,7.0,300000.0,0.0,300000.0,0.0
+,9420.0,76204.0,Cooperació Economica.Ajuntament de Sant Josep,,9420.0,7.0,300000.0,0.0,300000.0,0.0
+,9420.0,76205.0,Cooperació Economica.Ajuntament de Sant Joan de Labritja,,9420.0,7.0,300000.0,0.0,300000.0,0.0
+,9430.0,46712.0,Transf. a otras Entidades Locales Consorci de Mobilitat.Transferència Corrent.,,9430.0,4.0,20000.0,0.0,20000.0,0.0
+,9430.0,76712.0,Transf. a otras Entidades Locales Consorci de Mobilitat. Transf. de Capital,,9430.0,7.0,290000.0,0.0,290000.0,0.0
+#,,,,,,,,,,
+#,,,T O T A L E S,,,,100494504.71,26754596.63,127249101.34,10212909.69
