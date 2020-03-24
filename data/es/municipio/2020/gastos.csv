@@ -1,0 +1,855 @@
+#,Funcional,Económica,Denominación,Vinc. Org.,Vinc. Fun.,Vinc. Eco.,Créditos Iniciales
+,9120,10000,Presidència i Organs de Govern Retribuciones básicas,,,,641610.65
+,9120,10100,Presidència i Organs de Govern Retribuciones básicas,,,,485924.02
+,9120,11000,Presidència i Organs de Govern Retribuciones básicas,,,,248095.2
+,1360,12000,Servei de Prevenció i Extinció d´Incendis. Sueldos del Grupo A1,,,,15607.82
+,1510,12000,Política Territorial. Sueldos del Grupo A1,,,,187293.86
+,1700,12000,Medi Ambient. Sueldos del Grupo A1,,,,62431.28
+,2310,12000,Serveis Socials i Promoció Social. Sueldos del Grupo A1,,,,46823.46
+,2311,12000,Oficina de la Dona Sueldos del Grupo A1,,,,15607.82
+,2312,12000,Menors Sueldos del Grupo A1,,,,39019.56
+,3340,12000,Promoció Cultural Sueldos del Grupo A1,,,,23411.74
+,3360,12000,Protecció del Patrimoni Sueldos del Grupo A1,,,,23411.74
+,3370,12000,Joventut Sueldos del Grupo A1,,,,15607.82
+,3410,12000,Pla Promoció Esportiva Sueldos del Grupo A1,,,,15607.82
+,4100,12000,"Administració Gral. d´agricultura, ramedaria i Pesca Sueldos del Grupo A1",,,,70235.2
+,4220,12000,Industria. Administració General. Sueldos del Grupo A1,,,,23411.74
+,4320,12000,Ordenació turística Sueldos del Grupo A1,,,,31215.64
+,4321,12000,Promoció Turística Sueldos del Grupo A1,,,,62431.28
+,4410,12000,Transports. Sueldos del Grupo A1,,,,70235.22
+,4530,12000,Carreteres Sueldos del Grupo A1,,,,62431.28
+,4911,12000,Informàtica i Comunicacions. NNTT. Sueldos del Grupo A1,,,,15607.84
+,9120,12000,Presidència i Organs de Govern Sueldos del Grupo A1,,,,15607.82
+,9200,12000,Administració General Sueldos del Grupo A1,,,,163882.12
+,9240,12000,Participació Transparència i Bon Govern Sueldos del Grupo A1,,,,7803.92
+,9310,12000,Intervenció Sueldos del Grupo A1,,,,54627.4
+,9340,12000,Tresoreria Sueldos del Grupo A1,,,,31215.66
+,1360,12001,Servei de Prevenció i Extinció d´Incendis Sueldos del Grupo A2,,,,13724.72
+,1510,12001,Política Territorial. Sueldos del Grupo A2,,,,96073.04
+,1700,12001,Medi Ambient. Sueldos del Grupo A2,,,,34311.86
+,2310,12001,Serveis Socials i Promoció Social Sueldos del Grupo A2,,,,13724.72
+,3120,12001,Hospital Residencia Asistida Cas Serres Sueldos del Grupo A2,,,,13724.72
+,3340,12001,Promoció Cultural Sueldos del Grupo A2,,,,27449.44
+,3360,12001,Protecció del Patrimoni Sueldos del Grupo A2,,,,34311.86
+,3370,12001,Joventut Sueldos del Grupo A2,,,,6862.42
+,3410,12001,Pla Promoció Esportiva Sueldos del Grupo A2,,,,13724.72
+,4100,12001,"Administració Gral. d'agricultura, ramedaria i Pesca Sueldos del Grupo A2",,,,130384.9
+,4220,12001,Industria. Administració General. Sueldos del Grupo A2,,,,27449.44
+,4221,12001,ITV - Inspecció Tècnica Vehicles Sueldos del Grupo A2,,,,34311.74
+,4320,12001,Ordenació turística Sueldos del Grupo A2,,,,75486.14
+,4321,12001,Promoció Turística Sueldos del Grupo A2,,,,41174.16
+,4410,12001,Transports. Sueldos del Grupo A2,,,,41174.16
+,4530,12001,Carreteres Sueldos del Grupo A2,,,,54898.88
+,4911,12001,Informàtica i Comunicacions. NNTT. Sueldos del Grupo A2,,,,54898.88
+,9120,12001,Presidència i Organs de Govern Sueldos del Grupo A2,,,,13724.72
+,9200,12001,Administració General Sueldos del Grupo A2,,,,20587.14
+,9240,12001,Participació Transparència i Bon Govern Sueldos del Grupo A2,,,,13724.72
+,9310,12001,Intervenció Sueldos del Grupo A2,,,,41174.28
+,9340,12001,Tresoreria Sueldos del Grupo A2,,,,6862.42
+,1360,12003,Servei de Prevenció i Extinció d´Incendis. Sueldos del Grupo C1,,,,10511.58
+,1510,12003,Política Territorial. Sueldos del Grupo C1,,,,57813.76
+,1700,12003,Medi Ambient. Sueldos del Grupo C1,,,,10511.58
+,2310,12003,Serveis Socials i Promoció Social. Sueldos del Grupo C1,,,,21023.16
+,2312,12003,Menors Sueldos del Grupo C1,,,,10511.58
+,3120,12003,Hospital Residencia Asistida Cas Serres Sueldos del Grupo C1,,,,21023.16
+,3340,12003,Promoció Cultural Sueldos del Grupo C1,,,,42046.32
+,3360,12003,Protecció del Patrimoni Sueldos del Grupo C1,,,,31503.08
+,4100,12003,"Administració Gral. d'agricultura, ramedaria i Pesca Sueldos del Grupo C1",,,,26279.02
+,4190,12003,Caça Sueldos del Grupo C1,,,,10511.58
+,4220,12003,Industria. Administració General. Sueldos del Grupo C1,,,,26279.02
+,4221,12003,ITV - Inspecció Tècnica Vehicles Sueldos del Grupo C1,,,,21023.16
+,4320,12003,Ordenació Turística Sueldos del Grupo C1,,,,10511.58
+,4321,12003,Promoció Turística Sueldos del Grupo C1,,,,21023.16
+,4410,12003,Transports Sueldos del Grupo C1,,,,21023.16
+,4530,12003,Carreteres Sueldos del Grupo C1,,,,31534.74
+,4911,12003,Informàtica i Comunicacions. NNTT. Sueldos del Grupo C1,,,,63069.48
+,9120,12003,Presidència i Organs de Govern Sueldos del Grupo C1,,,,21023.3
+,9200,12003,Administració General Sueldos del Grupo C1,,,,136650.68
+,9310,12003,Intervenció Sueldos del Grupo C1,,,,21023.16
+,9340,12003,Tresoreria Sueldos del Grupo C1,,,,10511.58
+,1360,12004,Servei de Prevenció i Extinció d´Incendis. Sueldos del Grupo C2,,,,525682.88
+,1510,12004,Política Territorial. Sueldos del Grupo C2,,,,44549.4
+,2310,12004,Serveis Socials i Promoció Social. Sueldos del Grupo C2,,,,35639.52
+,2312,12004,Menors Sueldos del Grupo C2,,,,26729.64
+,2315,12004,Discapacitats. Sueldos del Grupo C2,,,,8909.88
+,3120,12004,Hospital Cas Serres Sueldos del Grupo C2,,,,26729.64
+,3230,12004,Educació. Sueldos del Grupo C2,,,,8909.88
+,3340,12004,Promoció Cultural Sueldos del Grupo C2,,,,26729.64
+,3410,12004,Pla Promoció Esportiva Sueldos del Grupo C2,,,,35639.52
+,3420,12004,Instal.lacions esportives Sueldos del Grupo C2,,,,26729.64
+,4100,12004,"Administració Gral. d'agricultura, ramedaria i Pesca Sueldos del Grupo C2",,,,26729.64
+,4190,12004,Caça Sueldos del Grupo C2,,,,8909.88
+,4220,12004,Industria. Administració General. Sueldos del Grupo C2,,,,17819.76
+,4221,12004,ITV - Inspecció Tècnica Vehicles Sueldos del Grupo C2,,,,218292.24
+,4320,12004,Ordenació turística Sueldos del Grupo C2,,,,80188.92
+,4321,12004,Promoció Turística Sueldos del Grupo C2,,,,62369.16
+,4410,12004,Transports. Sueldos del Grupo C2,,,,44549.4
+,4530,12004,Carreteres Sueldos del Grupo C2,,,,8909.88
+,9120,12004,Presidència i Organs de Govern Sueldos del Grupo C2,,,,8909.88
+,9200,12004,Administració General Sueldos del Grupo C2,,,,133648.2
+,9240,12004,Participació Transparència i Bon Govern Sueldos del Grupo C2,,,,115828.44
+,9310,12004,Intervenció Sueldos del Grupo C2,,,,26729.64
+,9340,12004,Tresoreria Sueldos del Grupo C2,,,,35639.52
+,1510,12005,Política Territorial. Sueldos del Grupo E,,,,8165.36
+,2310,12005,Serveis Socials i Promoció Social. Sueldos del Grupo E,,,,16330.72
+,2312,12005,Menors Sueldos del Grupo E,,,,8165.36
+,3120,12005,Hospital Cas Serres Sueldos del Grupo E,,,,24496.08
+,3340,12005,Promoció Cultural Sueldos del Grupo E,,,,16330.72
+,3420,12005,Instal.lacions esportives Sueldos del Grupo E,,,,40826.8
+,4321,12005,Promoció Turística Sueldos del Grupo E,,,,8165.36
+,9120,12005,Presidència i Organs de Govern Sueldos del Grupo E,,,,97984.32
+,9240,12005,Participació Transparència i Bon Govern Sueldos del Grupo E,,,,8165.36
+,1360,12006,Servei de Prevenció i Extinció d´Incendis. Trienios,,,,64539.58
+,1510,12006,Política Territorial. Trienios,,,,57574.14
+,1700,12006,Medi Ambient. Trienios,,,,15783.86
+,2310,12006,Serveis Socials i Promoció Social. Trienios,,,,20258.04
+,2312,12006,Menors Trienios,,,,7601.42
+,2315,12006,Discapacitats. Trienios,,,,1598.04
+,3120,12006,Hospital Cas Serres Trienios,,,,4916.04
+,3230,12006,Educació. Trienios,,,,999.78
+,3340,12006,Promoció Cultural Trienios,,,,28876.1
+,3360,12006,Protecció del Patrimoni Trienios,,,,16921.56
+,3370,12006,Joventut Trienios,,,,2668.1
+,3410,12006,Pla Promoció Esportiva Trienios,,,,16616.14
+,3420,12006,Instal.lacions esportives Trienios,,,,13750.68
+,4100,12006,"Administració Gral. d'agricultura, ramedaria i Pesca Trienios",,,,42089.68
+,4190,12006,Caça Trienios,,,,1598.04
+,4220,12006,Industria. Administració General. Trienios,,,,10527.66
+,4221,12006,ITV - Inspecció Tècnica Vehicles Trienios,,,,13342.24
+,4320,12006,Ordenació turística Trienios,,,,33801.6
+,4321,12006,Promoció Turística Trienios,,,,13703.1
+,4410,12006,Transports. Trienios,,,,16918.72
+,4530,12006,Carreteres Trienios,,,,24403.22
+,4911,12006,Informàtica i Comunicacions. NNTT. Trienios,,,,11537.2
+,9120,12006,Presidència i Organs de Govern Trienios,,,,24184.08
+,9200,12006,Administració General Trienios,,,,76392.22
+,9240,12006,Participació Transparència i Bon Govern Trienios,,,,15556.02
+,9310,12006,Intervenció Trienios,,,,16385.16
+,9340,12006,Tresoreria Trienios,,,,13210.48
+,1360,12100,Servei de Prevenció i Extinció d´Incendis. Complemento de destino,,,,303568.02
+,1510,12100,Política Territorial. Complemento de destino,,,,241077.06
+,1700,12100,Medi Ambient. Complemento de destino,,,,59257.52
+,2310,12100,Serveis Socials i Promoció Social. Complemento de destino,,,,75154.52
+,2311,12100,Oficina de la Dona Complemento de destino,,,,8678.18
+,2312,12100,Menors Complemento de destino,,,,44400.86
+,2315,12100,Discapacitats. Complemento de destino,,,,4541.18
+,3120,12100,Hospital Cas Serres Complemento de destino,,,,44042.88
+,3230,12100,Educació. Complemento de destino,,,,5877.62
+,3340,12100,Promoció Cultural Complemento de destino,,,,74958.94
+,3360,12100,Protecció del Patrimoni Complemento de destino,,,,51034.9
+,3370,12100,Joventut Complemento de destino,,,,12201.84
+,3410,12100,Pla Promoció Esportiva Complemento de destino,,,,38660.02
+,3420,12100,Instal.lacions esportives Complemento de destino,,,,34319.88
+,4100,12100,"Administració Gral. d'agricultura, ramedaria i Pesca Complemento de destino",,,,149472.4
+,4190,12100,Caça Complemento de destino,,,,11087.44
+,4220,12100,Industria. Administració General. Complemento de destino,,,,59647.14
+,4221,12100,ITV - Inspecció Tècnica Vehicles Complemento de destino,,,,152628.14
+,4320,12100,Ordenació turística Complemento de destino,,,,106586.62
+,4321,12100,Promoció Turística Complemento de destino,,,,110732.02
+,4410,12100,Transports. Complemento de destino,,,,104122.06
+,4530,12100,Carreteres Complemento de destino,,,,97020.14
+,4911,12100,Informàtica i Comunicacions. NNTT. Complemento de destino,,,,78849.12
+,9120,12100,Presidència i Organs de Govern Complemento de destino,,,,100939.72
+,9200,12100,Administració General Complemento de destino,,,,291286.66
+,9240,12100,Participació Transparència i Bon Govern Complemento de destino,,,,75630.24
+,9310,12100,Intervenció Complemento de destino,,,,91731.64
+,9340,12100,Tresoreria Complemento de destino,,,,52671.92
+,1360,12101,Servei de Prevenció i Extinció d´Incendis. Complemento específico,,,,770310.92
+,1510,12101,Política Territorial. Complemento específico,,,,399182.7
+,1700,12101,Medi Ambient. Complemento específico,,,,87452.54
+,2310,12101,Serveis Socials i Promoció Social. Complemento específico,,,,113017.66
+,2311,12101,Oficina de la Dona Complemento específico,,,,12596.08
+,2312,12101,Menors Complemento específico,,,,57308.86
+,2315,12101,Discapacitats. Complemento específico,,,,5425.56
+,3120,12101,Hospital Cas Serres Complemento específico,,,,55562.5
+,3230,12101,Educació. Complemento específico,,,,7492.24
+,3340,12101,Promoció Cultural Complemento específico,,,,105220.78
+,3360,12101,Protecció del Patrimoni Complemento específico,,,,82033.56
+,3370,12101,Joventut Complemento específico,,,,17424.54
+,3410,12101,Pla Promoció Esportiva Complemento específico,,,,66513.86
+,3420,12101,Instal.lacions esportives Complemento específico,,,,63393.4
+,4100,12101,"Administració Gral. d'agricultura, ramedaria i Pesca Complemento específico",,,,252228.48
+,4190,12101,Caça Complemento específico,,,,11547.06
+,4220,12101,Industria. Administració General. Complemento específico,,,,108391.64
+,4221,12101,ITV - Inspecció Tècnica Vehicles Complemento específico,,,,207129.86
+,4320,12101,Ordenació turística Complemento específico,,,,159523.98
+,4321,12101,Promoció Turística Complemento específico,,,,173670.14
+,4410,12101,Transports. Complemento específico,,,,163059.26
+,4530,12101,Carreteres Complemento específico,,,,177018.66
+,4911,12101,Informàtica i Comunicacions. NNTT. Complemento específico,,,,142702.28
+,9120,12101,Presidència i Organs de Govern Complemento específico,,,,159458.74
+,9200,12101,Administració General Complemento específico,,,,512462.86
+,9240,12101,Participació Transparència i Bon Govern Complemento específico,,,,93042.32
+,9310,12101,Intervenció Complemento específico,,,,223721.4
+,9340,12101,Tresoreria Complemento específico,,,,110382.16
+,1360,12103,Servei de Prevenció i Extinció d´Incendis. Otros complementos,,,,48483.76
+,1510,12103,Política Territorial. Otros complementos,,,,33390.24
+,1700,12103,Medi Ambient. Otros complementos,,,,9060
+,2310,12103,Serveis Socials i Promoció Social. Otros complementos,,,,11282.16
+,2311,12103,Oficina de la Dona Otros complementos,,,,1298.88
+,2312,12103,Menors Otros complementos,,,,7073.28
+,2315,12103,Discapacitats. Otros complementos,,,,699.36
+,3120,12103,Hospital Cas Serres Otros complementos,,,,7379.88
+,3230,12103,Educació. Otros complementos,,,,699.36
+,3340,12103,Promoció Cultural Otros complementos,,,,11835.12
+,3360,12103,Protecció del Patrimoni Otros complementos,,,,7881.36
+,3370,12103,Joventut Otros complementos,,,,1864.92
+,3410,12103,Pla Promoció Esportiva Otros complementos,,,,5228.4
+,3420,12103,Instal.lacions esportives Otros complementos,,,,5566.68
+,4100,12103,"Administració Gral. d'agricultura, ramedaria i Pesca Otros complementos",,,,21283.56
+,4190,12103,Caça Otros complementos,,,,1733.64
+,4220,12103,Industria. Administració General. Otros complementos,,,,8196.96
+,4221,12103,ITV - Inspecció Tècnica Vehicles Otros complementos,,,,22033.08
+,4320,12103,Ordenació turística Otros complementos,,,,16152.72
+,4321,12103,Promoció Turística Otros complementos,,,,16249.56
+,4410,12103,Transports. Otros complementos,,,,19964.76
+,4530,12103,Carreteres Otros complementos,,,,13526.04
+,4911,12103,Informàtica i Comunicacions. NNTT. Otros complementos,,,,12032.88
+,9120,12103,Presidència i Organs de Govern Otros complementos,,,,13523.64
+,9200,12103,Administració General Otros complementos,,,,39272.52
+,9240,12103,Participació Transparència i Bon Govern Otros complementos,,,,11566.92
+,9310,12103,Intervenció Otros complementos,,,,12108.96
+,9340,12103,Tresoreria Otros complementos,,,,6995.52
+,1360,12700,Servei de Prevenció i Extinció d´Incendis Contribuciones a planes y fondos de pensiones funcion,,,,4958.78
+,1510,12700,Política Territorial Contribuciones a planes y fondos de pensiones funcionaris,,,,3633.34
+,1700,12700,Medi Ambient Contribuciones a planes y fondos de pensiones funcionaris,,,,922.25
+,2310,12700,Serveis Socials i Promoció Social Contribuciones a planes y fondos de pensiones funcionaris,,,,1236.91
+,2311,12700,Oficina de la Dona Contribuciones a planes y fondos de pensiones funcionaris,,,,1089.85
+,2312,12700,Menors Contribuciones a planes y fondos de pensiones funcionaris,,,,4367.84
+,2313,12700,Drogodependencies Contribuciones a planes y fondos de pensiones funcionaris,,,,720.95
+,2314,12700,Inserció Socio-Laboral Contribuciones a planes y fondos de pensiones funcionaris,,,,438.85
+,2315,12700,Discapacitats Contribuciones a planes y fondos de pensiones funcionaris,,,,1627.06
+,3120,12700,Hospital Residencia Asistida Cas Serres Contribuciones a planes y fondos de pensiones funcionar,,,,13730.09
+,3230,12700,Educació Contribuciones a planes y fondos de pensiones funcionaris,,,,2670.53
+,3260,12700,Educació Vial Contribuciones a planes y fondos de pensiones funcionaris,,,,56.11
+,3340,12700,Promoció Cultural Contribuciones a planes y fondos de pensiones funcionaris,,,,1534.9
+,3360,12700,Patrimoni Contribuciones a planes y fondos de pensiones funcionaris,,,,482.08
+,3370,12700,Joventut Contribuciones a planes y fondos de pensiones funcionaris,,,,337.39
+,3371,12700,Campament Cala Jondal Contribuciones a planes y fondos de pensiones funcionaris,,,,249.55
+,3410,12700,Promoció Esportiva Contribuciones a planes y fondos de pensiones funcionaris,,,,486.47
+,3420,12700,Instal.lacions Esportives Contribuciones a planes y fondos de pensiones funcionaris,,,,2163.51
+,4100,12700,"Agricultura, Ramaderia i Pesca Contribuciones a planes y fondos de pensiones funcionaris",,,,2325.58
+,4120,12700,Finca d´Experimentació Agraria Contribuciones a planes y fondos de pensiones funcionaris,,,,193.22
+,4190,12700,Caça Contribuciones a planes y fondos de pensiones funcionaris,,,,132.13
+,4220,12700,Industria. Administració General. Contribuciones a planes y fondos de pensiones funcionaris,,,,931.68
+,4221,12700,ITV - Inspecció Tècnica Vehicles Contribuciones a planes y fondos de pensiones funcionaris,,,,3030.64
+,4320,12700,Ordenació Turística Contribuciones a planes y fondos de pensiones funcionaris,,,,1682.73
+,4321,12700,Promoció Turística Contribuciones a planes y fondos de pensiones funcionaris,,,,1624.69
+,4410,12700,Transports Contribuciones a planes y fondos de pensiones funcionaris,,,,1800.3
+,4530,12700,Carreteres Contribuciones a planes y fondos de pensiones funcionaris,,,,1733.52
+,4911,12700,Informàtica i Comunicacions. NNTT. Contribuciones a planes y fondos de pensiones funcionaris,,,,1187.99
+,9120,12700,Presidència i Organs de Govern Contribuciones a planes y fondos de pensiones funcionaris,,,,4735.61
+,9200,12700,Administració General Contribuciones a planes y fondos de pensiones funcionaris,,,,5235.93
+,9240,12700,Participació Transparència i Bon Govern Contribuciones a planes y fondos de pensiones,,,,1018.98
+,9310,12700,Intervenció Contribuciones a planes y fondos de pensiones funcionaris,,,,1557.37
+,9340,12700,Tresoreria Contribuciones a planes y fondos de pensiones funcionaris,,,,909.32
+,1510,13000,Política Territorial Retribucions persona laboral,,,,30592.94
+,1700,13000,Medi Ambient. Retribuciones básicas,,,,9542.8
+,2310,13000,Serveis Socials i Promoció Social. Retribuciones básicas,,,,110931.78
+,2311,13000,Oficina de la Dona. Retribuciones básicas,,,,84168.42
+,2312,13000,Menors Retribucions persona laboral,,,,193319.84
+,2313,13000,Drogodependencies. Retribuciones básicas,,,,71073.74
+,2314,13000,Inserció Socio-Laboral. Retribuciones básicas,,,,28743.76
+,2315,13000,Discapacitats. Retribuciones básicas,,,,222298.46
+,3120,13000,Hospital Cas Serres Retribucions persona laboral,,,,1093042.78
+,3230,13000,Educació. Retribuciones básicas,,,,302668.1
+,3260,13000,Educació Vial. Retribuciones básicas,,,,9542.8
+,3340,13000,Promoció Cultural Retribucions persona laboral,,,,10507.92
+,3370,13000,Pla Integral de Joventud Retribucions persona laboral,,,,21734.38
+,3371,13000,Campamento Cala Jondal Retribucions persona laboral,,,,27225.54
+,3420,13000,Instal.lacions esportives Retribucions persona laboral,,,,211574.54
+,4120,13000,Finca Experimentació Agraria Retribucions persona laboral,,,,30191.78
+,4221,13000,ITV - Inspecció Tècnica Vehicles Retribucions persona laboral,,,,82480.58
+,4530,13000,Carreteres Retribucions persona laboral,,,,66234.7
+,9120,13000,Presidència i Organs de Govern Retribucions persona laboral,,,,9342.04
+,9200,13000,Administració General Retribucions persona laboral,,,,10507.92
+,9340,13000,Tresoreria Retribucions persona laboral,,,,11306.94
+,1510,13002,Política Territorial Otras remuneraciones,,,,36939.42
+,1700,13002,Medi Ambient. Otras remuneraciones,,,,10767.42
+,2310,13002,Serveis Socials i Promoció Social. Otras remuneraciones,,,,186763.56
+,2311,13002,Oficina de la Dona. Otras remuneraciones,,,,116064.44
+,2312,13002,Menors Otras remuneraciones,,,,255934.54
+,2313,13002,Drogodependencies. Otras remuneraciones,,,,82790.9
+,2314,13002,Inserció Socio-Laboral. Otras remuneraciones,,,,43213.3
+,2315,13002,Discapacitats. Otras remuneraciones,,,,270987.44
+,3120,13002,Hospital Cas Serres Otras remuneraciones,,,,1317138.54
+,3230,13002,Educació. Otras remuneraciones,,,,350403.46
+,3260,13002,Educació Vial. Otras remuneraciones,,,,9588.2
+,3340,13002,Promoció Cultural Otras remuneraciones,,,,11593.46
+,3370,13002,Pla Integral de Joventud Otras remuneraciones,,,,21332.2
+,3371,13002,Campamento Cala Jondal Otras remuneraciones,,,,39236.78
+,3420,13002,Instal.lacions esportives Otras remuneraciones,,,,244485.74
+,4120,13002,Finca Experimentació Agraria Otras remuneraciones,,,,35936.56
+,4221,13002,ITV - Inspecció Tècnica Vehicles Otras remuneraciones,,,,98455.84
+,4530,13002,Carreteres Otras remuneraciones,,,,74932.94
+,9120,13002,Presidència i Organs de Govern Otras remuneraciones,,,,10767.42
+,9200,13002,Administració General Otras remuneraciones,,,,14996.58
+,9340,13002,Tresoreria Otras remuneraciones,,,,14996.58
+,1510,13100,Política Territorial Retribucions personal laboral temporal,,,,21904.6
+,2311,13100,Oficina de la Dona Retribucions personal laboral temporal,,,,194347.98
+,2312,13100,Menors Retribucions personal laboral temporal,,,,1157156.86
+,2313,13100,Drogodependencies Retribucions personal laboral temporal,,,,34258.49
+,2314,13100,Inserció Socio-Laboral Retribucions personal laboral temporal,,,,72497.62
+,2315,13100,Discapacitats. Retribuc.Personal Lab. Eventual,,,,42710.96
+,3120,13100,Hospital Cas Serres Retribucions personal laboral temporal,,,,2075929.87
+,3230,13100,Educació. Retribuc.Personal Lab. Eventual,,,,244782.05
+,3371,13100,Campamento Cala Jondal Retribucions personal laboral temporal,,,,28964.23
+,3420,13100,Instal.lacions Esportives Retribucions personal laboral temporal,,,,108242.48
+,4100,13100,"Agricultura, Ramaderia i Pesca Retribucions personal laboral temporal",,,,55916.92
+,4221,13100,ITV - Inspecció Tècnica Vehicles Retribucions personal laboral temporal,,,,25385.56
+,4530,13100,Carreteres Retribucions personal laboral temporal,,,,78858.82
+,1360,15001,Servei de Prevenció i Extinció d´Incendis. Productivitat funcionàris,,,,187860
+,1510,15001,Política Territorial. Productivitat funcionàris,,,,107092.56
+,1700,15001,Medi Ambient. Productivitat funcionàris,,,,34023.84
+,2310,15001,Serveis Socials i Promoció Social. Productivitat funcionàris,,,,46256.4
+,2311,15001,Oficina de la Dona Productivitat funcionaris,,,,3030
+,2312,15001,Menors Productivitat funcionàris,,,,22725
+,2315,15001,Discapacitats. Productivitat funcionàris,,,,3030
+,3120,15001,Hospital Cas Serres Productivitat funcionàris,,,,27270
+,3230,15001,Educació. Productivitat funcionàris,,,,3030
+,3340,15001,Promoció Cultural Productivitat funcionàris,,,,40533.24
+,3360,15001,Protecció del Patrimoni Productivitat funcionàris,,,,28564.68
+,3370,15001,Joventut Productivitat funcionàris,,,,4545
+,3410,15001,Pla Promoció Esportiva Productivitat funcionàris,,,,18180
+,3420,15001,Instal.lacions esportives Productivitat funcionàris,,,,26741.52
+,4100,15001,"Administració Gral. d'agricultura, ramedaria i Pesca Productivitat funcionàris",,,,79164
+,4190,15001,Caça Productivitat funcionàris,,,,6060
+,4220,15001,Industria. Administració General. Productivitat funcionàris,,,,29757.12
+,4221,15001,ITV - Inspecció Tècnica Vehicles Productivitat funcionaris,,,,88458.96
+,4320,15001,Ordenació turística Productivitat funcionàris,,,,73898.4
+,4321,15001,Promoció Turística Productivitat funcionàris,,,,51510
+,4410,15001,Transports. Productivitat funcionàris,,,,57106.8
+,4530,15001,Carreteres Productivitat funcionàris,,,,58856.4
+,4911,15001,Informàtica i Comunicacions. NNTT. Productivitat funcionaris,,,,33330
+,9120,15001,Presidència i Organs de Govern Productivitat funcionaris,,,,74988.36
+,9200,15001,Administració General Productivitat funcionàris,,,,177657.72
+,9240,15001,Participació Transparència i Bon Govern Productivitat funcionàris,,,,46965
+,9310,15001,Intervenció Productivitat funcionàris,,,,35240.52
+,9340,15001,Tresoreria Productivitat funcionàris,,,,24761.64
+,1510,15002,Política Territorial Productivitat laborals,,,,11445.84
+,1700,15002,Medi Ambient. Productivitat laborals,,,,4961.28
+,2310,15002,Serveis Socials i Promoció Social. Productivitat laborals,,,,27844.56
+,2311,15002,Oficina de la Dona. Productivitat laborals,,,,21210
+,2312,15002,Menors Productivitat laborals,,,,36360
+,2313,15002,Drogodependencies. Productivitat laborals,,,,22417.32
+,2314,15002,Inserció Socio-Laboral. Productivitat laborals,,,,6060
+,2315,15002,Discapacitats. Productivitat laborals,,,,48480
+,3120,15002,Hospital Cas Serres Productivitat laborals,,,,283882.68
+,3230,15002,Educació. Productivitat laborals,,,,72720
+,3260,15002,Educació Vial. Productivitat laborals,,,,3030
+,3340,15002,Promoció Cultural Productivitat laborals,,,,4797
+,3370,15002,Pla Integral de Joventud Productivitat laborals,,,,6060
+,3371,15002,Campamento Cala Jondal Productivitat laborals,,,,7575
+,3420,15002,Instal.lacions esportives Productivitat laborals,,,,60600
+,4120,15002,Finca Experimentació Agraria Productivitat laborals,,,,15476.16
+,4221,15002,ITV - Inspecció Tècnica Vehicles Productivitat laborals,,,,21210
+,4530,15002,Carreteres Productivitat laborals,,,,18180
+,9120,15002,Presidència i Organs de Govern Productivitat laborals,,,,3030
+,9200,15002,Administració General Productivitat laborals,,,,5332.8
+,9340,15002,Tresoreria Productivitat laborals,,,,3030
+,1510,15003,Política Territorial Productivitat personal laboral contractat,,,,4207.92
+,2311,15003,Oficina de la Dona Productivitat personal laboral contractat,,,,18180
+,2312,15003,Menors Productivitat personal laboral contractat,,,,118170
+,2313,15003,Drogodependencies Productivitat personal laboral contractat,,,,3282.5
+,2314,15003,Inserció Socio-Laboral Productivitat personal laboral contractat,,,,6060
+,2315,15003,Discapacitats. Productivitat personal laboral contractat,,,,3030
+,3120,15003,Hospital Cas Serres Productivitat personal laboral contractat,,,,242652.5
+,3230,15003,Educació. Productivitat personal laboral contractat,,,,30300
+,3371,15003,Campamento Cala Jondal Productivitat personal laboral contractat,,,,4040
+,3420,15003,Instal.lacions Esportives Productivitat personal laboral contractat,,,,13130
+,4100,15003,"Agricultura, Ramaderia i Pesca Productivitat personal laboral contractat",,,,6060
+,4221,15003,ITV - Inspecció Tècnica Vehicles Productivitat personal laboral contractat,,,,3030
+,4530,15003,Carreteres Productivitat personal laboral contractat,,,,10605
+,1360,15100,"Servei de Prevenció i Extinció d´Incendis. Ad,.General Gratificacions",,,,245733
+,1360,16000,Servei de Prevenció i Extinció d´Incendis. Seguridad Social,,,,834792.81
+,1510,16000,Política Territorial. Seguridad Social,,,,357453.99
+,1700,16000,Medi Ambient. Seguridad Social,,,,96009.25
+,2310,16000,Serveis Socials i Promoció Social. Seguridad Social,,,,203488.26
+,2311,16000,Oficina de la Dona. Seguridad Social,,,,148859.27
+,2312,16000,Menors Seguridad Social,,,,617101.81
+,2313,16000,Drogodependencies. Seguridad Social,,,,64618.8
+,2314,16000,Inserció Socio-Laboral. Seguridad Social,,,,47478.71
+,2315,16000,Discapacitats. Seguridad Social,,,,188245
+,3120,16000,Hospital Cas Serres Seguridad Social,,,,1648316.01
+,3230,16000,Educació. Seguridad Social,,,,317528.12
+,3260,16000,Educació Vial. Seguridad Social,,,,7423.94
+,3340,16000,Promoció Cultural Seguridad Social,,,,110543.48
+,3360,16000,Protecció del Patrimoni Seguridad Social,,,,74655.32
+,3370,16000,Pla Integral de Joventud Seguridad Social,,,,34358.37
+,3371,16000,Campamento Cala Jondal Seguridad Social,,,,33923.37
+,3410,16000,Pla Promoció Esportiva Seguridad Social,,,,56265.24
+,3420,16000,Instal.lacions esportives Seguridad Social,,,,261850.2
+,4100,16000,"Administració Gral. d'agricultura, ramedaria i Pesca Seguridad Social",,,,232192.36
+,4120,16000,Finca Experimentació Agraria Seguridad Social,,,,27337.5
+,4190,16000,Caça Seguridad Social,,,,14685.8
+,4220,16000,Industria. Administració General. Seguridad Social,,,,83490.53
+,4221,16000,ITV - Inspecció Tècnica Vehicles Seguridad Social,,,,303142.55
+,4320,16000,Ordenació turística Seguridad Social,,,,155331.27
+,4321,16000,Promoció Turística Seguridad Social,,,,165708.95
+,4410,16000,Transports. Seguridad Social,,,,144191.37
+,4530,16000,Carreteres Seguridad Social,,,,212627.73
+,4911,16000,Informàtica i Comunicacions. NNTT. Seguridad Social,,,,115445.19
+,9120,16000,Presidència i Organs de Govern Seguridad Social,,,,557629.27
+,9200,16000,Administració General Seguridad Social,,,,387462.93
+,9240,16000,Participació Transparència i Bon Govern Seguridad Social,,,,111850.69
+,9310,16000,Intervenció Seguridad Social,,,,117653.74
+,9340,16000,Tresoreria Seguridad Social,,,,74078.54
+,1360,16008,Servei de Prevenció i Extinció d´Incendis. Asistencia médico-farmacéutica,,,,6000
+,1510,16008,Política Territorial. Asistencia médico-farmacéutica,,,,2800
+,1700,16008,Medi Ambient. Asistencia médico-farmacéutica,,,,1600
+,2310,16008,Serveis Socials i Promoció Social. Asistencia médico-farmacéutica,,,,14000
+,3120,16008,Hospital Cas Serres Asistencia médico-farmacéutica,,,,22500
+,3230,16008,Educació. Asistencia médico-farmacéutica,,,,4500
+,3260,16008,Educació Vial. Asistencia médico-farmacéutica,,,,300
+,3340,16008,Promoció Cultural Asistencia médico-farmacéutica,,,,3900
+,3360,16008,Protecció del Patrimoni Asistencia médico-farmacéutica,,,,900
+,3371,16008,Campamento Cala Jondal Asistencia médico-farmacéutica,,,,1200
+,3410,16008,Pla Promoció Esportiva Asistencia médico-farmacéutica,,,,1200
+,3420,16008,Instal.lacions esportives Asistencia médico-farmacéutica,,,,4500
+,4100,16008,"Administració Gral. d'agricultura, ramedaria i Pesca Asistencia médico-farmacéutica",,,,3300
+,4120,16008,Finca Experimentació Agraria Asistencia médico-farmacéutica,,,,900
+,4220,16008,Industria. Administració General. Asistencia médico-farmacéutica,,,,1800
+,4221,16008,ITV - Inspecció Tècnica Vehicles Asistencia médico-farmacéutica,,,,4500
+,4320,16008,Ordenació turística Asistencia médico-farmacéutica,,,,3900
+,4321,16008,Promoció Turística Asistencia médico-farmacéutica,,,,1200
+,4410,16008,Transports. Asistencia médico-farmacéutica,,,,2800
+,4530,16008,Carreteres Asistencia médico-farmacéutica,,,,3600
+,9200,16008,Administració General Asistencia médico-farmacéutica,,,,16300
+,9310,16008,Intervenció Asistencia médico-farmacéutica,,,,1500
+,9340,16008,Tresoreria Asistencia médico-farmacéutica,,,,1800
+,9200,16200,Administració General Formación y perfeccionamiento del personal,,,,161000
+,9200,16204,Administració General Acción social,,,,315000
+,3420,20300,"Instal.lacions Esportives Arrendamientos maquinaria, instalaciones y utillaje",,,,3500
+,9200,20500,Administració General Arrendaments. Mobiliari i estris,,,,1000
+,3120,20600,Hospital Residencia Asistida Cas Serres arrendaments programes informàtics,,,,3000
+,2310,21200,Serveis Socials i Promoció Social Repar. Manteniment i conserv. edificis i altres,,,,60000
+,2311,21200,Oficina de la Dona Repar. Manteniment i conserv. edificis i altres,,,,10000
+,2312,21200,Menors Repar. Manteniment i conserv. edificis i altres,,,,17500
+,2315,21200,Discapacitats Repar. Manteniment i conserv. edificis i altres,,,,10000
+,3120,21200,Hospital Residencia Asistida Cas Serres Repar. Manteniment i conserv. edificis i altres,,,,100000
+,3230,21200,Educació Repar. Manteniment i conserv. edificis i altres,,,,18000
+,3360,21200,Patrimoni Repar. Manteniment i conserv. edificis i altres,,,,100000
+,3371,21200,Campament Cala Jondal Repar. Manteniment i conserv. edificis i altres,,,,5000
+,3420,21200,Instal.lacions esportives Repar. Manteniment i conserv. edificis i altres,,,,112455
+,4410,21200,Transports Repar. Manteniment i conserv. edificis i altres,,,,20000
+,9200,21200,Administració General Repar. Manteniment i conserv. edificis i altres,,,,80000
+,1360,21300,Servei de Prevenció i Extinció d´Incendis.Repar. Manteniment i conserv. Maquin. Instal. i util ...,,,,40000
+,2310,21300,Serveis Socials i Promoció Social Repar. Manteniment i conserv. Maquin. Instal. i utillatge,,,,20000
+,2311,21300,Oficina de la Dona Repar. Manteniment i conserv. Maquin. Instal. i utillatge,,,,8000
+,2313,21300,Drogodependencies Repar. Manteniment i conserv. Maquin. Instal. i utillatge,,,,5000
+,2315,21300,Discapacitats Repar. Manteniment i conserv. Maquin. Instal. i utillatge,,,,1500
+,3120,21300,Hospital Residencia Asistida Cas Serres Repar. Manteniment i conserv. Maquin. Instal. i utill ...,,,,95000
+,3370,21300,Joventut Repar. Manteniment i conserv. Maquin. Instal. i utillatge,,,,7500
+,3371,21300,Campament Cala Jondal Repar. Manteniment i conserv. Maquin. Instal. i utillatge,,,,1500
+,3420,21300,Instal.lacions Esportives.Repar. Manteniment i conserv. Maquin. Instal. i utillatge,,,,130000
+,4100,21300,"Administració Gral. d´agricultura, ramedaria i Pesca Repar. Manteniment i conserv. Maquin. Ins",,,,5000
+,4120,21300,Finca Experimentació Agraria Repar. Manteniment i conserv. Maquin. Instal. i utillatge,,,,22000
+,4530,21300,Carreteres Repar. Manteniment i conserv. Maquin. Instal. i utillatge,,,,65000
+,9200,21300,Administració General.Repar. Manteniment i conserv. Maquin. Instal. i utillatge,,,,35000
+,1360,21400,Servei de Prevenció i Extinció d´Incendis Reparac. Manten. i Conserv. Mat. Transport,,,,50000
+,2312,21400,Menors Reparac. Manten. i Conserv. Mat. Transport,,,,10000
+,2315,21400,Discapacitats Reparac. Manten. i Conserv. Mat. Transport,,,,3500
+,9200,21400,Administració General Reparac. Manten. i Conserv. Mat. Transport,,,,15606
+,2312,21500,Menors Repar. Manteniment i conserv. Mobilliari i béns,,,,5000
+,3371,21500,Campament Cala Jondal Repar. Manteniment i conserv. Mobilliari i béns,,,,500
+,4120,21500,Finca Experimentació Agraria Repar. Manteniment i conserv. Mobilliari i béns,,,,10000
+,9120,21500,Presidència i Organs de Govern Repar. Manteniment i conserv. Mobilliari i béns,,,,6000
+,2315,21600,Discapacitats Manteniment equisp informàtics,,,,5000
+,3371,21600,Campament Cala Jondal Manteniment equisp informàtics,,,,500
+,4911,21600,Informàtica i Comunicacions. NNTT..Manteniment equisp informàtics,,,,700000
+,9310,21600,Intervenció Manteniment equisp informàtics,,,,50000
+,2312,22000,Menors Ordinario no inventariable,,,,10000
+,2314,22000,Inserció Socio-Laboral Ordinario no inventariable,,,,1500
+,3120,22000,Hospital Residencia Asistida Cas Serres Ordinario no inventariable,,,,20000
+,3420,22000,Instal.lacions Esportives Ordinario no inventariable,,,,2500
+,9200,22000,Administració General Ordinario no inventariable,,,,20000
+,2310,22001,"Serveis Socials i Promoció Social Prensa, revistas, libros y otras publicaciones",,,,1500
+,2315,22001,"Discapacitats Prensa, revistas, libros y otras publicaciones",,,,500
+,3321,22001,"Bibliotecas públicas Cas Serres Prensa, revistas, libros y otras publicaciones",,,,8500
+,3420,22001,"Instal.lacions Esportives Prensa, revistas, libros y otras publicaciones",,,,3000
+,9120,22001,"Presidència i Organs de Govern Prensa, revistas, libros y otras publicaciones",,,,3000
+,9200,22001,"Administració General Prensa, revistas, libros y otras publicaciones",,,,25000
+,9340,22001,"Tresoreria Prensa, revistas, libros y otras publicaciones",,,,200
+,2315,22002,"Discapacitats Material, informático no inventariable",,,,500
+,9200,22002,"Administració General Material, informático no inventariable",,,,8000
+,9200,22100,Administració General.Energía eléctrica,,,,900191.03
+,1360,22101,Servei de Prevenció i Extinció d´Incendis Agua,,,,5000
+,3230,22101,Educació Agua,,,,5000
+,3371,22101,Campament Cala Jondal.Agua,,,,10000
+,9200,22101,Administració General.Agua,,,,260100
+,1360,22102,Servei de Prevenció i Extinció d´Incendis Gas,,,,2000
+,3120,22102,Hospital Residencia Asistida Cas Serres Gas,,,,10000
+,9200,22102,Administració General.Gas,,,,62424
+,2312,22103,Menors Combustibles y carburantes,,,,3000
+,9200,22103,Administració General.Combustibles y carburantes,,,,312120
+,1360,22104,Servei de Prevenció i Extinció d´Incendis. Vestuario,,,,70000
+,2312,22104,Menors Vestuario,,,,15000
+,2315,22104,Discapacitats Vestuario,,,,2000
+,3120,22104,Hospital Cas Serres Vestuario,,,,15000
+,3230,22104,Educació Vestuario,,,,1000
+,3410,22104,Promoció Esportiva Vestuario,,,,10000
+,3420,22104,Instal.lacions Esportives Vestuario,,,,8500
+,4100,22104,"Agricultura, Ramaderia i Pesca Vestuario",,,,500
+,9200,22104,Administració General Vestuario,,,,5000
+,2310,22105,Serveis Socials i Promoció Social Productos alimenticios,,,,500
+,2311,22105,Oficina de la Dona. Productos alimenticios,,,,15000
+,2312,22105,Menors.Productos alimenticios,,,,55000
+,2315,22105,Discapacitats Productos alimenticios,,,,2000
+,3120,22105,Hospital Residencia Asistida Cas Serres.Productos alimenticios,,,,289718.32
+,3230,22105,Educació.Productos alimenticios,,,,71890.57
+,3371,22105,Campament Cala Jondal.Productos alimenticios,,,,50000
+,4100,22105,"Agricultura, Ramaderia i Pesca Productos alimenticios",,,,1000
+,2311,22106,Oficina de la Dona. Productos farmacéuticos y material sanitario,,,,2000
+,2312,22106,Menors Productos farmacéuticos y material sanitario,,,,3500
+,2313,22106,Drogodependencies. Productos farmacéuticos y material sanitario,,,,25000
+,2315,22106,Discapacitats. Productos farmacéuticos y material sanitario,,,,3000
+,3120,22106,Hospital Residencia Asistida Cas Serres.Productos farmacéuticos y material sanitario,,,,75000
+,3420,22106,Instal.lacions Esportives Productos farmacéuticos y material sanitario,,,,10000
+,2311,22110,Oficina de la Dona Productos de limpieza y aseo,,,,3500
+,2312,22110,Menors Productos de limpieza y aseo,,,,4000
+,2315,22110,Discapacitats Productos de limpieza y aseo,,,,1000
+,3120,22110,Hospital Residencia Asistida Cas Serres.Productos de limpieza y aseo,,,,60000
+,3230,22110,Educació Productos de limpieza y aseo,,,,5000
+,3371,22110,Campament Cala Jondal Productos de limpieza y aseo,,,,500
+,3120,22112,"Hospital Residencia Asistida Cas Serres Suministros de material electrónico, eléctrico y de tel ...",,,,4000
+,9200,22112,"Administració General Suministros de material electrónico, eléctrico y de telecomunicaciones",,,,15000
+,1360,22199,Servei de Prevenció i Extinció d´Incendis Otros suministros,,,,25000
+,2310,22199,Serveis Socials i Promoció Social Otros suministros,,,,2000
+,2312,22199,Menors Otros suministros,,,,10000
+,2313,22199,Drogodependencies Otros suministros,,,,25000
+,2314,22199,Inserció Socio-Laboral Otros suministros,,,,4000
+,2315,22199,Discapacitats Otros suministros,,,,2500
+,3120,22199,Hospital Residencia Asistida Cas Serres.Otros suministros,,,,100000
+,3420,22199,Instal.lacions Esportives.Otros suministros,,,,30000
+,2311,22200,Oficina de la Dona Servicios de Telecomunicaciones,,,,400
+,3360,22200,Patrimoni Servicios de Telecomunicaciones,,,,1500
+,9200,22200,Administració General.Servicios de Telecomunicaciones,,,,37142.28
+,1360,22300,Servei de Prevenció i Extinció d´Incendis. Parque móvil,,,,254052
+,2310,22300,Serveis Socials i Promoció Social Transports,,,,1500
+,2311,22300,Oficina de la Dona Transports,,,,2000
+,2312,22300,Menors Transports,,,,10000
+,3120,22300,Hospital Cas Serres Transports,,,,25000
+,3370,22300,Joventut Transports,,,,9000
+,2315,22400,Discapacitats De edificios y locales,,,,3000
+,9200,22400,Administració General.Assegurances,,,,160000
+,9340,22500,Tresoreria Tributos estatales,,,,40000
+,2310,22502,Serveis Socials i Promoció Social Tributos de las Entidades locales,,,,500
+,2315,22502,Discapacitats Tributos de las Entidades locales,,,,1000
+,9200,22502,Administració General Tributos de las Entidades Locales,,,,424483.2
+,2310,22601,Serveis Socials i Promoció Social Atenciones protocolarias y representativas,,,,4000
+,3370,22601,Joventut Atenciones protocolarias y representativas,,,,1500
+,3410,22601,Promoció Esportiva Atenciones protocolarias y representativas,,,,1000
+,9120,22601,Presidència i Organs de Govern Atenciones protocolarias y representativas,,,,230000
+,1510,22602,Política Territorial. Publicidad y propaganda,,,,10000
+,2310,22602,Serveis Socials i Promoció Social Publicidad y propaganda,,,,5000
+,3370,22602,Joventut Publicidad y propaganda,,,,4000
+,3410,22602,Pla Promoció Esportiva Publicidad y propaganda,,,,10000
+,4100,22602,"Administració Gral. d´agricultura, ramedaria i Pesca Publicidad y propaganda",,,,2000
+,4220,22602,Industria. Administració General. Publicidad y propaganda,,,,20000
+,4410,22602,Transports Publicidad y propaganda,,,,15000
+,9120,22602,Presidència i Organs de Govern.Publicidad y propaganda,,,,496267.1
+,9200,22602,Administració General Publicidad y propaganda,,,,3000
+,2310,22604,"Serveis Socials i Promoció Social Jurídicos, contenciosos",,,,2000
+,9200,22604,"Administració General Jurídicos, contenciosos",,,,100000
+,2310,22606,"Serveis Socials i Promoció Social Reuniones, conferencias y cursos",,,,5000
+,2312,22606,"Menors Reuniones, conferencias y cursos",,,,35000
+,2315,22606,"Discapacitats Reuniones, conferencias y cursos",,,,2000
+,3321,22606,"Bibliotecas públicas Cas Serres Reuniones, conferencias y cursos",,,,3000
+,3420,22606,"Instal.lacions Esportives Reuniones, conferencias y cursos",,,,2000
+,4100,22606,"Agricultura, Ramaderia i Pesca Reuniones, conferencias y cursos",,,,3000
+,4221,22606,"ITV - Inspecció Tècnica Vehicles Reuniones, conferencias y cursos",,,,25000
+,9120,22606,"Presidència i Organs de Govern Reuniones, conferencias y cursos",,,,15000
+,9200,22606,"Administració General Reuniones, conferencias y cursos",,,,120000
+,9340,22606,"Tresoreria Reuniones, conferencias y cursos",,,,1500
+,3410,22609,Pla Promoció Esportiva Actividades culturales y deportivas,,,,10000
+,1360,22699,Servei de Prevenció i Extinció d´Incendis Otros gastos diversos,,,,28546
+,1510,22699,Política Territorial. Otros gastos diversos,,,,9200
+,1700,22699,Medi Ambient Otros gastos diversos,,,,82000
+,2310,22699,Serveis Socials i Promoció Social.Otros gastos diversos,,,,30000
+,2311,22699,Oficina de la Dona. Otros gastos diversos,,,,10000
+,2312,22699,Menors.Otros gastos diversos,,,,20000
+,2315,22699,Discapacitats Otros gastos diversos,,,,1500
+,3120,22699,Hospital Cas Serres Otros gastos diversos,,,,30000
+,3230,22699,Educació Otros gastos diversos,,,,15000
+,3321,22699,Bibliotecas públicas Cas Serres. Otros gastos diversos,,,,8000
+,3330,22699,Equipaments culturals Cas Serres.Otros gastos diversos,,,,66500
+,3360,22699,Protecció del Patrimoni Otros gastos diversos,,,,90000
+,3370,22699,Pla Integral de Joventud Otros gastos diversos,,,,95000
+,3371,22699,Campamento Cala Jondal Otros gastos diversos,,,,5000
+,3410,22699,Pla Promoció Esportiva Otros gastos diversos,,,,20000
+,3420,22699,Instal.lacions esportives Otros gastos diversos,,,,70000
+,4100,22699,"Administració Gral. d´agricultura, ramedaria i Pesca Otros gastos diversos",,,,105000
+,4120,22699,Finca Experimentació Agraria Otros gastos diversos,,,,58000
+,4190,22699,Caça Otros gastos diversos,,,,27000
+,4220,22699,Industria. Administració General. Otros gastos diversos,,,,290000
+,4221,22699,ITV - Inspecció Tècnica Vehicles Otros gastos diversos,,,,230000
+,4320,22699,Ordenació Turística Otros gastos diversos,,,,20000
+,4410,22699,Transports Otros gastos diversos,,,,360000
+,9120,22699,Presidència i Organs de Govern Otros gastos diversos,,,,121647.56
+,9200,22699,Administració General Otros gastos diversos,,,,150144.74
+,9240,22699,Participació Transparència i Bon Govern Otros gastos diversos,,,,230000
+,9310,22699,Intervenció Otros gastos diversos,,,,10000
+,9420,22699,Cooperació Economica.Otros gastos diversos,,,,250000
+,2310,22700,Serveis Socials i Promoció Social.Limpieza y Aseo,,,,288207.48
+,2311,22700,Oficina de la Dona.Limpieza y Aseo,,,,7176
+,2312,22700,Menors.Limpieza y Aseo,,,,126776
+,3120,22700,Hospital Residencia Asistida Cas Serres.Limpieza y Aseo,,,,545219.69
+,3230,22700,Educació Limpieza y Aseo,,,,60000
+,3371,22700,Campamento Cala Jondal Limpieza y Aseo,,,,25000
+,3420,22700,Instal.lacions Esportives.Limpieza y Aseo,,,,60000
+,9200,22700,Administració General.Limpieza y Aseo,,,,717401.61
+,2310,22701,Serveis Socials i Promoció Social.Seguridad,,,,85356.07
+,2312,22701,Menors.Seguridad,,,,149703.53
+,3120,22701,Hospital Residencia Asistida Cas Serres.Seguridad,,,,54686.22
+,3230,22701,Educació Seguridad,,,,1500
+,3330,22701,Equipaments culturals Cas Serres.Seguridad,,,,105954.55
+,3371,22701,Campament Cala Jondal.Seguridad,,,,31792.99
+,3420,22701,Instal.lacions Esportives.Seguridad,,,,65851.32
+,4221,22701,ITV - Inspecció Tècnica Vehicles.Seguridad,,,,76287.28
+,4321,22701,Promoció Turística.Seguridad,,,,30761
+,9120,22701,Presidència i Organs de Govern.Seguridad,,,,1300
+,9200,22701,Administració General.Seguridad,,,,199604.7
+,1700,22706,Medi Ambient. Estudios y trabajos técnicos,,,,40000
+,2312,22706,Menors Estudios y trabajos técnicos,,,,5000
+,4100,22706,"Administració Gral. d´agricultura, ramedaria i Pesca Estudios y trabajos técnicos",,,,105000
+,4220,22706,Industria. Administració General. Estudios y trabajos técnicos,,,,150000
+,9120,22706,Presidència i Organs de Govern Estudios y trabajos técnicos,,,,53000
+,9200,22706,Administració General Estudios y trabajos técnicos,,,,45631.94
+,1360,22799.00,Servei de Prevenció i Extinció d´Incendis.Otros trabajos realizados por otras empresas y profes ...,,,,18000
+,1510,22799.00,Política Territorial.Otros trabajos realizados por otras empresas y profesionales,,,,40000
+,1510,22799.03,Política Territorial.Actuacions lluita contra l'intrusisme,,,,100000
+,1700,22799.00,Medi Ambient.Otros trabajos realizados por otras empresas y profesionales,,,,355000
+,2310,22799.00,Serveis Socials i Promoció Social.Otros trabajos realizados por otras empresas y profesionales,,,,150000
+,2311,22799.00,Oficina de la Dona.Otros trabajos realizados por otras empresas y profesionales,,,,50000
+,2312,22799.00,Menors.Otros trabajos realizados por otras empresas y profesionales,,,,1950000
+,2314,22799.00,Inserció Socio-Laboral.Otros trabajos realizados por otras empresas y profesionales,,,,433806.97
+,2315,22799.00,Discapacitats.Otros trabajos realizados por otras empresas y profesionales,,,,910000
+,2315,22799.01,Discapacitats.Conciertos Sociales,,,,1850000
+,3120,22799.00,Hospital Residencia Asistida Cas Serres.Otros trabajos realizados por otras empresas y profesi ...,,,,100000
+,3260,22799.00,Educació Vial.Otros trabajos realizados por otras empresas y profesionales,,,,45000
+,3340,22799.00,Promoció Cultural.Otros trabajos realizados por otras empresas y profesionales,,,,1000000
+,3360,22799.00,Patrimoni.Otros trabajos realizados por otras empresas y profesionales,,,,167000
+,3370,22799.00,Joventut.Otros trabajos realizados por otras empresas y profesionales,,,,450000
+,3371,22799.00,Campament Cala Jondal.Otros trabajos realizados por otras empresas y profesionales,,,,50000
+,3410,22799.00,Promoció Esportiva.Otros trabajos realizados por otras empresas y profesionales,,,,400000
+,3420,22799.00,Instal.lacions Esportives.Otros trabajos realizados por otras empresas y profesionales,,,,100000
+,4100,22799.00,"Agricultura, Ramaderia i Pesca.Otros trabajos realizados por otras empresas y profesionales",,,,100000
+,4120,22799.00,Finca d´Experimentació Agraria.Otros trabajos realizados por otras empresas y profesionales,,,,35000
+,4220,22799.00,Industria. Administració General.Otros trabajos realizados por otras empresas y profesionales,,,,170000
+,4221,22799.02,ITV - Inspecció Tècnica Vehicles.Redacción proyecto nueva ITV,,,,50000
+,4321,22799.00,Promoció Turística.Otros trabajos realizados por otras empresas y profesionales,,,,1494512.94
+,4410,22799.00,Transports.Otros trabajos realizados por otras empresas y profesionales,,,,100000
+,4530,22799.00,Carreteres.Otros trabajos realizados por otras empresas y profesionales,,,,700000
+,9120,22799.00,Presidència i Organs de Govern.Otros trabajos realizados por otras empresas y profesionales,,,,81300
+,9200,22799.00,Administració General.Otros trabajos realizados por otras empresas y profesionales,,,,200000
+,9310,22799.00,Intervenció.Otros trabajos realizados por otras empresas y profesionales,,,,25000
+,9340,22799.00,Tresoreria.Otros trabajos realizados por otras empresas y profesionales,,,,3000
+,2312,23000,Menors De los miembros de los órganos de gobierno,,,,4500
+,9120,23000,Presidència i Organs de Govern Dietas. De los miembros de los órganos de gobierno,,,,11000
+,9200,23010,Administració General Del personal directivo,,,,5000
+,4100,23020,"Agricultura, Ramaderia i Pesca Del personal no directivo",,,,1500
+,9200,23020,Administració General Del personal no directivo,,,,10000
+,2310,23100,Serveis Socials i Promoció Social De los miembros de los órganos de gobierno,,,,1500
+,9120,23100,Presidència i Organs de Govern Locomoción. De los miembros de los órganos de gobierno,,,,4000
+,4100,23120,"Agricultura, Ramaderia i Pesca Del personal no directivo",,,,2000
+,3120,23300,Hospital Residencia Asistida Cas Serres Altres indemnitzacions per raó de servei,,,,5000
+,3230,23300,Educació Altres indemnitzacions per raó de servei,,,,10000
+,3321,23300,Bibliotecas públicas Cas Serres Altres indemnitzacions per raó de servei,,,,400
+,4100,23300,"Agricultura, Ramaderia i Pesca Altres indemnitzacions per raó de servei",,,,500
+,9200,23300,Administració General Altres indemnitzacions per raó de servei,,,,5000
+,9340,23300,Tresoreria Altres indemnitzacions per raó de servei,,,,1000
+,9200,35200,Administració General Intereses de demora,,,,20000
+,9340,35900,Tresoreria Otros gastos financieros,,,,12000
+,4321,41001,Promoció Turística Transferència corrent al Patronat Escola de Turisme,,,,530000
+,3230,42111,Educació UNED DE LES ILLES BALEARS,,,,147637.72
+,4220,44911,Industria. Administració General. Transferència corrent . FECOEF SAU,,,,695000
+,4321,44911,Promoció Turística.Transferència corrent . FECOEF SAU,,,,2375000
+,4100,45101,"Agricultura, Ramaderia i Pesca Transf.Orgn.Aut.Administr.Centre Integrat FP Can Marines",,,,20000
+,3230,45102,Educació UNIVERSITAT DE LES ILLES BALEARS,,,,17000
+,3340,45103,Promoció Cultural INSTITUT D'ESTUDIS BALEÀRICS,,,,50000
+,1700,46200,Medi Ambient Transferències corrents a Ajuntaments,,,,200000
+,2310,46200,Serveis Socials i Promoció Social.Transferències corrents a Ajuntaments,,,,2137728.16
+,3370,46200,Joventut Transferències corrents a Ajuntaments,,,,150000
+,3410,46200,Promoció Esportiva Transferències corrents a Ajuntaments,,,,125000
+,4321,46200,Promoció Turística Transferències corrents a Ajuntaments,,,,125000
+,4220,46202,Industria. Administració General. Transferències Ajuntament d'Eivissa,,,,30000
+,3340,46203,Promoció Cultural Patronat municipal de música d'Eivissa,,,,30000
+,4220,46204,Industria. Administració General.Transferències Ajuntaments Dinamització Comerç,,,,150000
+,4220,46205,"Industria. Administració General.Transferènies Ajuntaments, Fires i Actuacions Prom. Artesan ...",,,,100000
+,4220,46206,Industria. Administració General. Transferències Ajuntament de Santa Eulària des Riu,,,,10000
+,4100,46302,"Agricultura, Ramaderia i Pesca Transferencies corrents a la Mancomunitat Intermunicipal Servei",,,,18000
+,9200,46600,Administració General Transf. corrents a entitats que agrupen municipis,,,,21000
+,9430,46712,Transf. a otras Entidades Locales Consorci de Mobilitat.Transferència Corrent.,,,,4000
+,4220,47000,Industria. Administració General. Transferències a empreses privades,,,,150000
+,4410,47000,Transports. Transferències a empreses privades,,,,3100000
+,4100,47900,"Agricultura, Ramaderia i Pesca Otras subvenciones a empresas privadas",,,,540000
+,3230,48100,Educació. Prem. beques i pensions d´estudis i investigació,,,,600000
+,3410,48100,Promoció Esportiva Prem. beques i pensions d'estudis i investigació,,,,100000
+,4100,48100,"Administració Gral. d´agricultura, ramedaria i Pesca Prem. beques i pensions d´estudis i investi ...",,,,12000
+,4220,48100,Industria. Administració General. Prem. beques i pensions d'estudis i investigació,,,,7500
+,4321,48100,Promoció Turística Prem. beques i pensions d'estudis i investigació,,,,10000
+,1510,48900.02,Política Territorial.Actuacions de foment de la lluita contra l'intrusisme,,,,50000
+,1700,48900.00,Medi Ambient.Transferències corrents a fam. i instit. sense fi de lucre,,,,30000
+,2310,48900.00,Serveis Socials i Promoció Social.Transferències corrents a fam. i instit. sense fi de lucre,,,,1020000
+,2312,48900.00,Menors.Transferències corrents a fam. i instit. sense fi de lucre,,,,450000
+,2314,48900.00,Inserció Socio-Laboral.Transferències corrents a fam. i instit. sense fi de lucre,,,,35000
+,2315,48900.00,Discapacitats.Transferències corrents a fam. i instit. sense fi de lucre,,,,140000
+,3321,48900.00,Bibliotecas públicas Cas Serres.Transferències corrents a fam. i instit. sense fi de lucre,,,,100000
+,3340,48900.00,Promoció Cultural.Transferències corrents a fam. i instit. sense fi de lucre,,,,175000
+,3360,48900.00,Patrimoni.Transferències corrents a fam. i instit. sense fi de lucre,,,,60000
+,3370,48900.00,Joventut.Transferències corrents a fam. i instit. sense fi de lucre,,,,165000
+,3410,48900.00,Promoció Esportiva.Transferències corrents a fam. i instit. sense fi de lucre,,,,695000
+,4100,48900.00,"Agricultura, Ramaderia i Pesca.Transferències corrents a fam. i instit. sense fi de lucre",,,,460000
+,4100,48900.01,"Agricultura, Ramaderia i Pesca Foment del producte local",,,,25000
+,4190,48900.00,Caça.Transferències corrents a fam. i instit. sense fi de lucre,,,,35000
+,9120,48900.00,Presidència i Organs de Govern.Transferències corrents a fam. i instit. sense fi de lucre,,,,100000
+,9240,48900.00,Participació Transparència i Bon Govern.Transferències corrents a fam. i instit. sense fi de lu ...,,,,120000
+,2310,48901.01,Serveis Socials i Promoció Social.Creu Roja,,,,33000
+,3340,48901.06,Promoció Cultural.Asociación cinematográfica de Ibiza (IBICINE) G16582207,,,,15000
+,3340,48901.07,Promoció Cultural.Asociación de artistas y empresas audiovisuales (IBIZA LIGHT FESTIVAL ...,,,,35000
+,3340,48901.08,Promoció Cultural.Asociación Ibiza Cinefest G16549859,,,,15000
+,4100,48901.03,"Agricultura, Ramaderia i Pesca.UCABAL (Unió Cooperatives Agrarias Balears)",,,,15000
+,4321,48901.04,Promoció Turística Asociación Ibiza LGTB,,,,15000
+,4321,48901.05,Promoció Turística Asociación de viviendas turísticas vacacionales,,,,15000
+,2314,48902,Inserció Socio-Laboral. Renda mínima Insersió,,,,450000
+,2310,48905,Serveis Socials i Promoció Social Aportació Grup LEADER,,,,25000
+,4100,48905,"Administració Gral. d'agricultura, ramedaria i Pesca Aportació Grup LEADER",,,,90000
+,1700,48911,Medi Ambient.Asociacio Aliança Mar Blava,,,,15000
+,1700,48912,Medi Ambient.Mancomunitat Intermunicipal Serv. Insulars,,,,60000
+,3360,48913,Patrimoni. Bisbat d'Eivissa,,,,80000
+,4321,48914,Promoció Turística Fomento del Turismo de Ibiza y Formentera,,,,200000
+,2310,48915,Serveis Socials i Promoció Social Caritas Diocesana de Ibiza,,,,125000
+,2310,48916,Serveis Socials i Promoció Social Fons Pitiús de Cooperació,,,,150000
+,3340,48917,Promoció Cultural INSTITU D'ESTUDIS EIVISSENCS,,,,60000
+,3340,48918,Promoció Cultural Federació de Colles de Ball i Cultura popular d'Eivissa i Formentera,,,,30000
+,3360,48921,Patrimoni Fundació Illes Balears,,,,65000
+,4190,48922,Caça Associació de criadors des Ca Eivissenc,,,,15000
+,4190,48923,Caça Federació Balear de Caça,,,,44000
+,4100,48924,"Agricultura, Ramaderia i Pesca Agrupació de defensa sanitària de ramat oví d'Eivissa",,,,47000
+,4100,48926,"Agricultura, Ramaderia i Pesca Federació Pitiüsa de Races Autòctones",,,,30000
+,4100,48927,"Agricultura, Ramaderia i Pesca Cofraria de Pescadors d'Eivissa",,,,17000
+,4100,48928,"Agricultura, Ramaderia i Pesca Cofraria de Pescadors de Sant Antoni",,,,17000
+,3410,48929,Promoció Esportiva Federació Balear d'Atletisme,,,,24000
+,3410,48930,Promoció Esportiva Federació Balear de Bàdminton,,,,3000
+,3410,48931,Promoció Esportiva Federació Balear de Bàsquet,,,,50000
+,3410,48932,Promoció Esportiva Federació Balear de Ciclisme,,,,3500
+,3410,48933,Promoció Esportiva Federació Balear d'Escacs,,,,1200
+,3410,48934,Promoció Esportiva Federació Balear de Futbol,,,,68000
+,3410,48935,Promoció Esportiva Federació Balear de Gimnàstica,,,,5500
+,3410,48936,Promoció Esportiva Federació Balear d'Handbol,,,,19000
+,3410,48937,Promoció Esportiva Federació Balear de Judo,,,,12200
+,3410,48938,Promoció Esportiva Federació Balear de Kàrate,,,,10000
+,3410,48939,Promoció Esportiva Federació Balear de kickboxing,,,,3200
+,3410,48940,Promoció Esportiva Federació Balear de Lluita,,,,2500
+,3410,48941,Promoció Esportiva Federació Balear de Natació,,,,7000
+,3410,48943,Promoció Esportiva Federació Balear de Piragüisme,,,,4000
+,3410,48944,Promoció Esportiva Federació Balear de Rugbi,,,,3000
+,3410,48945,Promoció Esportiva Federació Balear de Taekwondo,,,,3100
+,3410,48946,Promoció Esportiva Federació Balear de Tennis,,,,3000
+,3410,48947,Promoció Esportiva Federació Balear de Tennis Taula,,,,3200
+,3410,48948,Promoció Esportiva Federació Balear de Tir amb Arc,,,,7500
+,3410,48950,Promoció Esportiva Federació Balear de Tir amb Bassetja,,,,2250
+,3410,48952,Promoció Esportiva Federació Balear de Vela,,,,4000
+,3410,48953,Promoció Esportiva Federació Balear de Voleibol,,,,2500
+,3410,48955,Promoció Esportiva Federació Balear d'Hípica,,,,8000
+,3410,48956,Promoció Esportiva Federació Balear de Motociclisme,,,,18000
+,3410,48957,Promoció Esportiva.Federació Balear de Golf,,,,12000
+,3410,48958,Promoció Esportiva.Federació Balear d´Esport,,,,12000
+,2315,48961,Discapacitats.SAIL PD (Persones amb Discapacitat),,,,24000
+,2315,48962,Discapacitats.Escola d´Estiu,,,,30000
+,9290,50000,"Fons de Contingencia.Fondo de Contingencia. Art. 31 Ley 2/2012, de Estab. Presup. y Sost. Fin",,,,978572.92
+,4410,61000,Transports Altres inversions,,,,5000
+,4221,62100.00,ITV - Inspecció Tècnica Vehicles.Terrenos y bienes naturales,,,,10000
+,9120,62100.01,Presidència i Organs de Govern.Acondicionamiento Parking Sa Joveria,,,,10
+,2311,62200,Oficina de la Dona Industrials,,,,45000
+,4120,62200,Finca d´Experimentació Agraria Industrials,,,,30000
+,3340,62201,Promoció Cultural Administrativos,,,,10000
+,1360,62203.00,Servei de Prevenció i Extinció d´Incendis.Otras Construcciones,,,,60000
+,1360,62203.02,Servei de Prevenció i Extinció d´Incendis.Nou Parc Insular de Bombers. ITS,,,,10
+,2310,62203.00,Serveis Socials i Promoció Social.Otras Construcciones,,,,25000
+,2310,62203.03,Serveis Socials i Promoció Social.Centre temporal de baixa exigència,,,,10
+,2312,62203.00,Menors.Otras Construcciones,,,,10
+,3230,62203.00,Educació.Otras Construcciones,,,,100000
+,3360,62203.00,Patrimoni.Otras Construcciones,,,,10000
+,3371,62203.00,Campament Cala Jondal.Otras Construcciones,,,,42500
+,3420,62203.00,Instal.lacions Esportives.Otras Construcciones,,,,200000
+,4221,62203.00,ITV - Inspecció Tècnica Vehicles.Otras Construcciones,,,,5000
+,9120,62203.00,Presidència i Organs de Govern.Otras Construcciones,,,,889050
+,9200,62203.00,Administració General.Otras Construcciones,,,,80000
+,1700,62300,Medi Ambient Maquinaria e Instalaciones,,,,25000
+,3120,62300,Hospital Residencia Asistida Cas Serres Maquinaria e Instalaciones,,,,200000
+,3371,62300,Campament Cala Jondal Maquinaria e Instalaciones,,,,3000
+,4100,62300,"Administració Gral. d'agricultura, ramedaria i Pesca Maquinaria",,,,30000
+,4120,62300,Finca Experimentació Agraria Maquinaria,,,,15000
+,4190,62300,Caça Maquinaria,,,,10000
+,4221,62300,ITV - Inspecció Tècnica Vehicles Maquinaria,,,,185000
+,1700,62301,Medi Ambient Instal.lacions,,,,15000
+,9200,62301,Administració General Instal.lacions,,,,40000
+,4100,62302,"Agricultura, Ramaderia i Pesca Elementos de transporte",,,,60000
+,3420,62303,Instal.lacions Esportives Útils i eines,,,,49726.52
+,1360,62400,Servei de Prevenció i Extinció d´Incendis Automóvil,,,,150000
+,2312,62400,Menors Automóvil,,,,30000
+,2315,62400,Discapacitats Automóvil,,,,15000
+,4410,62400,Transports Automóvil,,,,15000
+,9200,62400,Administració General Automóvil,,,,15000
+,2311,62500,Oficina de la Dona Inversió nova de mobiliari i béns,,,,25000
+,2314,62500,Inserció Socio-Laboral Inversió nova de mobiliari i béns,,,,1500
+,3120,62500,Hospital Residencia Asistida Cas Serres Inversió nova de mobiliari i béns,,,,150000
+,3230,62500,Educació Inversió nova de mobiliari i béns,,,,20000
+,3321,62500,Bibliotecas públicas Cas Serres Inversió nova de mobiliari i béns,,,,15500
+,3340,62500,Promoció Cultural Inversió nova de mobiliari i béns,,,,5000
+,3360,62500,Patrimoni Inversió nova de mobiliari i béns,,,,15000
+,3371,62500,Campament Cala Jondal Inversió nova de mobiliari i béns,,,,12000
+,3420,62500,Instal.lacions Esportives Inversió nova de mobiliari i béns,,,,2000
+,9200,62500,Administració General Inversió nova de mobiliari i béns,,,,20000
+,3340,62600,Promoció Cultural Inversió nova. Informática,,,,2000
+,3420,62600,Instal.lacions Esportives Inversió nova. Informática,,,,3000
+,4221,62600,ITV - Inspecció Tècnica Vehicles Inversió nova. Informática,,,,1000
+,3321,62900,Bibliotecas públicas Cas Serres Inversió associada al funcionament dels serveis,,,,22000
+,3330,62900,Equipaments culturals Cas Serres Inversió associada al funcionament dels serveis,,,,150000
+,4530,63101,Carreteres.Adaptación E-10,,,,0
+,1360,63200,Servei de Prevenció i Extinció d´Incendis. Industrials,,,,50000
+,3420,63200,Instal.lacions Esportives.Industrials,,,,667954.64
+,4120,63200,Finca Experimentació Agraria Industrials,,,,25000
+,9200,63201,Administració General Administrativos,,,,10000
+,2310,63203.00,Serveis Socials i Promoció Social.Otras Construcciones,,,,75000
+,2312,63203.00,Menors.Otras Construcciones,,,,170000
+,3120,63203.00,Hospital Residencia Asistida Cas Serres.Otras Construcciones,,,,30000
+,3360,63203.00,Patrimoni.Otras Construcciones,,,,628310
+,9120,63203.01,Presidència i Organs de Govern.Adequació pavelló 202 Emergències i forces de seguretat del mar,,,,10
+,1360,63300,Servei de Prevenció i Extinció d´Incendis Maquinaria,,,,30000
+,2315,63300,Discapacitats Maquinaria,,,,2000
+,4120,63300,Finca Experimentació Agraria Maquinaria,,,,15000
+,9200,63301,Administració General Instalaciones,,,,19990
+,2313,63500,Drogodependencies Mobiliario,,,,2000
+,2315,63500,Discapacitats Mobiliario,,,,4000
+,2315,63600,Equipos para procesos de información,,,,1500
+,4911,63601,Discapacitats Inversió reposició equips per processos d´informació,,,,325000
+,2315,63901,Discapacitats Otras inversiones de reposición asociadas al funcionamiento operativo de los servi,,,,1500
+,4410,63901,Transports Otras inversiones de reposición asociadas al funcionamiento operativo de los servicio,,,,43000
+,1700,64000,Medi Ambient Inversiones de caracter inmaterial,,,,20000
+,1510,64100,Política Territorial Gastos en aplicaciones informáticas,,,,5000
+,3360,65000.01,Patrimoni.Museo de la mar,,,,10
+,3360,68100.01,Patrimoni.Museització de Sa Caleta,,,,182710
+,3360,68900,Patrimoni Inversió en béns patrimonials,,,,50000
+,2310,76200.00,Serveis Socials i Promoció Social.Transferencies Cap. Ajuntaments,,,,1270000
+,4100,76200.01,"Agricultura, Ramaderia i Pesca.Transferències ajuntaments camins rurals",,,,400000
+,4911,76200.00,Informàtica i Comunicacions. NNTT.Transferencies Cap. Ajuntaments,,,,1323120.31
+,9420,76200.02,Cooperació Economica Pla 5. PIOS. Llei de capitalitat,,,,2500000
+,9120,76204,Presidència i Organs de Govern Ajuntament de Sant Josep,,,,224219.75
+,4100,76303,"Agricultura, Ramaderia i Pesca Transferencies de capital a la Mancomunitat Intermunicipal Serv",,,,15000
+,2310,76700,Serveis Socials i Promoció Social Transferència de capital a Consorcis,,,,200000
+,9430,76712,Transf. a otras Entidades Locales Consorci de Mobilitat. Transf. de Capital,,,,300000
+,3360,76714,Protecció del Patrimoni Consorci Patrimoni Humanitat. Transf. de Capital,,,,658855.56
+,4100,77000,"Administració Gral. d'agricultura, ramedaria i Pesca A empreses privades",,,,170000
+,4220,77000,Industria. Administració General. A empreses privades,,,,25000
+,2310,78900,Serveis Socials i Promoció Social Transferències de capital a famílies i instit. sense ànim de l ...,,,,80000
+,3321,78900,Bibliotecas públicas Cas Serres.Transferències de capital a famílies i instit. sense ànim de luc ...,,,,25000
+,3360,78900,Patrimoni.Transferències de capital a famílies i instit. sense ànim de lucre,,,,400000
+,4100,78900,"Agricultura, Ramaderia i Pesca Transferències de capital a famílies i instit. sense ànim de lucr ...",,,,50000
+,3360,78902,Patrimoni Transferencies de capital Bisbat d'Eivissa,,,,80000
+,3360,78903,Patrimoni Fundació Illes Balears,,,,20000
+,4190,78904,Caça Federció Balear de CaçA,,,,40000
+,3360,78911,Patrimoni Documents AHME,,,,5000
+,2210,83000,Prestacions econòmiques a favor del treballadors Prèstecs al personal,,,,250000
+,9200,94100,Administració General Fianzas a largo plazo,,,,200000
