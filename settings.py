@@ -134,6 +134,9 @@ FEATURED_PROGRAMMES = ['3370', '4530', '4321']
 # Overview Settings
 # ----------------------
 
+# Use new Sankey visualization or the old one. Default: False
+OVERVIEW_USE_NEW_VIS = True
+
 OVERVIEW_INCOME_NODES = [
                           {
                             'nodes': ['45', '75'],
